@@ -47,6 +47,7 @@ Mail - cheenu_vasan@yahoo.com
 - [Azure tenants with new users enabled for MFA](https://www.linkedin.com/feed/update/urn:li:activity:7018263115087691776?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018263115087691776%29)
 - [Simple VNET peering via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7016750382060097536?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7016750382060097536%29)
 - [Azure Resources Basic Details](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7020746869802762240-jRWV?utm_source=share&utm_medium=member_desktop)
+- [Azure Bastion Host](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030254118334058496-B-mL?utm_source=share&utm_medium=member_desktop)
 
 # Terraform
 - [Why 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 ?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
@@ -102,15 +103,16 @@ Mail - cheenu_vasan@yahoo.com
 # Others
 - [Cloud Services - AWS, Azure, GCP](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-services-list-aws-azure-gcp-activity-7022149955150626816-GPK1?utm_source=share&utm_medium=member_desktop)
 - [CDN (AWS / Azure)](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025116915316514816-BXON?utm_source=share&utm_medium=member_desktop)
-
-
+- [Top 10 Cloud Providers 2023](https://www.linkedin.com/feed/update/urn:li:activity:7029519288457666560/)
+- [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
+- [AWS reCap 2022 - Chennai meetup](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-linkedin-connections-activity-7027662384924155904-2N1E?utm_source=share&utm_medium=member_desktop)
 # My medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple Ansible Playbook](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
 - [Ansible Playbook, Roles and Handlers](https://medium.com/cloudnloud/deploying-simple-tasks-using-ansible-playbook-ansible-roles-and-handlers-6ba37597e2f7)
 
 - [Azure Services by Category (Full list)](https://medium.com/cloudnloud/azure-services-list-by-category-as-on-26-jan-2023-8809c0f65938)
-
+- [Terraform Best Practises](https://medium.com/cloudnloud/best-practices-for-using-the-terraform-iac-tool-a35c13a23119)
 
 ## 🤝🏻 Let's Keep in Touch
 
