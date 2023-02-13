@@ -40,13 +40,13 @@ Mail - cheenu_vasan@yahoo.com
 - [AWS EC2 creation via AMC portal](https://www.linkedin.com/feed/update/urn:li:activity:7018507963287945216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018507963287945216%29)
 - [AWS S3 bucket creation via AMC portal](https://www.linkedin.com/feed/update/urn:li:activity:7018507963287945216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018507963287945216%29)
 - [AWS Resources, Group, Ways to create](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021137560521383938-bV64?utm_source=share&utm_medium=member_desktop)
-- [Basic details of AWS resource](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021136795547418624-L-dx?utm_source=share&utm_medium=member_desktop)
+- [Basic details of AWS resource - AMI, Regions, EC2,S3](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021136795547418624-L-dx?utm_source=share&utm_medium=member_desktop)
 
 # Azure
 - [Standalone Azure VM via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
 - [Azure tenants with new users enabled for MFA](https://www.linkedin.com/feed/update/urn:li:activity:7018263115087691776?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018263115087691776%29)
 - [Simple VNET peering via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7016750382060097536?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7016750382060097536%29)
-- [Azure Resources Basic Details](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7020746869802762240-jRWV?utm_source=share&utm_medium=member_desktop)
+- [Azure Resources Basic Details in Azure VM](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7020746869802762240-jRWV?utm_source=share&utm_medium=member_desktop)
 - [Azure Bastion Host](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030254118334058496-B-mL?utm_source=share&utm_medium=member_desktop)
 
 # Terraform
@@ -82,7 +82,7 @@ Mail - cheenu_vasan@yahoo.com
 # Jenkins
 
 # Kubernetes
-- [What it is, History & avaialble modes](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025751753895673856-Z9aK?utm_source=share&utm_medium=member_desktop)
+- [What it is, History & avaialble variants](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025751753895673856-Z9aK?utm_source=share&utm_medium=member_desktop)
 
 # Cybersecurity (My New Domain)
 - [Understanding Cybersecurity concepts](https://www.linkedin.com/posts/srinivasanbaskaran_what-is-cyber-security-activity-7018989534071721984-9p4q?utm_source=share&utm_medium=member_desktop)
@@ -110,9 +110,9 @@ Mail - cheenu_vasan@yahoo.com
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple Ansible Playbook](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
 - [Ansible Playbook, Roles and Handlers](https://medium.com/cloudnloud/deploying-simple-tasks-using-ansible-playbook-ansible-roles-and-handlers-6ba37597e2f7)
-
 - [Azure Services by Category (Full list)](https://medium.com/cloudnloud/azure-services-list-by-category-as-on-26-jan-2023-8809c0f65938)
 - [Terraform Best Practises](https://medium.com/cloudnloud/best-practices-for-using-the-terraform-iac-tool-a35c13a23119)
+- [Deploying AWS S3 via Terraform](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030798910281453568-CUUz?utm_source=share&utm_medium=member_desktop)
 
 ## 🤝🏻 Let's Keep in Touch
 
