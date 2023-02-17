@@ -5,14 +5,14 @@ My nuclear family is in Chennai and my parents in Coimbatore.
 
 From the education perspective I am graduated in 𝑩𝒂𝒄𝒉𝒆𝒍𝒐𝒓 𝒐𝒇 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒊𝒏 𝑷𝒉𝒚𝒔𝒊𝒄𝒔 𝒘𝒊𝒕𝒉 𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒔𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑬𝒍𝒆𝒄𝒕𝒓𝒐𝒏𝒊𝒄𝒔, and 𝑴𝒂𝒔𝒕𝒆𝒓 𝒐𝒇 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 from Bharathiar University.
 
-Have overall of 15 𝒚𝒆𝒂𝒓𝒔 𝒂𝒔 𝒇𝒖𝒍𝒍 𝒕𝒊𝒎𝒆 𝑰𝑻 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒂𝒏𝒅 𝒂𝒍𝒎𝒐𝒔𝒕 4+ 𝒚𝒓𝒔 𝒂𝒔 𝒇𝒓𝒆𝒆𝒍𝒂𝒏𝒄𝒊𝒏𝒈 𝒊𝒏 𝑰𝑻 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 and my skill set is mostly around Microsoft stack and other niche skills.
+Have overall of 15 𝒚𝒆𝒂𝒓𝒔 𝒂𝒔 𝒇𝒖𝒍𝒍 𝒕𝒊𝒎𝒆 𝑰𝑻 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒂𝒏𝒅 𝒂𝒍𝒎𝒐𝒔𝒕 4+ 𝒚𝒓𝒔 𝒂𝒔 𝒇𝒓𝒆𝒆𝒍𝒂𝒏𝒄𝒊𝒏𝒈 𝒊𝒏 𝑰𝑻 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 and my skill set is mostly around Microsoft stack, Open Source and other niche skills.
 
 Looking for always new opportunity in IT industry until my dream job is reached either as a 𝐒𝐞𝐧𝐢𝐨𝐫 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭, 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐛𝐲 𝐫𝐨𝐥𝐞 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 development skill sets.
 
-- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/srinivasanbaskaran/)** 
+- Reach me offline in what's app https://wa.me/919176673034 , connect with me your name and purpose of reaching me for better communication.
 
 ## Connect with me  
-<a href="https://github.com/bsrinivasanCbe/myclouddevopsjourney" target="_blank">
+<a href="https://github.com/bsrinivasanCbe/bsrinivasancbe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/srinivasanbaskaran/" target="_blank">
@@ -32,7 +32,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 </a>
 
 
-Mail - cheenu_vasan@yahoo.com
+:mailbox: Mail - cheenu_vasan@yahoo.com
 
 # My Linkedin Journey
 
@@ -100,12 +100,15 @@ Mail - cheenu_vasan@yahoo.com
 
 # AGILE SCRUM
 
-# Others
+# Multi-Cloud
 - [Cloud Services - AWS, Azure, GCP](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-services-list-aws-azure-gcp-activity-7022149955150626816-GPK1?utm_source=share&utm_medium=member_desktop)
 - [CDN (AWS / Azure)](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025116915316514816-BXON?utm_source=share&utm_medium=member_desktop)
 - [Top 10 Cloud Providers 2023](https://www.linkedin.com/feed/update/urn:li:activity:7029519288457666560/)
+# Others
 - [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
 - [AWS reCap 2022 - Chennai meetup](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-linkedin-connections-activity-7027662384924155904-2N1E?utm_source=share&utm_medium=member_desktop)
+- [𝑯𝒆𝒂𝒍𝒕𝒉 𝐚𝐬 W𝐞𝐚𝐥𝐭𝐡 𝒂𝒏𝒅 𝑮𝒓𝒐𝒘𝒕𝒉](https://www.linkedin.com/posts/srinivasanbaskaran_wfm-health-carring-activity-7020780104968531968-zZOg?utm_source=share&utm_medium=member_desktop)
+- [ChatGPT - OpenAI - Intro](https://www.linkedin.com/posts/srinivasanbaskaran_httpslnkding2zzmcja-activity-7032410745493495808-8mdY?utm_source=share&utm_medium=member_desktop)
 # My medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple Ansible Playbook](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
@@ -113,6 +116,11 @@ Mail - cheenu_vasan@yahoo.com
 - [Azure Services by Category (Full list)](https://medium.com/cloudnloud/azure-services-list-by-category-as-on-26-jan-2023-8809c0f65938)
 - [Terraform Best Practises](https://medium.com/cloudnloud/best-practices-for-using-the-terraform-iac-tool-a35c13a23119)
 - [Deploying AWS S3 via Terraform](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030798910281453568-CUUz?utm_source=share&utm_medium=member_desktop)
+# My LinkedIn Article Journey
+- [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
+- [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐡𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 Part 2](https://www.linkedin.com/pulse/f-part-2-srinivasan-baskaran)
+- [𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐜𝐫𝐞𝐚𝐭𝐢𝐨𝐧 (𝐒𝐭𝐞𝐩 𝐛𝐲 𝐒𝐭𝐞𝐩) Part 3](https://lnkd.in/gpF5VTJP)
+- [𝐔𝐬𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐛𝐨𝐭, 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐭𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐬𝐜𝐫𝐢𝐩𝐭 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞 𝐟𝐨𝐫 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐀𝐖𝐒 𝐒𝟑 𝐛𝐮𝐜𝐤𝐞𝐭 Part 4](https://lnkd.in/ggPRTHtt)
 
 ## 🤝🏻 Let's Keep in Touch
 
