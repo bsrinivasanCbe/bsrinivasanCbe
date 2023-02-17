@@ -116,7 +116,8 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Ansible Playbook, Roles and Handlers](https://medium.com/cloudnloud/deploying-simple-tasks-using-ansible-playbook-ansible-roles-and-handlers-6ba37597e2f7)
 - [Azure Services by Category (Full list)](https://medium.com/cloudnloud/azure-services-list-by-category-as-on-26-jan-2023-8809c0f65938)
 - [Terraform Best Practises](https://medium.com/cloudnloud/best-practices-for-using-the-terraform-iac-tool-a35c13a23119)
-- [Deploying AWS S3 via Terraform](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030798910281453568-CUUz?utm_source=share&utm_medium=member_desktop)
+- [Deploying AWS S3 via Terraform IaC](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030798910281453568-CUUz?utm_source=share&utm_medium=member_desktop)
+- [Kubernetes cluster using Kubeadm in Ubuntu AWS EC2](https://medium.com/cloudnloud/kubernetes-cluster-using-kubeadm-in-ubuntu-aws-ec2-step-by-step-procedures-to-setup-7d176070eec1)
 # My LinkedIn Article Journey
 - [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐡𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 Part 2](https://www.linkedin.com/pulse/f-part-2-srinivasan-baskaran)
