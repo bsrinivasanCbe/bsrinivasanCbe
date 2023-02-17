@@ -9,7 +9,7 @@ Have overall of 15 𝒚𝒆𝒂𝒓𝒔 𝒂𝒔 𝒇𝒖𝒍𝒍 𝒕𝒊𝒎�
 
 Looking for always new opportunity in IT industry until my dream job is reached either as a 𝐒𝐞𝐧𝐢𝐨𝐫 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭, 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐛𝐲 𝐫𝐨𝐥𝐞 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 development skill sets.
 
-- Reach me offline in what's app http://bitly.ws/ApEP , connect with me your name and purpose of reaching me for better communication.
+- 𝑹𝒆𝒂𝒄𝒉 𝒎𝒆 𝒐𝒇𝒇𝒍𝒊𝒏𝒆 𝒊𝒏 𝑾𝒉𝒂𝒕'𝒔 𝒂𝒑𝒑 http://bitly.ws/ApEP , share your 𝘯𝘢𝘮𝘦 𝘢𝘯𝘥 𝘱𝘶𝘳𝘱𝘰𝘴𝘦 𝘰𝘧 𝘳𝘦𝘢𝘤𝘩𝘪𝘯𝘨 me for better communication.
 
 ## Connect with me  
 <a href="https://github.com/bsrinivasanCbe/bsrinivasancbe" target="_blank">
