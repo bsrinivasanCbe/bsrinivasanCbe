@@ -93,6 +93,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Fundamental History](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7021552452256632832-UGp3/?utm_source=share&utm_medium=member_desktop)
 - [Roles, Assessment, Threads type](https://www.linkedin.com/posts/srinivasanbaskaran_cybersecurity-roles-assessment-security-activity-7021725373130313728-Zpb5?utm_source=share&utm_medium=member_desktop)
 - [Why Cybersecurity is in action?](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7022549789359693825-Xgtu?utm_source=share&utm_medium=member_desktop)
+- [Basics of Ethical Hacking](https://www.linkedin.com/posts/srinivasanbaskaran_cloudnloud-technologies-youtube-activity-7033465600525959168-pj6c?utm_source=share&utm_medium=member_desktop)
 # .NET
 
 # SQL
