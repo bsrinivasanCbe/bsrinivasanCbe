@@ -7,7 +7,7 @@ From the education perspective I am graduated in 𝑩𝒂𝒄𝒉𝒆𝒍𝒐�
 
 Have overall of 15 𝒚𝒆𝒂𝒓𝒔 𝒂𝒔 𝒇𝒖𝒍𝒍 𝒕𝒊𝒎𝒆 𝑰𝑻 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒂𝒏𝒅 𝒂𝒍𝒎𝒐𝒔𝒕 4+ 𝒚𝒓𝒔 𝒂𝒔 𝒇𝒓𝒆𝒆𝒍𝒂𝒏𝒄𝒊𝒏𝒈 𝒊𝒏 𝑰𝑻 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 and my skill set is mostly around Microsoft stack, Open Source and other niche skills.
 
-Looking for always new opportunity in IT industry until my dream job is reached either as a 𝐒𝐞𝐧𝐢𝐨𝐫 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭, 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐛𝐲 𝐫𝐨𝐥𝐞 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 development skill sets.
+Looking for always new opportunity in IT industry until my dream job is reached either as a 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭, 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐛𝐲 𝐫𝐨𝐥𝐞 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 development skill sets. Open for any Consulting / freelancing or short teem assignment with excellent learning curve in related field.
 
 - 𝑹𝒆𝒂𝒄𝒉 𝒎𝒆 𝒐𝒇𝒇𝒍𝒊𝒏𝒆 𝒊𝒏 𝑾𝒉𝒂𝒕'𝒔 𝒂𝒑𝒑 http://bitly.ws/ApEP , share your 𝘯𝘢𝘮𝘦 𝘢𝘯𝘥 𝘱𝘶𝘳𝘱𝘰𝘴𝘦 𝘰𝘧 𝘳𝘦𝘢𝘤𝘩𝘪𝘯𝘨 me for better communication.
 
