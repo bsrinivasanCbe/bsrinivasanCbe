@@ -108,8 +108,9 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 # Others
 - [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
 - [AWS reCap 2022 - Chennai meetup](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-linkedin-connections-activity-7027662384924155904-2N1E?utm_source=share&utm_medium=member_desktop)
-- [𝑯𝒆𝒂𝒍𝒕𝒉 𝐚𝐬 W𝐞𝐚𝐥𝐭𝐡 𝒂𝒏𝒅 𝑮𝒓𝒐𝒘𝒕𝒉](https://www.linkedin.com/posts/srinivasanbaskaran_wfm-health-carring-activity-7020780104968531968-zZOg?utm_source=share&utm_medium=member_desktop)
+- [Health as Wealth Plus Growth](https://www.linkedin.com/posts/srinivasanbaskaran_wfm-health-carring-activity-7020780104968531968-zZOg?utm_source=share&utm_medium=member_desktop)
 - [ChatGPT - OpenAI - Intro](https://www.linkedin.com/posts/srinivasanbaskaran_httpslnkding2zzmcja-activity-7032410745493495808-8mdY?utm_source=share&utm_medium=member_desktop)
+- [What is Engineering ? - Foundational Info](https://www.linkedin.com/posts/srinivasanbaskaran_what-is-engineering-definition-and-types-activity-7033355515036405760-V6nc?utm_source=share&utm_medium=member_desktop)
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple Ansible Playbook](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
@@ -118,6 +119,8 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Terraform Best Practises](https://medium.com/cloudnloud/best-practices-for-using-the-terraform-iac-tool-a35c13a23119)
 - [Deploying AWS S3 via Terraform IaC](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030798910281453568-CUUz?utm_source=share&utm_medium=member_desktop)
 - [Kubernetes cluster using Kubeadm in Ubuntu AWS EC2](https://medium.com/cloudnloud/kubernetes-cluster-using-kubeadm-in-ubuntu-aws-ec2-step-by-step-procedures-to-setup-7d176070eec1)
+- [What is ChatGPT and its fundamental biography?](https://medium.com/cloudnloud/what-is-chatgpt-and-its-fundamental-biography-f1eea44d5856)
+- [I𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞 𝐥𝐞𝐯𝐞𝐥 CLI 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 in 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐈𝐚𝐂 — Part 1](https://medium.com/cloudnloud/i-cli-in-part-1-6a6d9a13d613)
 # My LinkedIn Article Journey
 - [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐡𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 Part 2](https://www.linkedin.com/pulse/f-part-2-srinivasan-baskaran)
