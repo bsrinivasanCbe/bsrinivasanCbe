@@ -37,7 +37,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 # My Linkedin Journey
 
 # AWS
-- [AWS EC2 creation via AMC portal](https://www.linkedin.com/feed/update/urn:li:activity:7018507963287945216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018507963287945216%29)
+- [AWS EC2 creation via AMC portal](https://www.linkedin.com/posts/srinivasanbaskaran_creating-standalone-aws-ec2-instance-activity-7016019651595821057-XwBJ?utm_source=share&utm_medium=member_desktop)
 - [AWS S3 bucket creation via AMC portal](https://www.linkedin.com/feed/update/urn:li:activity:7018507963287945216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018507963287945216%29)
 - [AWS Resources, Group, Ways to create](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021137560521383938-bV64?utm_source=share&utm_medium=member_desktop)
 - [Basic details of AWS resource - AMI, Regions, EC2,S3](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021136795547418624-L-dx?utm_source=share&utm_medium=member_desktop)
@@ -61,7 +61,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Usecase: Mitigate to Changes outside](https://www.linkedin.com/feed/update/urn:li:activity:7011028283605577728?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7011028283605577728%29)
 - [Standalone Azure VM set creation via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/posts/srinivasanbaskaran_basic-azurevm-resource-set-via-terraform-activity-7019373818070650880-_-bR?utm_source=share&utm_medium=member_desktop)
 - [AWS EC2 via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/posts/srinivasanbaskaran_terraform-screen-reference-activity-7014997882139271168-et4F?utm_source=share&utm_medium=member_desktop)
-- [AWS S3 bucket creation via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/feed/update/urn:li:activity:7018631091527852034?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018631091527852034%29)
+- [AWS S3 bucket creation via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/posts/srinivasanbaskaran_aws-s3-bucket-creation-via-terraform-activity-7018630929124364288-C38v?utm_source=share&utm_medium=member_desktop)
 - [Features in 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 scripting - Variables, Data Source, cidrsubnet function](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021848267336400896-WgOx/?utm_source=share&utm_medium=member_desktop)
 - [cidrsubnet function](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021867464418332674-OWkT?utm_source=share&utm_medium=member_desktop)
 
@@ -94,6 +94,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Roles, Assessment, Threads type](https://www.linkedin.com/posts/srinivasanbaskaran_cybersecurity-roles-assessment-security-activity-7021725373130313728-Zpb5?utm_source=share&utm_medium=member_desktop)
 - [Why Cybersecurity is in action?](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7022549789359693825-Xgtu?utm_source=share&utm_medium=member_desktop)
 - [Basics of Ethical Hacking](https://www.linkedin.com/posts/srinivasanbaskaran_cloudnloud-technologies-youtube-activity-7033465600525959168-pj6c?utm_source=share&utm_medium=member_desktop)
+- [Tools in Ethical Hacking](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7033743245637558272-o-R3?utm_source=share&utm_medium=member_desktop)
 # .NET
 
 # SQL
