@@ -109,10 +109,11 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Top 10 Cloud Providers 2023](https://www.linkedin.com/feed/update/urn:li:activity:7029519288457666560/)
 # Others
 - [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
-- [AWS reCap 2022 - Chennai meetup](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-linkedin-connections-activity-7027662384924155904-2N1E?utm_source=share&utm_medium=member_desktop)
 - [Health as Wealth Plus Growth](https://www.linkedin.com/posts/srinivasanbaskaran_wfm-health-carring-activity-7020780104968531968-zZOg?utm_source=share&utm_medium=member_desktop)
 - [ChatGPT - OpenAI - Intro](https://www.linkedin.com/posts/srinivasanbaskaran_httpslnkding2zzmcja-activity-7032410745493495808-8mdY?utm_source=share&utm_medium=member_desktop)
 - [What is Engineering ? - Foundational Info](https://www.linkedin.com/posts/srinivasanbaskaran_what-is-engineering-definition-and-types-activity-7033355515036405760-V6nc?utm_source=share&utm_medium=member_desktop)
+- [AWS reCap 2022 - Chennai meetup](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-linkedin-connections-activity-7027662384924155904-2N1E?utm_source=share&utm_medium=member_desktop)
+- [Azure AI Day, Chennai - 25 Feb 2023](https://www.linkedin.com/posts/srinivasanbaskaran_ai-azure-synapseanalytics-activity-7035272854803804160-MtY0?utm_source=share&utm_medium=member_desktop)
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple Ansible Playbook](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
