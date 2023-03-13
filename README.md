@@ -49,6 +49,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Simple VNET peering via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7016750382060097536?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7016750382060097536%29)
 - [Azure Resources Basic Details in Azure VM](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7020746869802762240-jRWV?utm_source=share&utm_medium=member_desktop)
 - [Azure Bastion Host](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030254118334058496-B-mL?utm_source=share&utm_medium=member_desktop)
+- [Azure Key Vault](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cybertechdave100daysofcyberchallenge-activity-7041077698944790528-RpNB?utm_source=share&utm_medium=member_desktop)
 
 # Terraform
 - [Why 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 ?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
@@ -135,6 +136,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐜𝐫𝐞𝐚𝐭𝐢𝐨𝐧 (𝐒𝐭𝐞𝐩 𝐛𝐲 𝐒𝐭𝐞𝐩) Part 3](https://lnkd.in/gpF5VTJP)
 - [𝐔𝐬𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐛𝐨𝐭, 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐭𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐬𝐜𝐫𝐢𝐩𝐭 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞 𝐟𝐨𝐫 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐀𝐖𝐒 𝐒𝟑 𝐛𝐮𝐜𝐤𝐞𝐭 Part 4](https://lnkd.in/ggPRTHtt)
 - [Brief on Azure Front Door](https://lnkd.in/g2wmmQqX)
+- [Understanding of CQRS Pattern](https://www.linkedin.com/pulse/understanding-cqrs-pattern-srinivasan-baskaran)
 
 ## 🤝🏻 Let's Keep in Touch
 
