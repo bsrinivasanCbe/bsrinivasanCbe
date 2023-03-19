@@ -130,8 +130,9 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Creation of standalone AWS S3 bucket creation via Terraform](https://medium.com/cloudnloud/creation-of-standalone-aws-s3-bucket-creation-via-terraform-a4d488aecbd2)
 - [Basic Terraform Commands and Usage with sample](https://medium.com/cloudnloud/basic-terraform-commands-and-usage-with-sample-b3c1d077967b)
 - [I𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞 𝐥𝐞𝐯𝐞𝐥 CLI 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 in 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐈𝐚𝐂 — Part 2](https://lnkd.in/gR-t8kDK)
-- [Creation of Azure Key Vault Secrets via Azure portal & Authenticate Flow— Part 1](https://medium.com/cloudnloud/creation-of-azure-key-vault-secrets-via-azure-portal-authenticate-flow-part-1-5eb928716663)
-- [Creation of Azure Key Vault Secrets via Azure Cloud Shell (Azure Bash CLI) & Access secrets instantly from AKV — Part 2](https://medium.com/@bsrinivasancbe/creation-of-azure-key-vault-secrets-via-azure-cloud-shell-azure-cli-access-secrets-instantly-d5215547ffa3)
+- [Azure Key Vault — Create Secrets via Azure portal & Authentication Flowchart— Part 1](https://medium.com/cloudnloud/creation-of-azure-key-vault-secrets-via-azure-portal-authenticate-flow-part-1-5eb928716663)
+- [Azure Key Vault — Creating Secrets via Azure Cloud Shell (Azure Bash CLI) & Retrieve secrets instantly — Part 2](https://medium.com/@bsrinivasancbe/creation-of-azure-key-vault-secrets-via-azure-cloud-shell-azure-cli-access-secrets-instantly-d5215547ffa3)
+- [Azure Key Vault — Enabling System Managed Identity for VM while creation & Set access policy for the VM in AKV for secrets access— Part 3](https://medium.com/cloudnloud/azure-key-vault-setting-vm-for-system-managed-identity-set-access-policy-for-the-vm-in-akv-for-e5109777b5f)
 # My LinkedIn Article Journey
 - [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐡𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 Part 2](https://www.linkedin.com/pulse/f-part-2-srinivasan-baskaran)
