@@ -115,6 +115,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [What is Engineering ? - Foundational Info](https://www.linkedin.com/posts/srinivasanbaskaran_what-is-engineering-definition-and-types-activity-7033355515036405760-V6nc?utm_source=share&utm_medium=member_desktop)
 - [AWS reCap 2022 - Chennai meetup - 04 Feb 2023](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-linkedin-connections-activity-7027662384924155904-2N1E?utm_source=share&utm_medium=member_desktop)
 - [Azure AI Day, Chennai - 25 Feb 2023](https://www.linkedin.com/posts/srinivasanbaskaran_ai-azure-synapseanalytics-activity-7035272854803804160-MtY0?utm_source=share&utm_medium=member_desktop)
+- [Open AI Day Chennai - 18 Mar 2023](https://www.linkedin.com/posts/srinivasanbaskaran_ai-azure-synapseanalytics-activity-7043218073503334400-IHGd?utm_source=share&utm_medium=member_desktop)
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple Ansible Playbook](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
@@ -132,7 +133,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [I𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞 𝐥𝐞𝐯𝐞𝐥 CLI 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 in 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐈𝐚𝐂 — Part 2](https://lnkd.in/gR-t8kDK)
 - [Azure Key Vault — Create Secrets via Azure portal & Authentication Flowchart— Part 1](https://medium.com/cloudnloud/creation-of-azure-key-vault-secrets-via-azure-portal-authenticate-flow-part-1-5eb928716663)
 - [Azure Key Vault — Creating Secrets via Azure Cloud Shell (Azure Bash CLI) & Retrieve secrets instantly — Part 2](https://medium.com/@bsrinivasancbe/creation-of-azure-key-vault-secrets-via-azure-cloud-shell-azure-cli-access-secrets-instantly-d5215547ffa3)
-- [Azure Key Vault — Enabling System Managed Identity for VM while creation & Set access policy for the VM in AKV for secrets access— Part 3](https://medium.com/cloudnloud/azure-key-vault-setting-vm-for-system-managed-identity-set-access-policy-for-the-vm-in-akv-for-e5109777b5f)
+- [Azure Key Vault — Enabling System Managed Identity for VM on creation & Set access policy for the VM in AKV for permissions— Part 3](https://medium.com/cloudnloud/azure-key-vault-setting-vm-for-system-managed-identity-set-access-policy-for-the-vm-in-akv-for-e5109777b5f)
 # My LinkedIn Article Journey
 - [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐡𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 Part 2](https://www.linkedin.com/pulse/f-part-2-srinivasan-baskaran)
