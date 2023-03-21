@@ -11,7 +11,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 
 - 𝑹𝒆𝒂𝒄𝒉 𝒎𝒆 𝒐𝒇𝒇𝒍𝒊𝒏𝒆 𝒊𝒏 𝑾𝒉𝒂𝒕'𝒔 𝒂𝒑𝒑 http://bitly.ws/ApEP , share your 𝘯𝘢𝘮𝘦 𝘢𝘯𝘥 𝘱𝘶𝘳𝘱𝘰𝘴𝘦 𝘰𝘧 𝘳𝘦𝘢𝘤𝘩𝘪𝘯𝘨 me for better communication.
 
-## Connect with me  
+## Connect with me & 🤝🏻 Let's Keep in Touch
 <a href="https://github.com/bsrinivasanCbe/bsrinivasancbe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -143,15 +143,9 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Brief on Azure Front Door](https://lnkd.in/g2wmmQqX)
 - [Understanding of CQRS Pattern](https://www.linkedin.com/pulse/understanding-cqrs-pattern-srinivasan-baskaran)
 
-## 🤝🏻 Let's Keep in Touch
-
-
 ## 🐦 Latest Tweets
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/cheenu_vasan?ref_src=twsrc%5Etfw")
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=cheenu_vasan&layout=wide)](https://github.com/bsrinivasancbe/bsrinivasancbe)
-
 
 ## join our Discord Channel
 
@@ -163,3 +157,11 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bsrinivasancbe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
+
+## 🤝🏻 Community Netwroking
+
+<p align="left">
+<a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/groups/9124202/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vijayabalan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-cloudnloud-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
