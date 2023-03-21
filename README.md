@@ -147,12 +147,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/cheenu_vasan?ref_src=twsrc%5Etfw")
 
-## join our Discord Channel
-
-[![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/vbjRQGVhuF)
-
-<br/>  
-
+<br/>
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bsrinivasancbe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -165,3 +160,9 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 <a href="https://www.linkedin.com/groups/9124202/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vijayabalan-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-cloudnloud-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
+
+<br/>
+
+## Join our Discord Channel
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/vbjRQGVhuF)
