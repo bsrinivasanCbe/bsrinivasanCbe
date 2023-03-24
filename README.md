@@ -135,6 +135,8 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Azure Key Vault — Creating Secrets via Azure Cloud Shell (Azure Bash CLI) & Retrieve secrets instantly — Part 2](https://medium.com/@bsrinivasancbe/creation-of-azure-key-vault-secrets-via-azure-cloud-shell-azure-cli-access-secrets-instantly-d5215547ffa3)
 - [Azure Key Vault — Enabling System Managed Identity for VM on creation & Set access policy for the VM in AKV for permissions— Part 3](https://medium.com/cloudnloud/azure-key-vault-setting-vm-for-system-managed-identity-set-access-policy-for-the-vm-in-akv-for-e5109777b5f)
 - [What is Azure Cloud Shell and how to use it?](https://medium.com/cloudnloud/what-is-azure-cloud-shell-and-how-to-use-it-3340a5e5d0cd)
+- [Deploy Ubuntu VM with Nginx via Azure Cloud Shell (Bash) in just 5 command lines!](https://medium.com/cloudnloud/deploy-ubuntu-vm-with-nginx-via-azure-cloud-shell-bash-in-just-5-command-lines-fb565ea7499c)
+- [Azure Key Vault — Retrieve secrets from AKV in Python app configured in Azure Ubuntu VM — Part 4](https://medium.com/cloudnloud/azure-key-vault-retrieve-secrets-from-akv-in-python-app-configured-in-azure-ubuntu-vm-part-4-9e43de8cd904)
 # My LinkedIn Article Journey
 - [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐡𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 Part 2](https://www.linkedin.com/pulse/f-part-2-srinivasan-baskaran)
@@ -142,6 +144,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [𝐔𝐬𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐛𝐨𝐭, 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐭𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐬𝐜𝐫𝐢𝐩𝐭 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞 𝐟𝐨𝐫 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐀𝐖𝐒 𝐒𝟑 𝐛𝐮𝐜𝐤𝐞𝐭 Part 4](https://lnkd.in/ggPRTHtt)
 - [Brief on Azure Front Door](https://lnkd.in/g2wmmQqX)
 - [Understanding of CQRS Pattern](https://www.linkedin.com/pulse/understanding-cqrs-pattern-srinivasan-baskaran)
+- [ChatGPT 4, What's new here?](https://www.linkedin.com/pulse/chatgpt-4-whats-new-here-srinivasan-baskaran)
 
 ## 🐦 Latest Tweets
 
