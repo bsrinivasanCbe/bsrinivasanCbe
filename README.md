@@ -48,7 +48,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Azure tenants with new users enabled for MFA](https://www.linkedin.com/feed/update/urn:li:activity:7018263115087691776?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018263115087691776%29)
 - [Simple VNET peering via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7016750382060097536?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7016750382060097536%29)
 - [Azure Resources Basic Details in Azure VM](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7020746869802762240-jRWV?utm_source=share&utm_medium=member_desktop)
-- [Azure Bastion Host](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030254118334058496-B-mL?utm_source=share&utm_medium=member_desktop)
+- [𝑨𝒛𝒖𝒓𝒆 𝑩𝒂𝒔𝒕𝒊𝒐𝒏 𝑯𝒐𝒔𝒕](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030254118334058496-B-mL?utm_source=share&utm_medium=member_desktop)
 - [Azure Key Vault](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cybertechdave100daysofcyberchallenge-activity-7041077698944790528-RpNB?utm_source=share&utm_medium=member_desktop)
 
 # Terraform
@@ -94,7 +94,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Fundamental History](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7021552452256632832-UGp3/?utm_source=share&utm_medium=member_desktop)
 - [Roles, Assessment, Threads type](https://www.linkedin.com/posts/srinivasanbaskaran_cybersecurity-roles-assessment-security-activity-7021725373130313728-Zpb5?utm_source=share&utm_medium=member_desktop)
 - [Why Cybersecurity is in action?](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7022549789359693825-Xgtu?utm_source=share&utm_medium=member_desktop)
-- [Basics of Ethical Hacking](https://www.linkedin.com/posts/srinivasanbaskaran_cloudnloud-technologies-youtube-activity-7033465600525959168-pj6c?utm_source=share&utm_medium=member_desktop)
+- [𝑩𝒂𝒔𝒊𝒄𝒔 𝒐𝒇 𝑬𝒕𝒉𝒊𝒄𝒂𝒍 𝑯𝒂𝒄𝒌𝒊𝒏𝒈](https://www.linkedin.com/posts/srinivasanbaskaran_cloudnloud-technologies-youtube-activity-7033465600525959168-pj6c?utm_source=share&utm_medium=member_desktop)
 - [Tools in Ethical Hacking](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7033743245637558272-o-R3?utm_source=share&utm_medium=member_desktop)
 # .NET
 
@@ -106,7 +106,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 
 # Multi-Cloud
 - [Cloud Services - AWS, Azure, GCP](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-services-list-aws-azure-gcp-activity-7022149955150626816-GPK1?utm_source=share&utm_medium=member_desktop)
-- [CDN (AWS / Azure)](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025116915316514816-BXON?utm_source=share&utm_medium=member_desktop)
+- [𝑪𝑫𝑵 (𝑨𝑾𝑺 & 𝑨𝒛𝒖𝒓𝒆)](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025116915316514816-BXON?utm_source=share&utm_medium=member_desktop)
 - [Top 10 Cloud Providers 2023](https://www.linkedin.com/feed/update/urn:li:activity:7029519288457666560/)
 # Others
 - [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
@@ -120,25 +120,25 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐧𝐞𝐞𝐝 𝐰𝐡𝐞𝐧 𝐖𝐅𝐇](https://www.linkedin.com/posts/srinivasanbaskaran_14-mistakes-people-who-work-from-home-often-activity-7025380240159891456-AIoi?utm_source=share&utm_medium=member_desktop)
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
-- [Creating simple Ansible Playbook](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
+- [Creating simple 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐛𝐨𝐨𝐤](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
 - [Ansible Playbook, Roles and Handlers](https://medium.com/cloudnloud/deploying-simple-tasks-using-ansible-playbook-ansible-roles-and-handlers-6ba37597e2f7)
 - [Azure Services by Category (Full list)](https://medium.com/cloudnloud/azure-services-list-by-category-as-on-26-jan-2023-8809c0f65938)
-- [Terraform Best Practises](https://medium.com/cloudnloud/best-practices-for-using-the-terraform-iac-tool-a35c13a23119)
+- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐁𝐞𝐬𝐭 𝐏𝐫𝐚𝐜𝐭𝐢𝐬𝐞𝐬](https://medium.com/cloudnloud/best-practices-for-using-the-terraform-iac-tool-a35c13a23119)
 - [Deploying AWS S3 via Terraform IaC](https://lnkd.in/g6zm28sE)
 - [Kubernetes cluster using Kubeadm in Ubuntu AWS EC2](https://medium.com/cloudnloud/kubernetes-cluster-using-kubeadm-in-ubuntu-aws-ec2-step-by-step-procedures-to-setup-7d176070eec1)
-- [What is ChatGPT and its fundamental biography?](https://medium.com/cloudnloud/what-is-chatgpt-and-its-fundamental-biography-f1eea44d5856)
-- [I𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞 𝐥𝐞𝐯𝐞𝐥 CLI 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 in 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐈𝐚𝐂 — Part 1](https://medium.com/cloudnloud/i-cli-in-part-1-6a6d9a13d613)
+- [What is 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 and its fundamental biography?](https://medium.com/cloudnloud/what-is-chatgpt-and-its-fundamental-biography-f1eea44d5856)
+- [Intermediate level CLI information in Terraform IaC Part 1](https://medium.com/cloudnloud/i-cli-in-part-1-6a6d9a13d613)
 - [AWS Resources - Fundamental - Part 1](https://medium.com/cloudnloud/fundamental-reading-of-aws-resources-services-part-1-4b24f36ebe15)
 - [𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐕𝐌 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞 𝐬𝐞𝐭 𝐮𝐬𝐢𝐧𝐠 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://medium.com/cloudnloud/-3cefffdf88e2)
 - [Creation of standalone AWS S3 bucket creation via Terraform](https://medium.com/cloudnloud/creation-of-standalone-aws-s3-bucket-creation-via-terraform-a4d488aecbd2)
 - [Basic Terraform Commands and Usage with sample](https://medium.com/cloudnloud/basic-terraform-commands-and-usage-with-sample-b3c1d077967b)
-- [I𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞 𝐥𝐞𝐯𝐞𝐥 CLI 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 in 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐈𝐚𝐂 — Part 2](https://lnkd.in/gR-t8kDK)
-- [Azure Key Vault — Create Secrets via Azure portal & Authentication Flowchart— Part 1](https://medium.com/cloudnloud/creation-of-azure-key-vault-secrets-via-azure-portal-authenticate-flow-part-1-5eb928716663)
-- [Azure Key Vault — Creating Secrets via Azure Cloud Shell (Azure Bash CLI) & Retrieve secrets instantly — Part 2](https://medium.com/@bsrinivasancbe/creation-of-azure-key-vault-secrets-via-azure-cloud-shell-azure-cli-access-secrets-instantly-d5215547ffa3)
-- [Azure Key Vault — Enabling System Managed Identity for VM on creation & Set access policy for the VM in AKV for permissions— Part 3](https://medium.com/cloudnloud/azure-key-vault-setting-vm-for-system-managed-identity-set-access-policy-for-the-vm-in-akv-for-e5109777b5f)
-- [What is Azure Cloud Shell and how to use it?](https://medium.com/cloudnloud/what-is-azure-cloud-shell-and-how-to-use-it-3340a5e5d0cd)
+- [Intermediate level CLI information in Terraform IaC Part 2](https://lnkd.in/gR-t8kDK)
+- [𝐀𝐳𝐮𝐫𝐞 𝐊𝐞𝐲 𝐕𝐚𝐮𝐥𝐭 — Create Secrets via Azure portal & Authentication Flowchart— Part 1](https://medium.com/cloudnloud/creation-of-azure-key-vault-secrets-via-azure-portal-authenticate-flow-part-1-5eb928716663)
+- [𝐀𝐳𝐮𝐫𝐞 𝐊𝐞𝐲 𝐕𝐚𝐮𝐥𝐭 — Creating Secrets via Azure Cloud Shell (Azure Bash CLI) & Retrieve secrets instantly — Part 2](https://medium.com/@bsrinivasancbe/creation-of-azure-key-vault-secrets-via-azure-cloud-shell-azure-cli-access-secrets-instantly-d5215547ffa3)
+- [𝐀𝐳𝐮𝐫𝐞 𝐊𝐞𝐲 𝐕𝐚𝐮𝐥𝐭 — Enabling System Managed Identity for VM on creation & Set access policy for the VM in AKV for permissions— Part 3](https://medium.com/cloudnloud/azure-key-vault-setting-vm-for-system-managed-identity-set-access-policy-for-the-vm-in-akv-for-e5109777b5f)
+- [What is 𝐀𝐳𝐮𝐫𝐞 𝐂𝐥𝐨𝐮𝐝 𝐒𝐡𝐞𝐥𝐥 and how to use it?](https://medium.com/cloudnloud/what-is-azure-cloud-shell-and-how-to-use-it-3340a5e5d0cd)
 - [Deploy Ubuntu VM with Nginx via Azure Cloud Shell (Bash) in just 5 command lines!](https://medium.com/cloudnloud/deploy-ubuntu-vm-with-nginx-via-azure-cloud-shell-bash-in-just-5-command-lines-fb565ea7499c)
-- [Azure Key Vault — Retrieve secrets from AKV in Python app configured in Azure Ubuntu VM — Part 4](https://medium.com/cloudnloud/azure-key-vault-retrieve-secrets-from-akv-in-python-app-configured-in-azure-ubuntu-vm-part-4-9e43de8cd904)
+- [𝐀𝐳𝐮𝐫𝐞 𝐊𝐞𝐲 𝐕𝐚𝐮𝐥𝐭 — Retrieve secrets from AKV in Python app configured in Azure Ubuntu VM — Part 4](https://medium.com/cloudnloud/azure-key-vault-retrieve-secrets-from-akv-in-python-app-configured-in-azure-ubuntu-vm-part-4-9e43de8cd904)
 - [Configure Azure CLI Locally in Windows machine](https://medium.com/cloudnloud/configure-azure-cli-locally-in-windows-machine-and-get-set-the-needed-subscription-506f5eb4815e)
 # My LinkedIn Article Journey
 - [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
