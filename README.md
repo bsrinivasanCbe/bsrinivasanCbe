@@ -116,6 +116,8 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [AWS reCap 2022 - Chennai meetup - 04 Feb 2023](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-linkedin-connections-activity-7027662384924155904-2N1E?utm_source=share&utm_medium=member_desktop)
 - [Azure AI Day, Chennai - 25 Feb 2023](https://www.linkedin.com/posts/srinivasanbaskaran_ai-azure-synapseanalytics-activity-7035272854803804160-MtY0?utm_source=share&utm_medium=member_desktop)
 - [Open AI Day Chennai - 18 Mar 2023](https://www.linkedin.com/posts/srinivasanbaskaran_ai-azure-synapseanalytics-activity-7043218073503334400-IHGd?utm_source=share&utm_medium=member_desktop)
+- [𝐀𝐛𝐛𝐫𝐞𝐯𝐢𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐈𝐓 𝐣𝐚𝐫𝐠𝐨𝐧𝐬](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-learnings-activity-7045091014306385920-WJYF?utm_source=share&utm_medium=member_desktop)
+- [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐧𝐞𝐞𝐝 𝐰𝐡𝐞𝐧 𝐖𝐅𝐇](https://www.linkedin.com/posts/srinivasanbaskaran_14-mistakes-people-who-work-from-home-often-activity-7025380240159891456-AIoi?utm_source=share&utm_medium=member_desktop)
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple Ansible Playbook](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
