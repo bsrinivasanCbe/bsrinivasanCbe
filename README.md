@@ -139,6 +139,7 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [What is Azure Cloud Shell and how to use it?](https://medium.com/cloudnloud/what-is-azure-cloud-shell-and-how-to-use-it-3340a5e5d0cd)
 - [Deploy Ubuntu VM with Nginx via Azure Cloud Shell (Bash) in just 5 command lines!](https://medium.com/cloudnloud/deploy-ubuntu-vm-with-nginx-via-azure-cloud-shell-bash-in-just-5-command-lines-fb565ea7499c)
 - [Azure Key Vault — Retrieve secrets from AKV in Python app configured in Azure Ubuntu VM — Part 4](https://medium.com/cloudnloud/azure-key-vault-retrieve-secrets-from-akv-in-python-app-configured-in-azure-ubuntu-vm-part-4-9e43de8cd904)
+- [Configure Azure CLI Locally in Windows machine](https://medium.com/cloudnloud/configure-azure-cli-locally-in-windows-machine-and-get-set-the-needed-subscription-506f5eb4815e)
 # My LinkedIn Article Journey
 - [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐡𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 Part 2](https://www.linkedin.com/pulse/f-part-2-srinivasan-baskaran)
