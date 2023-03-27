@@ -148,6 +148,13 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Brief on Azure Front Door](https://lnkd.in/g2wmmQqX)
 - [Understanding of CQRS Pattern](https://www.linkedin.com/pulse/understanding-cqrs-pattern-srinivasan-baskaran)
 - [ChatGPT 4, What's new here?](https://www.linkedin.com/pulse/chatgpt-4-whats-new-here-srinivasan-baskaran)
+# My YouTube video Journey
+- [Learn some abbreviations with me!](https://youtu.be/87hIoZ_DZT4)
+- [Be safe in Digital world!](https://youtube.com/shorts/cByCWd05Uls?feature=share)
+- [CloudnLoud Introduction](https://youtu.be/ugUPRabJDug)
+- [CloudnLoud Technical roadmap 2023](https://youtu.be/uKdZ8fMRSXA)
+- [CloudnLoud Road map - Another milestone during Mar'2023](https://youtu.be/1TuL3YLT_5c)
+
 
 ## 🐦 Latest Tweets
 
