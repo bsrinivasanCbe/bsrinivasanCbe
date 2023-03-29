@@ -181,3 +181,5 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 ## Join our Discord Channel
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/vbjRQGVhuF)
+
+![My Image](my-image.jpg)
