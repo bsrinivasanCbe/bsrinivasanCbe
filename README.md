@@ -42,7 +42,6 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [AWS Resources, Group, Ways to create](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021137560521383938-bV64?utm_source=share&utm_medium=member_desktop)
 - [Basic details of AWS resource - AMI, Regions, EC2,S3](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021136795547418624-L-dx?utm_source=share&utm_medium=member_desktop)
 - [𝐄𝐥𝐚𝐬𝐭𝐢𝐜𝐂𝐚𝐜𝐡𝐞 𝐢𝐧 𝐀𝐖𝐒, 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬, 𝐔𝐬𝐚𝐠𝐞 𝐭𝐢𝐞𝐫𝐬, 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7032049108454436864-Zx7j?utm_source=share&utm_medium=member_desktop)
-- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐏𝐲𝐭𝐡𝐨𝐧 & 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐁𝐢𝐨𝐠𝐫𝐚𝐩𝐡](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-infrastructure-terraform-activity-7047983125343191040-Qnsb?utm_source=share&utm_medium=member_desktop)
 
 # Azure
 - [Standalone Azure VM via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
@@ -149,6 +148,8 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 - [Brief on Azure Front Door](https://lnkd.in/g2wmmQqX)
 - [Understanding of CQRS Pattern](https://www.linkedin.com/pulse/understanding-cqrs-pattern-srinivasan-baskaran)
 - [ChatGPT 4, What's new here?](https://www.linkedin.com/pulse/chatgpt-4-whats-new-here-srinivasan-baskaran)
+- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐏𝐲𝐭𝐡𝐨𝐧 & 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐁𝐢𝐨𝐠𝐫𝐚𝐩𝐡](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-infrastructure-terraform-activity-7047983125343191040-Qnsb?utm_source=share&utm_medium=member_desktop)
+
 # My YouTube video Journey
 - [Learn some abbreviations with me!](https://youtu.be/87hIoZ_DZT4)
 - [Be safe in Digital world!](https://youtube.com/shorts/cByCWd05Uls?feature=share)
