@@ -2,13 +2,13 @@ I am **[Srinivasan Baskaran](https://www.linkedin.com/in/srinivasanbaskaran/)** 
 
 I come from a middle-class family and was born in Kangayam, located in the Tirupur District of Tamilnadu. Throughout my life, I have lived in various regions of Tamilnadu, Karnataka, and Maharashtra. I am the youngest of three siblings, with two elder brothers. My nuclear family resides in Chennai, while my parents live in Coimbatore.
 
-In terms of education, I have a 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐚 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐏𝐡𝐲𝐬𝐢𝐜𝐬 from the University of Bharathiar. Additionally, I hold a 𝐌𝐚𝐬𝐭𝐞𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 from the same university.
+In terms of education, I have a 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐚 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐏𝐡𝐲𝐬𝐢𝐜𝐬 from the University of Bharathiar. Additionally, I hold a 𝐌𝐚𝐬𝐭𝐞𝐫 𝐨𝐅 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 from the same university.
 
 With 𝐨𝐯𝐞𝐫 𝟏𝟓 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐈𝐓 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐚𝐬 𝐟𝐮𝐥𝐥 𝐭𝐢𝐦𝐞 𝐚𝐧𝐝 𝐨𝐯𝐞𝐫 𝟒 𝐲𝐞𝐚𝐫𝐬 𝐚𝐬 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐢𝐧𝐠, I have worked in various roles and have gained expertise in Microsoft stack, Open Source, and other niche skills. My skill set is diverse and well-rounded, making me a valuable asset to any team.
 
 I am always on the lookout for new opportunities in the IT industry, and I am determined to reach my dream job as either a 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭 𝐨𝐫 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐤𝐢𝐥𝐥 𝐬𝐞𝐭𝐬. I am open to Full time, consulting, freelancing, or short-term assignments that offer an excellent learning curve in related fields.
 
-- 𝑹𝒆𝒂𝒄𝒉 𝒎𝒆 𝒐𝒇𝒇𝒍𝒊𝒏𝒆 𝒊𝒏 𝑾𝒉𝒂𝒕'𝒔 𝒂𝒑𝒑 http://bitly.ws/ApEP , share your 𝘯𝘢𝘮𝘦 𝘢𝘯𝘥 𝘱𝘶𝘳𝘱𝘰𝘴𝘦 𝘰𝘧 𝘳𝘦𝘢𝘤𝘩𝘪𝘯𝘨 me for better communication.
+- 𝑹𝒆𝒂𝒄𝒉 𝒎𝒆 𝒐𝒇𝒇𝒍𝒊𝒏𝒆 𝒊𝒏 𝑾𝒉𝒂𝒕'𝒔 𝒂𝒑𝒑 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 http://bitly.ws/ApEP , share your 𝒏𝒂𝒎𝒆 𝒂𝒏𝒅 𝒑𝒖𝒓𝒑𝒐𝒔𝒆 𝒐𝒇 𝒓𝒆𝒂𝒄𝒉𝒊𝒏𝒈 me for better communication.
 
 ## Connect with me & 🤝🏻 Let's Keep in Touch
 <a href="https://github.com/bsrinivasanCbe/bsrinivasancbe" target="_blank">
