@@ -1,13 +1,12 @@
 I am **[Srinivasan Baskaran](https://www.linkedin.com/in/srinivasanbaskaran/)** ; my preferred call name is **Srini**. 
 
-Hailed from a middle class family and born in Kangayam (Tirupur District in Tamilnadu) and survived in Tamilnadu, Karnataka and Maharashtra. I am younger in my family with 2 elder brothers.
-My nuclear family is in Chennai and my parents in Coimbatore.
+I come from a middle-class family and was born in Kangayam, located in the Tirupur District of Tamilnadu. Throughout my life, I have lived in various regions of Tamilnadu, Karnataka, and Maharashtra. I am the youngest of three siblings, with two elder brothers. My nuclear family resides in Chennai, while my parents live in Coimbatore.
 
-From the education perspective I am graduated in 𝑩𝒂𝒄𝒉𝒆𝒍𝒐𝒓 𝒐𝒇 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒊𝒏 𝑷𝒉𝒚𝒔𝒊𝒄𝒔 𝒘𝒊𝒕𝒉 𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒔𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑬𝒍𝒆𝒄𝒕𝒓𝒐𝒏𝒊𝒄𝒔, and 𝑴𝒂𝒔𝒕𝒆𝒓 𝒐𝒇 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 from Bharathiar University.
+In terms of education, I have a 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐚 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐏𝐡𝐲𝐬𝐢𝐜𝐬 from the University of Bharathiar. Additionally, I hold a 𝐌𝐚𝐬𝐭𝐞𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 from the same university.
 
-Have overall of 15 𝒚𝒆𝒂𝒓𝒔 𝒂𝒔 𝒇𝒖𝒍𝒍 𝒕𝒊𝒎𝒆 𝑰𝑻 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒂𝒏𝒅 𝒂𝒍𝒎𝒐𝒔𝒕 4+ 𝒚𝒓𝒔 𝒂𝒔 𝒇𝒓𝒆𝒆𝒍𝒂𝒏𝒄𝒊𝒏𝒈 𝒊𝒏 𝑰𝑻 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 and my skill set is mostly around Microsoft stack, Open Source and other niche skills.
+With 𝐨𝐯𝐞𝐫 𝟏𝟓 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐈𝐓 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐚𝐬 𝐟𝐮𝐥𝐥 𝐭𝐢𝐦𝐞 𝐚𝐧𝐝 𝐨𝐯𝐞𝐫 𝟒 𝐲𝐞𝐚𝐫𝐬 𝐚𝐬 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐢𝐧𝐠, I have worked in various roles and have gained expertise in Microsoft stack, Open Source, and other niche skills. My skill set is diverse and well-rounded, making me a valuable asset to any team.
 
-Looking for always new opportunity in IT industry until my dream job is reached either as a 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭, 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐛𝐲 𝐫𝐨𝐥𝐞 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 development skill sets. Open for any Consulting / freelancing or short teem assignment with excellent learning curve in related field.
+I am always on the lookout for new opportunities in the IT industry, and I am determined to reach my dream job as either a 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭 𝐨𝐫 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐤𝐢𝐥𝐥 𝐬𝐞𝐭𝐬. I am open to Full time, consulting, freelancing, or short-term assignments that offer an excellent learning curve in related fields.
 
 - 𝑹𝒆𝒂𝒄𝒉 𝒎𝒆 𝒐𝒇𝒇𝒍𝒊𝒏𝒆 𝒊𝒏 𝑾𝒉𝒂𝒕'𝒔 𝒂𝒑𝒑 http://bitly.ws/ApEP , share your 𝘯𝘢𝘮𝘦 𝘢𝘯𝘥 𝘱𝘶𝘳𝘱𝘰𝘴𝘦 𝘰𝘧 𝘳𝘦𝘢𝘤𝘩𝘪𝘯𝘨 me for better communication.
 
