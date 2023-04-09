@@ -141,7 +141,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Configure Azure CLI Locally in Windows machine](https://medium.com/cloudnloud/configure-azure-cli-locally-in-windows-machine-and-get-set-the-needed-subscription-506f5eb4815e)
 - [Provision Python & Nginx with Azure VM via portal](https://medium.com/cloudnloud/how-to-provision-python-nginx-software-when-creating-azure-vm-in-portal-d81df64eecd4)
 - [Provision Java & Apache2 in AWS EC2 ubuntu instance via portal](https://medium.com/cloudnloud/how-to-provision-java-apache2-web-server-when-creating-aws-ec2-ubuntu-instance-via-amazon-c544b6218fda)
-- [FAQ — Insights of Medium.com for new bloggers](https://medium.com/@bsrinivasancbe/1-what-is-the-url-for-creating-medium-blogs-or-to-sign-in-9a16cee76b78)
+- [FAQ — Insights of Medium.com for new bloggers](https://medium.com/cloudnloud/1-what-is-the-url-for-creating-medium-blogs-or-to-sign-in-9a16cee76b78)
+- [Discover the vital 20 features and benefits of Python!](https://medium.com/cloudnloud/discover-the-vital-20-features-and-benefits-of-python-7ffb631f80fb)
 # My LinkedIn Article Journey
 - [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐡𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 Part 2](https://www.linkedin.com/pulse/f-part-2-srinivasan-baskaran)
