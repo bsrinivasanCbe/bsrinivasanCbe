@@ -161,7 +161,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [CloudnLoud Road map - Another milestone during Mar'2023](https://youtu.be/1TuL3YLT_5c)
 - [CloudnLoud Road map - End of Mar 2023](https://youtu.be/OE5MbQLHTs8)
 - [Celebrating 100 Followers in medium.com for CloudnLoud Community](https://youtu.be/dXeit6ErCeY)
-- [Cloudnloud community Road Map April 2023 -  Part 1] (https://youtu.be/vRbXg8osa4s)
+- [Cloudnloud community Road Map April 2023 -  Part 1](https://youtu.be/vRbXg8osa4s)
 - [CLOUDNLOUD TECH COMMUNITY INVITING ALL](https://youtu.be/AVM4K_cB8VI)
 
 
