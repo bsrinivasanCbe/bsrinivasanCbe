@@ -143,6 +143,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Provision Java & Apache2 in AWS EC2 ubuntu instance via portal](https://medium.com/cloudnloud/how-to-provision-java-apache2-web-server-when-creating-aws-ec2-ubuntu-instance-via-amazon-c544b6218fda)
 - [FAQ — Insights of Medium.com for new bloggers](https://medium.com/cloudnloud/1-what-is-the-url-for-creating-medium-blogs-or-to-sign-in-9a16cee76b78)
 - [Discover the vital 20 features and benefits of Python!](https://medium.com/cloudnloud/discover-the-vital-20-features-and-benefits-of-python-7ffb631f80fb)
+- [Unlocking the Power of Python: A Look at Its Fundamentals and History](https://medium.com/cloudnloud/what-is-python-fundamental-biograph-5f7881eff29b)
+- [Go Vs Python: A Detailed Comparison of Two of the Most Popular Programming Languages](https://medium.com/cloudnloud/go-vs-python-a-detailed-comparison-of-two-of-the-most-popular-programming-languages-e45245b29e00)
 # My LinkedIn Article Journey
 - [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐡𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 Part 2](https://www.linkedin.com/pulse/f-part-2-srinivasan-baskaran)
@@ -152,6 +154,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Understanding of CQRS Pattern](https://www.linkedin.com/pulse/understanding-cqrs-pattern-srinivasan-baskaran)
 - [ChatGPT 4, What's new here?](https://www.linkedin.com/pulse/chatgpt-4-whats-new-here-srinivasan-baskaran)
 - [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐏𝐲𝐭𝐡𝐨𝐧 & 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐁𝐢𝐨𝐠𝐫𝐚𝐩𝐡](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-infrastructure-terraform-activity-7047983125343191040-Qnsb?utm_source=share&utm_medium=member_desktop)
+
 
 # My YouTube video Journey
 - [Learn some abbreviations with me!](https://youtu.be/87hIoZ_DZT4)
