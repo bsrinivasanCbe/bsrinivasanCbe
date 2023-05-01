@@ -6,7 +6,7 @@ In terms of education, I have a 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐝𝐞�
 
 With 𝐨𝐯𝐞𝐫 𝟏𝟓 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐈𝐓 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐚𝐬 𝐟𝐮𝐥𝐥 𝐭𝐢𝐦𝐞 𝐚𝐧𝐝 𝐨𝐯𝐞𝐫 𝟒 𝐲𝐞𝐚𝐫𝐬 𝐚𝐬 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐢𝐧𝐠, I have worked in various roles and have gained expertise in Microsoft stack, Open Source, and other niche skills. My skill set is diverse and well-rounded, making me a valuable asset to any team.
 
-I am always on the lookout for new opportunities in the IT industry, and I am determined to reach my dream job as either a 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭 𝐨𝐫 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐤𝐢𝐥𝐥 𝐬𝐞𝐭𝐬. I am open to Full time, consulting, freelancing, or short-term assignments that offer an excellent learning curve in related fields.
+I am always on the lookout for new opportunities in the IT industry, and I am determined to reach my dream job as either a 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭 𝐨𝐫 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐤𝐢𝐥𝐥 𝐬𝐞𝐭𝐬. I am open to Full time, consulting, freelancing, or short-term assignments that offer an excellent learning curve in these related fields.
 
 - 𝑹𝒆𝒂𝒄𝒉 𝒎𝒆 𝒐𝒇𝒇𝒍𝒊𝒏𝒆 𝒊𝒏 𝑾𝒉𝒂𝒕'𝒔 𝒂𝒑𝒑 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 http://bitly.ws/ApEP , share your 𝒏𝒂𝒎𝒆 𝒂𝒏𝒅 𝒑𝒖𝒓𝒑𝒐𝒔𝒆 𝒐𝒇 𝒓𝒆𝒂𝒄𝒉𝒊𝒏𝒈 me for better communication.
 
@@ -34,6 +34,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 :mailbox: Mail - cheenu_vasan@yahoo.com
 
 # My Linkedin Journey
+
+# Golang
+- [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐡𝐢𝐬𝐭𝐨𝐫𝐲 𝐨𝐟 𝐆𝐎𝐋𝐀𝐍𝐆](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-infrastructure-automation-activity-7056566313070055424-60My?utm_source=share&utm_medium=member_desktop)
 
 # AWS
 - [AWS EC2 creation via AMC portal](https://www.linkedin.com/posts/srinivasanbaskaran_creating-standalone-aws-ec2-instance-activity-7016019651595821057-XwBJ?utm_source=share&utm_medium=member_desktop)
@@ -145,6 +148,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Discover the vital 20 features and benefits of Python!](https://medium.com/cloudnloud/discover-the-vital-20-features-and-benefits-of-python-7ffb631f80fb)
 - [Unlocking the Power of Python: A Look at Its Fundamentals and History](https://medium.com/cloudnloud/what-is-python-fundamental-biograph-5f7881eff29b)
 - [Go Vs Python: A Detailed Comparison of Two of the Most Popular Programming Languages](https://medium.com/cloudnloud/go-vs-python-a-detailed-comparison-of-two-of-the-most-popular-programming-languages-e45245b29e00)
+- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐃𝐞𝐯𝐎𝐩𝐬: 𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐜𝐞𝐬𝐬](https://lnkd.in/gF-dJrYr)
 # My LinkedIn Article Journey
 - [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐡𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 Part 2](https://www.linkedin.com/pulse/f-part-2-srinivasan-baskaran)
