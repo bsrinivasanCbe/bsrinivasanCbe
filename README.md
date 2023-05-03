@@ -149,6 +149,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Unlocking the Power of Python: A Look at Its Fundamentals and History](https://medium.com/cloudnloud/what-is-python-fundamental-biograph-5f7881eff29b)
 - [Go Vs Python: A Detailed Comparison of Two of the Most Popular Programming Languages](https://medium.com/cloudnloud/go-vs-python-a-detailed-comparison-of-two-of-the-most-popular-programming-languages-e45245b29e00)
 - [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐃𝐞𝐯𝐎𝐩𝐬: 𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐜𝐞𝐬𝐬](https://lnkd.in/gF-dJrYr)
+- [Configuring Virtual Environment for Python: A Guide for Getting Started — Part 1](https://medium.com/cloudnloud/configuring-virtual-environment-for-python-a-guide-for-getting-started-645ce457deb8)
 # My LinkedIn Article Journey
 - [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐧 𝟔𝟎 𝐦𝐢𝐧𝐮𝐭𝐞𝐬](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐚𝐧𝐝 𝐡𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 Part 2](https://www.linkedin.com/pulse/f-part-2-srinivasan-baskaran)
@@ -170,6 +171,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Celebrating 100 Followers in medium.com for CloudnLoud Community](https://youtu.be/dXeit6ErCeY)
 - [Cloudnloud community Road Map April 2023 -  Part 1](https://youtu.be/hJL9I3IcB5w)
 - [CLOUDNLOUD TECH COMMUNITY INVITING ALL](https://youtu.be/AVM4K_cB8VI)
+- [Cloudnloud community Road Map April 2023 -  Part 2]()
 
 
 ## 🐦 Latest Tweets
