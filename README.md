@@ -178,6 +178,12 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/cheenu_vasan?ref_src=twsrc%5Etfw")
 
+## 🐦 Latest Tweets
+
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/bsrinivasancbe?ref_src=twsrc%5Etfw")
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=bsrinivasancbe&layout=wide)](https://github.com/bsrinivasancbe/github-readme-twitter)
+
 <br/>
 
 
