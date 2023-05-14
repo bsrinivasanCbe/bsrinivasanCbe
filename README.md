@@ -161,6 +161,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐏𝐲𝐭𝐡𝐨𝐧 & 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐁𝐢𝐨𝐠𝐫𝐚𝐩𝐡](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-infrastructure-terraform-activity-7047983125343191040-Qnsb?utm_source=share&utm_medium=member_desktop)
 - [Maximizing Azure Security with Azure Private Link and Azure Private Endpoint](https://lnkd.in/gxhHvJC6)
 - [𝑾𝒐𝒓𝒌 𝒇𝒓𝒐𝒎 𝑯𝒐𝒎𝒆 𝒃𝒆𝒔𝒕 𝒑𝒓𝒂𝒄𝒕𝒊𝒄𝒆𝒔](https://lnkd.in/gSXiFrNm)
+- [Building Scalable Systems with CQRS: Lessons Learned, Best Strategies - A Comprehensive Overview and Implementation Guide](https://www.linkedin.com/pulse/building-scalable-systems-cqrs-lessons-learned-best-baskaran)
 
 # My YouTube video Journey
 - [Learn some abbreviations with me!](https://youtu.be/87hIoZ_DZT4)
