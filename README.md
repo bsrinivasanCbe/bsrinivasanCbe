@@ -150,7 +150,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Go Vs Python: A Detailed Comparison of Two of the Most Popular Programming Languages](https://medium.com/cloudnloud/go-vs-python-a-detailed-comparison-of-two-of-the-most-popular-programming-languages-e45245b29e00)
 - [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐃𝐞𝐯𝐎𝐩𝐬: 𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐜𝐞𝐬𝐬](https://lnkd.in/gF-dJrYr)
 - [Configuring Virtual Environment for Python: A Guide for Getting Started — Part 1](https://medium.com/cloudnloud/configuring-virtual-environment-for-python-a-guide-for-getting-started-645ce457deb8)
-- [Exploring the Benefits of API Gateway as an Effective Design Pattern] (https://medium.com/cloudnloud/exploring-the-benefits-of-api-gateway-as-an-effective-design-pattern-5a374edd4020)
+- [Exploring the Benefits of API Gateway as an Effective Design Pattern](https://medium.com/cloudnloud/exploring-the-benefits-of-api-gateway-as-an-effective-design-pattern-5a374edd4020)
 - [Embracing Self-Confidence: Empowering the Introvert Within](https://medium.com/cloudnloud/embracing-self-confidence-empowering-the-introvert-within-7d90b395c3f)
 - [The Vital Roles and Responsibilities of Site Reliability Engineering (SRE) Professionals](https://medium.com/cloudnloud/the-vital-roles-and-responsibilities-of-site-reliability-engineering-sre-professionals-c71f364f135)
 - [Preparing for Your First Technical Meeting in Public: Tips for Success](https://medium.com/cloudnloud/preparing-for-your-first-technical-meeting-in-public-tips-for-success-545ac1b3cc4a)
