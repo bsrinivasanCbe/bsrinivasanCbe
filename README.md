@@ -44,6 +44,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [AWS Resources, Group, Ways to create](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021137560521383938-bV64?utm_source=share&utm_medium=member_desktop)
 - [Basic details of AWS resource - AMI, Regions, EC2,S3](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021136795547418624-L-dx?utm_source=share&utm_medium=member_desktop)
 - [𝐄𝐥𝐚𝐬𝐭𝐢𝐜𝐂𝐚𝐜𝐡𝐞 𝐢𝐧 𝐀𝐖𝐒, 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬, 𝐔𝐬𝐚𝐠𝐞 𝐭𝐢𝐞𝐫𝐬, 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7032049108454436864-Zx7j?utm_source=share&utm_medium=member_desktop)
+- [𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐲𝐩𝐞𝐬 𝐨𝐟 𝐀𝐖𝐒 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞𝐬: 𝐔𝐬𝐞 𝐜𝐚𝐬𝐞 𝐚𝐧𝐝 𝐛𝐞𝐧𝐞𝐟𝐢𝐭𝐬](https://lnkd.in/gNDhTTSG)
 
 # Azure
 - [Standalone Azure VM via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
@@ -52,6 +53,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Azure Resources Basic Details in Azure VM](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7020746869802762240-jRWV?utm_source=share&utm_medium=member_desktop)
 - [𝑨𝒛𝒖𝒓𝒆 𝑩𝒂𝒔𝒕𝒊𝒐𝒏 𝑯𝒐𝒔𝒕](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030254118334058496-B-mL?utm_source=share&utm_medium=member_desktop)
 - [Azure Key Vault](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cybertechdave100daysofcyberchallenge-activity-7041077698944790528-RpNB?utm_source=share&utm_medium=member_desktop)
+- [𝐋𝐞𝐭'𝐬 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐀𝐫𝐜 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬! ](https://lnkd.in/gHtS96DV)
+- [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐅𝐮𝐭𝐮𝐫𝐞 𝐨𝐟 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐀𝐳𝐮𝐫𝐞 𝐐𝐮𝐚𝐧𝐭𝐮𝐦 𝐚𝐧𝐝 𝐐#!](https://lnkd.in/g4yeM_Jp)
+- [𝐀𝐳𝐮𝐫𝐞 𝐂𝐲𝐜𝐥𝐞𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬, 𝒚𝒐𝒖𝒓 𝒖𝒍𝒕𝒊𝒎𝒂𝒕𝒆 𝒈𝒂𝒕𝒆𝒘𝒂𝒚 𝒕𝒐 𝒕𝒉𝒆 𝒘𝒐𝒓𝒍𝒅 𝒐𝒇 𝒄𝒍𝒐𝒖𝒅 𝒐𝒓𝒄𝒉𝒆𝒔𝒕𝒓𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕!](https://lnkd.in/gsTVeGer)
 
 # Terraform
 - [Why 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 ?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
@@ -98,6 +102,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Why Cybersecurity is in action?](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7022549789359693825-Xgtu?utm_source=share&utm_medium=member_desktop)
 - [𝑩𝒂𝒔𝒊𝒄𝒔 𝒐𝒇 𝑬𝒕𝒉𝒊𝒄𝒂𝒍 𝑯𝒂𝒄𝒌𝒊𝒏𝒈](https://www.linkedin.com/posts/srinivasanbaskaran_cloudnloud-technologies-youtube-activity-7033465600525959168-pj6c?utm_source=share&utm_medium=member_desktop)
 - [Tools in Ethical Hacking](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7033743245637558272-o-R3?utm_source=share&utm_medium=member_desktop)
+- [𝐔𝐧𝐥𝐨𝐜𝐤 𝐘𝐨𝐮𝐫 𝐒𝐨𝐜𝐢𝐚𝐥 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐆𝐃𝐏𝐑!](https://lnkd.in/g92TYdWZ)
 # .NET
 
 # SQL
@@ -110,6 +115,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Cloud Services - AWS, Azure, GCP](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-services-list-aws-azure-gcp-activity-7022149955150626816-GPK1?utm_source=share&utm_medium=member_desktop)
 - [𝑪𝑫𝑵 (𝑨𝑾𝑺 & 𝑨𝒛𝒖𝒓𝒆)](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025116915316514816-BXON?utm_source=share&utm_medium=member_desktop)
 - [Top 10 Cloud Providers 2023](https://www.linkedin.com/feed/update/urn:li:activity:7029519288457666560/)
+- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐥𝐨𝐮𝐝 𝐞𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥 𝐧𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠: 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐆𝐚𝐭𝐞𝐰𝐚𝐲 𝐓𝐲𝐩𝐞𝐬!](https://lnkd.in/gEhcpp3Z)
+- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐂𝐥𝐨𝐮𝐝 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞: 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐑𝐏𝐎 𝐚𝐧𝐝 𝐑𝐓𝐎](https://www.linkedin.com/posts/srinivasanbaskaran_good-day-greetings-technology-enthusiasts-activity-7109894381616205825-tCVM?utm_source=share&utm_medium=member_desktop)
+- [𝐋𝐨𝐚𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐫 𝐓𝐲𝐩𝐞𝐬: 𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐓𝐫𝐚𝐟𝐟𝐢𝐜 𝐅𝐥𝐨𝐰!](https://www.linkedin.com/posts/srinivasanbaskaran_loadbalancers-optimization-networktraffic-activity-7106863939988193281-spUt?utm_source=share&utm_medium=member_desktop)
 # Others
 - [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
 - [Health as Wealth Plus Growth](https://www.linkedin.com/posts/srinivasanbaskaran_wfm-health-carring-activity-7020780104968531968-zZOg?utm_source=share&utm_medium=member_desktop)
@@ -120,6 +128,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Open AI Day Chennai - 18 Mar 2023](https://www.linkedin.com/posts/srinivasanbaskaran_ai-azure-synapseanalytics-activity-7043218073503334400-IHGd?utm_source=share&utm_medium=member_desktop)
 - [𝐀𝐛𝐛𝐫𝐞𝐯𝐢𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐈𝐓 𝐣𝐚𝐫𝐠𝐨𝐧𝐬](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-learnings-activity-7045091014306385920-WJYF?utm_source=share&utm_medium=member_desktop)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐧𝐞𝐞𝐝 𝐰𝐡𝐞𝐧 𝐖𝐅𝐇](https://www.linkedin.com/posts/srinivasanbaskaran_14-mistakes-people-who-work-from-home-often-activity-7025380240159891456-AIoi?utm_source=share&utm_medium=member_desktop)
+- [𝐏𝐫𝐞𝐩𝐚𝐫𝐢𝐧𝐠 𝐟𝐨𝐫 𝐘𝐨𝐮𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐌𝐞𝐞𝐭𝐢𝐧𝐠 𝐢𝐧 𝐏𝐮𝐛𝐥𝐢𝐜: 𝐓𝐢𝐩𝐬 𝐟𝐨𝐫 𝐒𝐮𝐜𝐜𝐞𝐬𝐬](https://lnkd.in/gWhA5sYF)
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐛𝐨𝐨𝐤](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
