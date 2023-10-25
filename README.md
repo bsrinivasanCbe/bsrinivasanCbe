@@ -191,6 +191,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Building Scalable Systems with CQRS: Lessons Learned, Best Strategies - A Comprehensive Overview and Implementation Guide](https://www.linkedin.com/pulse/building-scalable-systems-cqrs-lessons-learned-best-baskaran)
 - [Programming Panorama: Top 25 Languages and Their Unique Flair](https://www.linkedin.com/pulse/programming-panorama-top-25-languages-unique-flair-baskaran)
 - [Exploring Different Types of Load Balancing Algorithms](https://www.linkedin.com/pulse/exploring-different-types-load-balancing-algorithms-baskaran)
+- [Unlocking the Cloud essential networking: Exploring Different Gateway Types!](https://www.linkedin.com/pulse/unlocking-cloud-essential-networking-exploring-gateway-baskaran)
+- [Applicant Tracking System](https://www.linkedin.com/pulse/applicant-tracking-system-srinivasan-baskaran-zansc)
+- [Understanding the Basics of AWS CloudWatch: A Step-by-Step Guide](https://www.linkedin.com/pulse/understanding-basics-aws-cloudwatch-step-by-step-guide-baskaran-glbyc)
 
 # My YouTube video Journey
 - [Learn some abbreviations with me!](https://youtu.be/87hIoZ_DZT4)
