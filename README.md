@@ -1,4 +1,4 @@
-I am **[Srinivasan Baskaran](https://www.linkedin.com/in/srinivasanbaskaran/)** ; my preferred call name is **Srini**. 
+I am **[Srinivasan Baskaran](https://www.linkedin.com/in/bsrinivasancbe/)** ; my preferred call name is **Srini**. 
 
 I come from a middle-class family and was born in Kangayam, located in the Tirupur District of Tamilnadu. Throughout my life, I have lived in various regions of Tamilnadu, Karnataka, and Maharashtra. I am the youngest of three siblings, with two elder brothers. My nuclear family resides in Chennai, while my parents live in Coimbatore.
 
@@ -9,6 +9,7 @@ With 𝐨𝐯𝐞𝐫 𝟏𝟓 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞�
 I am always on the lookout for new opportunities in the IT industry, and I am determined to reach my dream job as either a 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭 𝐨𝐫 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐤𝐢𝐥𝐥 𝐬𝐞𝐭𝐬. I am open to Full time, consulting, freelancing, or short-term assignments that offer an excellent learning curve in these related fields.
 
 - 𝑹𝒆𝒂𝒄𝒉 𝒎𝒆 𝒐𝒇𝒇𝒍𝒊𝒏𝒆 𝒊𝒏 𝑾𝒉𝒂𝒕'𝒔 𝒂𝒑𝒑 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 http://bitly.ws/ApEP , share your 𝒏𝒂𝒎𝒆 𝒂𝒏𝒅 𝒑𝒖𝒓𝒑𝒐𝒔𝒆 𝒐𝒇 𝒓𝒆𝒂𝒄𝒉𝒊𝒏𝒈 me for better communication.
+- [My Resume for reference.](/Breadcrumbsbsrinivasancbe.github.io/BSrinivasan_Resume_OnePager.pdf)
 
 ## Connect with me & 🤝🏻 Let's Keep in Touch
 <a href="https://github.com/bsrinivasanCbe/bsrinivasancbe" target="_blank">
