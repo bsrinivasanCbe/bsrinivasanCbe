@@ -14,7 +14,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 <a href="https://github.com/bsrinivasanCbe/bsrinivasancbe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/srinivasanbaskaran/" target="_blank">
+<a href="https://www.linkedin.com/in/bsrinivasancbe/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/srinivasanbaskaran" target="_blank">
@@ -205,8 +205,18 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Celebrating 100 Followers in medium.com for CloudnLoud Community](https://youtu.be/dXeit6ErCeY)
 - [Cloudnloud community Road Map April 2023 -  Part 1](https://youtu.be/hJL9I3IcB5w)
 - [CLOUDNLOUD TECH COMMUNITY INVITING ALL](https://youtu.be/AVM4K_cB8VI)
-- [Cloudnloud community Road Map April 2023 -  Part 2]()
-
+- [Cloudnloud community Road Map April 2023 -  Part 2](https://youtu.be/aWM1dzcplEk)
+- [Preparing for Your First Technical Meeting   Tips for success](https://youtu.be/q0aH2XWQmyI)
+- [Windows Performance Blog video](https://youtu.be/mPZgwdfD2R4)
+- [Webpage Status Codes and Their Significance to Category and SEO](https://youtu.be/6-PbV8g0iM8)
+- [Chandrayan 3](https://youtu.be/-Z09mITpj1U)
+- [Stay Hydrated: The Health Benefits of Drinking Water Every Day](https://youtu.be/dBRdT-iWSsM)
+- [Top 10 scenarios where SQL is preferred over NoSQL](https://youtu.be/4fGktg0xrVY)
+- [Overview of Cloud Edge Computing with Real time Use Cases](https://youtu.be/RSPPedgFW1E)
+- [Unlocking Excellence The 6 Pillars of AWS Cloud Well-Architected Framework](https://youtu.be/t91ZdzvKqPc)
+- [Unlocking the Powers of Types of Continuous Deployment in the Cloud](https://youtu.be/izlLMkZ2jpg)
+- [Explore the Power of AWS Deep Lens](https://youtu.be/crdhl4IS9PY)
+- [𝐉𝐞𝐧𝐤𝐢𝐧𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰](https://youtu.be/MONnawyJNJA)
 
 ## 🐦 Latest Tweets
 
