@@ -10,7 +10,6 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 - 𝑹𝒆𝒂𝒄𝒉 𝒎𝒆 𝒐𝒇𝒇𝒍𝒊𝒏𝒆 𝒊𝒏 𝑾𝒉𝒂𝒕'𝒔 𝒂𝒑𝒑 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 http://bitly.ws/ApEP , share your 𝒏𝒂𝒎𝒆 𝒂𝒏𝒅 𝒑𝒖𝒓𝒑𝒐𝒔𝒆 𝒐𝒇 𝒓𝒆𝒂𝒄𝒉𝒊𝒏𝒈 me for better communication.
 - [My Resume for reference.](https://github.com/bsrinivasanCbe/bsrinivasancbe.github.io/blob/main/BSrinivasan_Resume_OnePager.pdf)
-- 
 
 ## Connect with me & 🤝🏻 Let's Keep in Touch
 <a href="https://github.com/bsrinivasanCbe/bsrinivasancbe" target="_blank">
