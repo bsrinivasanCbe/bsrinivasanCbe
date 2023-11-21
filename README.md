@@ -54,8 +54,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Azure Resources Basic Details in Azure VM](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7020746869802762240-jRWV?utm_source=share&utm_medium=member_desktop)
 - [𝑨𝒛𝒖𝒓𝒆 𝑩𝒂𝒔𝒕𝒊𝒐𝒏 𝑯𝒐𝒔𝒕](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030254118334058496-B-mL?utm_source=share&utm_medium=member_desktop)
 - [Azure Key Vault](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cybertechdave100daysofcyberchallenge-activity-7041077698944790528-RpNB?utm_source=share&utm_medium=member_desktop)
-- [𝐋𝐞𝐭'𝐬 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐀𝐫𝐜 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬! ](https://lnkd.in/gHtS96DV)
-- [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐅𝐮𝐭𝐮𝐫𝐞 𝐨𝐟 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐀𝐳𝐮𝐫𝐞 𝐐𝐮𝐚𝐧𝐭𝐮𝐦 𝐚𝐧𝐝 𝐐#!](https://lnkd.in/g4yeM_Jp)
+- [𝐋𝐞𝐭'𝐬 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐀𝐫𝐜 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬! ](https://www.linkedin.com/feed/update/urn:li:activity:7105406833468608512?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7105406833468608512%29)
+- [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐅𝐮𝐭𝐮𝐫𝐞 𝐨𝐟 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐀𝐳𝐮𝐫𝐞 𝐐𝐮𝐚𝐧𝐭𝐮𝐦 𝐚𝐧𝐝 𝐐#!](https://www.linkedin.com/feed/update/urn:li:activity:7107588705627893760?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7107588705627893760%29)
 - [𝐀𝐳𝐮𝐫𝐞 𝐂𝐲𝐜𝐥𝐞𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬, 𝒚𝒐𝒖𝒓 𝒖𝒍𝒕𝒊𝒎𝒂𝒕𝒆 𝒈𝒂𝒕𝒆𝒘𝒂𝒚 𝒕𝒐 𝒕𝒉𝒆 𝒘𝒐𝒓𝒍𝒅 𝒐𝒇 𝒄𝒍𝒐𝒖𝒅 𝒐𝒓𝒄𝒉𝒆𝒔𝒕𝒓𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕!](https://www.linkedin.com/feed/update/urn:li:activity:7105968791037124608?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7105968791037124608%29)
 
 # Terraform
