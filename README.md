@@ -37,15 +37,15 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 # My Linkedin Journey
 
 # Golang
-- [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐡𝐢𝐬𝐭𝐨𝐫𝐲 𝐨𝐟 𝐆𝐎𝐋𝐀𝐍𝐆](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-infrastructure-automation-activity-7056566313070055424-60My?utm_source=share&utm_medium=member_desktop)
+- [Fundamental History of Golang](https://www.linkedin.com/posts/bsrinivasancbe_cloud-infrastructure-automation-activity-7056566313070055424-c6d5?utm_source=share&utm_medium=member_desktop)
 
 # AWS
-- [AWS EC2 creation via AMC portal](https://www.linkedin.com/posts/srinivasanbaskaran_creating-standalone-aws-ec2-instance-activity-7016019651595821057-XwBJ?utm_source=share&utm_medium=member_desktop)
-- [AWS S3 bucket creation via AMC portal](https://www.linkedin.com/feed/update/urn:li:activity:7018507963287945216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018507963287945216%29)
-- [AWS Resources, Group, Ways to create](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021137560521383938-bV64?utm_source=share&utm_medium=member_desktop)
-- [Basic details of AWS resource - AMI, Regions, EC2,S3](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021136795547418624-L-dx?utm_source=share&utm_medium=member_desktop)
-- [𝐄𝐥𝐚𝐬𝐭𝐢𝐜𝐂𝐚𝐜𝐡𝐞 𝐢𝐧 𝐀𝐖𝐒, 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬, 𝐔𝐬𝐚𝐠𝐞 𝐭𝐢𝐞𝐫𝐬, 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7032049108454436864-Zx7j?utm_source=share&utm_medium=member_desktop)
-- [𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐲𝐩𝐞𝐬 𝐨𝐟 𝐀𝐖𝐒 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞𝐬: 𝐔𝐬𝐞 𝐜𝐚𝐬𝐞 𝐚𝐧𝐝 𝐛𝐞𝐧𝐞𝐟𝐢𝐭𝐬](https://lnkd.in/gNDhTTSG)
+- [AWS EC2 creation via AMC portal](https://www.linkedin.com/posts/bsrinivasancbe_creating-standalone-aws-ec2-instance-activity-7016019651595821057-yEab?utm_source=share&utm_medium=member_desktop)
+- [AWS S3 bucket creation via AMC portal](https://www.linkedin.com/posts/bsrinivasancbe_aws-s3-bucket-creation-via-amc-portal-activity-7018507963287945216--Dof?utm_source=share&utm_medium=member_desktop)
+- [AWS Resources, Group, Ways to create](https://www.linkedin.com/posts/bsrinivasancbe_cloud-infrastructure-terraform-activity-7021137560521383938-dA_t?utm_source=share&utm_medium=member_desktop)
+- [Basic details of AWS resource - AMI, Regions, EC2,S3](https://www.linkedin.com/posts/bsrinivasancbe_cloud-infrastructure-terraform-activity-7021136795547418624-oIrs?utm_source=share&utm_medium=member_desktop)
+- [𝐄𝐥𝐚𝐬𝐭𝐢𝐜𝐂𝐚𝐜𝐡𝐞 𝐢𝐧 𝐀𝐖𝐒, 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬, 𝐔𝐬𝐚𝐠𝐞 𝐭𝐢𝐞𝐫𝐬, 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬](https://www.linkedin.com/posts/bsrinivasancbe_cloud-infrastructure-terraform-activity-7032049108454436864-tdYn?utm_source=share&utm_medium=member_desktop)
+- [𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐲𝐩𝐞𝐬 𝐨𝐟 𝐀𝐖𝐒 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞𝐬: 𝐔𝐬𝐞 𝐜𝐚𝐬𝐞 𝐚𝐧𝐝 𝐛𝐞𝐧𝐞𝐟𝐢𝐭𝐬](https://www.linkedin.com/posts/bsrinivasancbe_good-day-greetings-technology-enthusiasts-activity-7110117879710195712-n3TN?utm_source=share&utm_medium=member_desktop)
 
 # Azure
 - [Standalone Azure VM via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
