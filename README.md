@@ -24,7 +24,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 <a href="https://instagram.com/bsrinivasancbe" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCEAZ-oFL1sXVBaJ_bCwT7aw" target="_blank">
+<a href="https://www.youtube.com/@bsrinivasancbe/videos" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
 <a href="https://twitter.com/bsrinivasancbe" target="_blank">
@@ -254,6 +254,10 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Unlocking the Powers of Types of Continuous Deployment in the Cloud](https://youtu.be/izlLMkZ2jpg)
 - [Explore the Power of AWS Deep Lens](https://youtu.be/crdhl4IS9PY)
 - [𝐉𝐞𝐧𝐤𝐢𝐧𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰](https://youtu.be/MONnawyJNJA)
+
+
+# Motivational Monday
+- []()
 
 ## 🐦 Latest Tweets
 
