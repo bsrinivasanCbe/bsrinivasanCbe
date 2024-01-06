@@ -53,11 +53,18 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Simple VNET peering via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7016750382060097536?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7016750382060097536%29)
 - [Azure Resources Basic Details in Azure VM](https://www.linkedin.com/posts/bsrinivasancbe_coffeebreakwithclouddevops-cloud-infrastructure-activity-7020746869802762240-Fl5A?utm_source=share&utm_medium=member_desktop)
 - [Azure Cost Estimation](https://www.linkedin.com/posts/bsrinivasancbe_azure-pricing-calculator-activity-7023335540909359104-3wXg?utm_source=share&utm_medium=member_desktop)
-- [Azure Bastion Host](https://www.linkedin.com/posts/bsrinivasancbe_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030254118334058496-vLja?utm_source=share&utm_medium=member_desktop)
+- [Azure Bastion Host](https://www.linkedin.com/posts/bsrinivasancbe_coffeebreakwithclouddevops-cloud-infrastructure-activity-7030254118334058496-vLja?utm_source=share&utm_medium=member_desktop)CD
 - [Azure Key Vault](https://www.linkedin.com/posts/bsrinivasancbe_cloud-infrastructure-terraform-activity-7041077698944790528-Ml2P?utm_source=share&utm_medium=member_desktop)
 - [Let's discover the power of Azure Arc Services!](https://www.linkedin.com/feed/update/urn:li:activity:7105406833468608512?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7105406833468608512%29)
 - [Unlock the future of Computing with Azure Quantum & Q#!](https://www.linkedin.com/feed/update/urn:li:activity:7107588705627893760?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7107588705627893760%29)
 - [Azure CycleCloud Services, your ultimate gateway to the world of Cloud Orchestration & Management!](https://www.linkedin.com/feed/update/urn:li:activity:7105968791037124608?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7105968791037124608%29)
+-[Microsoft Entra ID - Rolled Out](https://www.linkedin.com/feed/update/urn:li:activity:7128052813103841281?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7128052813103841281%29)
+-[What is Microsoft Entra and What it can do for the Consumers?](https://www.linkedin.com/feed/update/urn:li:activity:7128393209101123584?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7128393209101123584%29)
+-[Learning Data Engineering path on Microsoft Azure](https://www.linkedin.com/feed/update/urn:li:activity:7133479138207694848?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7133479138207694848%29)
+- [Azure Landing Page](https://www.linkedin.com/feed/update/urn:li:activity:7130912850243440640?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7130912850243440640%29)
+- [Azure Tags](https://www.linkedin.com/feed/update/urn:li:activity:7148259198395367424?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148259198395367424%29)
+- [Availability Set](https://www.linkedin.com/feed/update/urn:li:activity:7148168603446431744?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148168603446431744%29)
+- [Virtual Machine Scale set (VMSS)](https://www.linkedin.com/feed/update/urn:li:activity:7147918926947991552?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7147918926947991552%29)
 
 # Terraform
 - [Why Terraform?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
@@ -73,6 +80,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [AWS S3 bucket creation via Terraform](https://www.linkedin.com/posts/srinivasanbaskaran_aws-s3-bucket-creation-via-terraform-activity-7018630929124364288-C38v?utm_source=share&utm_medium=member_desktop)
 - [Features in Terraform scripting - Variables, Data Source, cidrsubnet function](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021848267336400896-WgOx/?utm_source=share&utm_medium=member_desktop)
 - [cidrsubnet function](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021867464418332674-OWkT?utm_source=share&utm_medium=member_desktop)
+- [Top 5 strategies to Secure Credentials in Terraform](https://www.linkedin.com/posts/bsrinivasancbe_packer-infrastructureascode-devops-activity-7098174176846376960-ZwRv?utm_source=share&utm_medium=member_desktop)
 
 # GIT / GIT HUB
 - [GIT & GIT HUB](https://www.linkedin.com/feed/update/urn:li:activity:7015016583529992192?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015016583529992192%29)
@@ -80,6 +88,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 # DevOps
 - [Overview of DevOps](https://www.linkedin.com/feed/update/urn:li:activity:7014257420277350400?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7014257420277350400%29)
+
 
 # Linux Distribution
 
@@ -115,11 +124,11 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 # Multi-Cloud
 - [Cloud Services - AWS, Azure, GCP](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-services-list-aws-azure-gcp-activity-7022149955150626816-GPK1?utm_source=share&utm_medium=member_desktop)
-- [𝑪𝑫𝑵 (𝑨𝑾𝑺 & 𝑨𝒛𝒖𝒓𝒆)](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025116915316514816-BXON?utm_source=share&utm_medium=member_desktop)
+- [Content Delivery Network tools (𝑨𝑾𝑺 & 𝑨𝒛𝒖𝒓𝒆)](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025116915316514816-BXON?utm_source=share&utm_medium=member_desktop)
 - [Top 10 Cloud Providers 2023](https://www.linkedin.com/feed/update/urn:li:activity:7029519288457666560/)
-- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐥𝐨𝐮𝐝 𝐞𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥 𝐧𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠: 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐆𝐚𝐭𝐞𝐰𝐚𝐲 𝐓𝐲𝐩𝐞𝐬!](https://lnkd.in/gEhcpp3Z)
-- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐂𝐥𝐨𝐮𝐝 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞: 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐑𝐏𝐎 𝐚𝐧𝐝 𝐑𝐓𝐎](https://www.linkedin.com/posts/srinivasanbaskaran_good-day-greetings-technology-enthusiasts-activity-7109894381616205825-tCVM?utm_source=share&utm_medium=member_desktop)
-- [𝐋𝐨𝐚𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐫 𝐓𝐲𝐩𝐞𝐬: 𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐓𝐫𝐚𝐟𝐟𝐢𝐜 𝐅𝐥𝐨𝐰!](https://www.linkedin.com/posts/srinivasanbaskaran_loadbalancers-optimization-networktraffic-activity-7106863939988193281-spUt?utm_source=share&utm_medium=member_desktop)
+- [Unlocking the Cloud essential networking: Exploring different Gateway Types!](https://lnkd.in/gEhcpp3Z)
+- [Unlocking Cloud Resilience: Understanding RPO & RTO](https://www.linkedin.com/posts/srinivasanbaskaran_good-day-greetings-technology-enthusiasts-activity-7109894381616205825-tCVM?utm_source=share&utm_medium=member_desktop)
+- [Load Balancer Types: Balancing the Digital Traffic Flow!](https://www.linkedin.com/posts/srinivasanbaskaran_loadbalancers-optimization-networktraffic-activity-7106863939988193281-spUt?utm_source=share&utm_medium=member_desktop)
 # Others
 - [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
 - [Health as Wealth Plus Growth](https://www.linkedin.com/posts/srinivasanbaskaran_wfm-health-carring-activity-7020780104968531968-zZOg?utm_source=share&utm_medium=member_desktop)
@@ -131,6 +140,13 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐀𝐛𝐛𝐫𝐞𝐯𝐢𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐈𝐓 𝐣𝐚𝐫𝐠𝐨𝐧𝐬](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-learnings-activity-7045091014306385920-WJYF?utm_source=share&utm_medium=member_desktop)
 - [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐧𝐞𝐞𝐝 𝐰𝐡𝐞𝐧 𝐖𝐅𝐇](https://www.linkedin.com/posts/srinivasanbaskaran_14-mistakes-people-who-work-from-home-often-activity-7025380240159891456-AIoi?utm_source=share&utm_medium=member_desktop)
 - [𝐏𝐫𝐞𝐩𝐚𝐫𝐢𝐧𝐠 𝐟𝐨𝐫 𝐘𝐨𝐮𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐌𝐞𝐞𝐭𝐢𝐧𝐠 𝐢𝐧 𝐏𝐮𝐛𝐥𝐢𝐜: 𝐓𝐢𝐩𝐬 𝐟𝐨𝐫 𝐒𝐮𝐜𝐜𝐞𝐬𝐬](https://lnkd.in/gWhA5sYF)
+- [🚀 10 Strategies to Conquer Weaknesses and Achieve Success 🚀](https://www.linkedin.com/pulse/10-strategies-conquer-weaknesses-achieve-success-srinivasan-baskaran-9ei0c/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
+- [Work From Home (WFH) Best Practices](https://lnkd.in/gSXiFrNm)
+- [Thriving Inside and Out: 10 Tips for Optimal Mental and Physical Well-being](https://medium.com/cloudnloud/thriving-inside-and-out-10-tips-for-optimal-mental-and-physical-well-being-5836a71ea88c)
+- [A Comprehensive Guide to Prepare to face HR / Recruiter Interviews in MNCs](https://medium.com/cloudnloud/a-comprehensive-guide-to-prepare-to-face-hr-recruiter-interviews-in-mncs-423d3088fa85)
+- [Unlocking the Power of Early Learning: Exploring the Adage that What You Can’t Learn at 5, You Can’t Master at 60](https://medium.com/cloudnloud/unlocking-the-power-of-early-learning-exploring-the-adage-that-what-you-cant-learn-at-5-you-e256a7a30de8)
+- [Looking for new HR role? Ace Your first Interview: Self-Preparation Guide for MNCs](https://medium.com/@bsrinivasancbe/looking-for-new-hr-role-ace-your-first-interview-self-preparation-guide-for-mncs-fa9d0bb09d39)
+- [Thriving as an Introvert: Overcoming Shyness in Professional and Personal Life](https://medium.com/cloudnloud/thriving-as-an-introvert-overcoming-shyness-in-professional-and-personal-life-39b6b9fa38fb)
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐛𝐨𝐨𝐤](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
@@ -175,8 +191,6 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Demystifying the OSI Model: A Beginner’s Guide](https://medium.com/cloudnloud/demystifying-the-osi-model-a-beginners-guide-ad234bdc9714)
 - [Exploring the Spectrum of Software Testing: A Comprehensive Guide](https://medium.com/cloudnloud/exploring-the-spectrum-of-software-testing-a-comprehensive-guide-28651f629fad)
 - [Understanding CODD Rules: The Cornerstone of Relational Databases](https://medium.com/cloudnloud/understanding-codd-rules-the-cornerstone-of-relational-databases-7e166cc483d2)
-- [Thriving Inside and Out: 10 Tips for Optimal Mental and Physical Well-being](https://medium.com/cloudnloud/thriving-inside-and-out-10-tips-for-optimal-mental-and-physical-well-being-5836a71ea88c)
-- [A Comprehensive Guide to Prepare to face HR / Recruiter Interviews in MNCs](https://medium.com/cloudnloud/a-comprehensive-guide-to-prepare-to-face-hr-recruiter-interviews-in-mncs-423d3088fa85)
 - [Comprehensive Guide to AWS Monitoring Tools: Features and Use Cases](https://medium.com/cloudnloud/comprehensive-guide-to-aws-monitoring-tools-features-and-use-cases-8ab5a0ee3164)
 - [A Beginner’s Guide to Helm Charts: Step-by-Step Installation and Configuration](https://medium.com/cloudnloud/a-beginners-guide-to-helm-charts-step-by-step-installation-and-configuration-f07a619620ba)
 - [Choosing the Right Paradigm: Serverless Computing vs. Microservices Architecture](https://medium.com/cloudnloud/choosing-the-right-paradigm-serverless-computing-vs-microservices-architecture-f67e84bc5c12)
@@ -189,9 +203,6 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [A Strategic Guide to Threat Modelling for Today’s Cyber Landscape](https://medium.com/cloudnloud/a-strategic-guide-to-threat-modelling-for-todays-cyber-landscape-54294c4338ce)
 - [Unleashing the Power of .NET Core: A Journey through Cross-Platform Marvels, Performance Prowess, and Future Frontiers](https://medium.com/cloudnloud/unleashing-the-power-of-net-aa8d288946c9)
 - [Navigating the Evolution of C# Programming: From Birth to Beyond C# 12.0 and Future Innovations](https://medium.com/cloudnloud/navigating-the-evolution-of-c-programming-from-birth-to-beyond-c-12-0-and-future-innovations-0c617d50384e)
-- [Unlocking the Power of Early Learning: Exploring the Adage that What You Can’t Learn at 5, You Can’t Master at 60](https://medium.com/cloudnloud/unlocking-the-power-of-early-learning-exploring-the-adage-that-what-you-cant-learn-at-5-you-e256a7a30de8)
-- [Looking for new HR role? Ace Your first Interview: Self-Preparation Guide for MNCs](https://medium.com/@bsrinivasancbe/looking-for-new-hr-role-ace-your-first-interview-self-preparation-guide-for-mncs-fa9d0bb09d39)
-- [Thriving as an Introvert: Overcoming Shyness in Professional and Personal Life](https://medium.com/cloudnloud/thriving-as-an-introvert-overcoming-shyness-in-professional-and-personal-life-39b6b9fa38fb)
 - [Revolutionizing Development: A Comprehensive Journey Through CLR and .NET Core Evolution, Features, and Future Prospects](https://medium.com/cloudnloud/revolutionizing-development-a-comprehensive-journey-through-clr-and-net-4081683d6603)
 - [Comprehensive Guide to Successful Kubernetes Migration for On-Premises Workloads](https://medium.com/@bsrinivasancbe/comprehensive-guide-to-successful-kubernetes-migration-for-on-premises-workloads-655ccbc7ad4f)
 - [Unveiling SQL: The Secrets of SELECT Statement Execution and Optimization Strategies](https://medium.com/@bsrinivasancbe/unveiling-sql-the-secrets-of-select-statement-execution-and-optimization-strategies-7aced310c283)
@@ -207,12 +218,12 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [ChatGPT 4, What's new here?](https://www.linkedin.com/pulse/chatgpt-4-whats-new-here-srinivasan-baskaran)
 - [What is Python & Fundamental Biograph](https://www.linkedin.com/posts/bsrinivasancbe_cloud-infrastructure-terraform-activity-7047983125343191040-5WiA?utm_source=share&utm_medium=member_desktop)
 - [Maximizing Azure Security with Azure Private Link and Azure Private Endpoint](https://lnkd.in/gxhHvJC6)
-- [Work From Home (WFH) Best Practices](https://lnkd.in/gSXiFrNm)
 - [Building Scalable Systems with CQRS: Lessons Learned, Best Strategies - A Comprehensive Overview and Implementation Guide](https://www.linkedin.com/pulse/building-scalable-systems-cqrs-lessons-learned-best-baskaran)
 - [Programming Panorama: Top 25 Languages and Their Unique Flair](https://www.linkedin.com/pulse/programming-panorama-top-25-languages-unique-flair-baskaran)
 - [Exploring Different Types of Load Balancing Algorithms](https://www.linkedin.com/pulse/exploring-different-types-load-balancing-algorithms-baskaran)
 - [Unlocking the Cloud essential networking: Exploring Different Gateway Types!](https://www.linkedin.com/pulse/unlocking-cloud-essential-networking-exploring-gateway-baskaran)
 - [Applicant Tracking System](https://www.linkedin.com/pulse/applicant-tracking-system-srinivasan-baskaran-zansc)
+- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐃𝐞𝐯𝐎𝐩𝐬: 𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐜𝐞𝐬𝐬!!](https://www.linkedin.com/feed/update/urn:li:activity:7057019263013834752?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057019263013834752%29)
 - [Understanding the Basics of AWS CloudWatch: A Step-by-Step Guide](https://www.linkedin.com/pulse/understanding-basics-aws-cloudwatch-step-by-step-guide-baskaran-glbyc)
 - [𝐋𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐃𝐞𝐯𝐎𝐩𝐬 𝐂𝐚𝐫𝐞𝐞𝐫: 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬 𝐟𝐨𝐫 𝐄𝐧𝐭𝐫𝐲-𝐋𝐞𝐯𝐞𝐥 𝐒𝐮𝐜𝐜𝐞𝐬𝐬!](https://www.linkedin.com/pulse/srinivasan-baskaran-17fzc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
 - [GDPR: An In-depth Look into the Top 10 Requirements](https://www.linkedin.com/pulse/gdpr-in-depth-look-top-10-requirements-srinivasan-baskaran-zxxzc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
@@ -221,7 +232,6 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [AWS Storage Solutions Unveiled: Deep Dive into AWS Backup, EBS, EFS, Disaster Recovery, FSx, S3, S3 Glacier, and Storage Gateway](https://www.linkedin.com/pulse/aws-storage-solutions-unveiled-deep-dive-backup-ebs-efs-baskaran-vgnve/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
 - [Exploring AWS Developer Tools: A Comprehensive Guide to Boosting Productivity and Efficiency](https://www.linkedin.com/pulse/exploring-aws-developer-tools-comprehensive-guide-srinivasan-baskaran-xmqbc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
 - [Navigating the Different Storage Classes in Amazon S3](https://www.linkedin.com/pulse/navigating-different-storage-classes-amazon-s3-srinivasan-baskaran-k5xae/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
-- [🚀 10 Strategies to Conquer Weaknesses and Achieve Success 🚀](https://www.linkedin.com/pulse/10-strategies-conquer-weaknesses-achieve-success-srinivasan-baskaran-9ei0c/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
 - [Comparing AWS EC2 Compute Services: On-Demand vs. Spot vs. Reserved Instances - Pros, Cons, and Best Use Cases](https://www.linkedin.com/pulse/comparing-aws-ec2-compute-services-on-demand-vs-spot-baskaran-kvzmf/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
 - [The Evolution and History of Groovy: A DevOps Powerhouse](https://www.linkedin.com/pulse/evolution-history-groovy-devops-powerhouse-srinivasan-baskaran-axxwc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
 - [Getting Started with Groovy for DevOps](https://www.linkedin.com/pulse/getting-started-groovy-devops-srinivasan-baskaran-ickwc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
