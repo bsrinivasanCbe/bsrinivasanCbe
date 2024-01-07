@@ -207,6 +207,10 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Comprehensive Guide to Successful Kubernetes Migration for On-Premises Workloads](https://medium.com/@bsrinivasancbe/comprehensive-guide-to-successful-kubernetes-migration-for-on-premises-workloads-655ccbc7ad4f)
 - [Unveiling SQL: The Secrets of SELECT Statement Execution and Optimization Strategies](https://medium.com/@bsrinivasancbe/unveiling-sql-the-secrets-of-select-statement-execution-and-optimization-strategies-7aced310c283)
 - [Freelancing Jobs: Embracing the Remote Work Revolution](https://medium.com/cloudnloud/freelancing-jobs-embracing-the-remote-work-revolution-c0779cf1b5fc)
+- [Exploring the Art of SQL Indexing: Boosting Database Performance - Indexing Types, Algorithms, and Maintenance Strategies](https://medium.com/cloudnloud/exploring-the-art-of-sql-indexing-boosting-database-performance-indexing-types-algorithms-and-aa835118d1ad)
+- [How SQL Engine Works: A Simple Guide](https://medium.com/cloudnloud/how-sql-engine-works-a-simple-guide-3d09edd9d99e)
+- [How .NET Core CLR Works and What are its main Features](https://medium.com/cloudnloud/how-net-core-clr-works-and-what-are-its-main-features-df69bd085df8)
+- [Navigating the Data Landscape: A Guide to Different Roles and Responsibilities](https://medium.com/cloudnloud/navigating-the-data-landscape-a-guide-to-different-roles-and-responsibilities-af588b1fe8ba)
 
 # My LinkedIn Article Journey
 - [Learning ChatGPT in 60 minutes](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
@@ -240,6 +244,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Buildpacks: A CNCF Project and a Strong Contender Against Docker](https://www.linkedin.com/pulse/buildpacks-cncf-project-strong-contender-against-docker-baskaran-k5shc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
 - [Unveiling Pulumi: Revolutionizing Cloud Infrastructure as Code](https://www.linkedin.com/pulse/unveiling-pulumi-revolutionizing-cloud-infrastructure-baskaran-xebkc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
 - [𝐃𝐞𝐦𝐲𝐬𝐭𝐢𝐟𝐲𝐢𝐧𝐠 𝐀𝐈: 𝐀 𝐋𝐚𝐲𝐦𝐚𝐧'𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐓𝐲𝐩𝐞𝐬 𝐨𝐟 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞](https://www.linkedin.com/pulse/srinivasan-baskaran-wu6xc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
+- [Navigating the Digital Epoch: A Journey through the Evolution of Compute Service Technology- From Physical Servers to Serverless Compute](https://www.linkedin.com/pulse/navigating-digital-epoch-journey-through-evolution-compute-baskaran-lzi6c/)
+- [𝐄𝐦𝐛𝐚𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐭𝐡𝐞 𝐂𝐨𝐝𝐢𝐧𝐠 𝐉𝐨𝐮𝐫𝐧𝐞𝐲: 𝐅𝐢𝐫𝐬𝐭 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐢𝐧 𝐇𝐓𝐌𝐋/𝐂𝐒𝐒/𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭](https://www.linkedin.com/pulse/srinivasan-baskaran-z4qge/)
+- [Kubernetes, Concepts, and Use Cases](https://www.linkedin.com/pulse/kubernetes-concepts-use-cases-srinivasan-baskaran-astdc/)
 
 
 # My YouTube video Journey
