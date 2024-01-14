@@ -62,9 +62,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [What is Microsoft Entra and What it can do for the Consumers?](https://www.linkedin.com/feed/update/urn:li:activity:7128393209101123584?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7128393209101123584%29)
 - [Learning Data Engineering path on Microsoft Azure](https://www.linkedin.com/feed/update/urn:li:activity:7133479138207694848?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7133479138207694848%29)
 - [Azure Landing Page](https://www.linkedin.com/feed/update/urn:li:activity:7130912850243440640?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7130912850243440640%29)
-- [𝐄𝐥𝐞𝐯𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐀𝐳𝐮𝐫𝐞 𝐆𝐚𝐦𝐞 𝐰𝐢𝐭𝐡 𝐓𝐚𝐠𝐬](https://www.linkedin.com/feed/update/urn:li:activity:7148259198395367424?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148259198395367424%29)
-- [𝐄𝐥𝐞𝐯𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐀𝐳𝐮𝐫𝐞 𝐆𝐚𝐦𝐞: 𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐒𝐞𝐭𝐬](https://www.linkedin.com/feed/update/urn:li:activity:7148168603446431744?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148168603446431744%29)
-- [𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐕𝐌𝐒𝐒: 𝐀 𝐋𝐚𝐲𝐦𝐚𝐧'𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐒𝐞𝐚𝐦𝐥𝐞𝐬𝐬 𝐒𝐜𝐚𝐥𝐢𝐧𝐠](https://www.linkedin.com/feed/update/urn:li:activity:7147918926947991552?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7147918926947991552%29)
+- [Elevate Your Azure Game with Tags](https://www.linkedin.com/feed/update/urn:li:activity:7148259198395367424?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148259198395367424%29)
+- [Elevate Your Azure Game: Unleashing the Power of Availability Sets](https://www.linkedin.com/feed/update/urn:li:activity:7148168603446431744?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148168603446431744%29)
+- [Unleashing the Power of Azure VMSS: A Layman's Guide to Seamless Scaling](https://www.linkedin.com/feed/update/urn:li:activity:7147918926947991552?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7147918926947991552%29)
 
 # Terraform
 - [Why Terraform?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
