@@ -102,8 +102,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 # Kubernetes
 - [What it is, History & avaialble variants](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025751753895673856-Z9aK?utm_source=share&utm_medium=member_desktop)
-- [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐒𝐭𝐨𝐫𝐚𝐠𝐞](https://lnkd.in/gD7S2KKW)
-- [𝐔𝐧𝐥𝐞𝐚𝐬𝐡 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬: 𝐀 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐢𝐧𝐭𝐨 𝐢𝐭𝐬 𝐂𝐨𝐧𝐜𝐞𝐩𝐭𝐬 𝐚𝐧𝐝 𝐑𝐞𝐚𝐥-𝐖𝐨𝐫𝐥𝐝 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬](https://lnkd.in/gJ-ZEyYT)
+- [Unlock the Power of Kubernetes Storage](https://lnkd.in/gD7S2KKW)
+- [Unleash the Power of Kubernetes: A journey into its Concepts and Real-World Applications](https://lnkd.in/gJ-ZEyYT)
 
 # Cybersecurity (My New Domain)
 - [Understanding Cybersecurity concepts](https://www.linkedin.com/posts/srinivasanbaskaran_what-is-cyber-security-activity-7018989534071721984-9p4q?utm_source=share&utm_medium=member_desktop)
@@ -115,9 +115,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Why Cybersecurity is in action?](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7022549789359693825-Xgtu?utm_source=share&utm_medium=member_desktop)
 - [𝑩𝒂𝒔𝒊𝒄𝒔 𝒐𝒇 𝑬𝒕𝒉𝒊𝒄𝒂𝒍 𝑯𝒂𝒄𝒌𝒊𝒏𝒈](https://www.linkedin.com/posts/srinivasanbaskaran_cloudnloud-technologies-youtube-activity-7033465600525959168-pj6c?utm_source=share&utm_medium=member_desktop)
 - [Tools in Ethical Hacking](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7033743245637558272-o-R3?utm_source=share&utm_medium=member_desktop)
-- [𝐔𝐧𝐥𝐨𝐜𝐤 𝐘𝐨𝐮𝐫 𝐒𝐨𝐜𝐢𝐚𝐥 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐆𝐃𝐏𝐑!](https://lnkd.in/g92TYdWZ)
+- [Unlock Your Social Presence with GDPR](https://lnkd.in/g92TYdWZ)
 # .NET
-- [𝐇𝐨𝐰 .𝐍𝐄𝐓 𝐂𝐨𝐫𝐞 𝐂𝐋𝐑 𝐖𝐨𝐫𝐤𝐬 𝐚𝐧𝐝 𝐖𝐡𝐚𝐭 𝐚𝐫𝐞 𝐢𝐭𝐬 𝐦𝐚𝐢𝐧 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬](https://lnkd.in/ghApcNvn)
+- [How .NET Core CLR Works and What are its main Features](https://lnkd.in/ghApcNvn)
 
 # SQL
 
@@ -127,14 +127,14 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 # Multi-Cloud
 - [Cloud Services - AWS, Azure, GCP](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-services-list-aws-azure-gcp-activity-7022149955150626816-GPK1?utm_source=share&utm_medium=member_desktop)
-- [Content Delivery Network tools (𝑨𝑾𝑺 & 𝑨𝒛𝒖𝒓𝒆)](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025116915316514816-BXON?utm_source=share&utm_medium=member_desktop)
+- [Content Delivery Network tools (AWS Vs Azure)](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025116915316514816-BXON?utm_source=share&utm_medium=member_desktop)
 - [Top 10 Cloud Providers 2023](https://www.linkedin.com/feed/update/urn:li:activity:7029519288457666560/)
 - [Unlocking the Cloud essential networking: Exploring different Gateway Types!](https://lnkd.in/gEhcpp3Z)
 - [Unlocking Cloud Resilience: Understanding RPO & RTO](https://www.linkedin.com/posts/srinivasanbaskaran_good-day-greetings-technology-enthusiasts-activity-7109894381616205825-tCVM?utm_source=share&utm_medium=member_desktop)
 - [Load Balancer Types: Balancing the Digital Traffic Flow!](https://www.linkedin.com/posts/srinivasanbaskaran_loadbalancers-optimization-networktraffic-activity-7106863939988193281-spUt?utm_source=share&utm_medium=member_desktop)
-- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐨𝐬𝐭 𝐏𝐮𝐳𝐳𝐥𝐞 - 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐂𝐚𝐩𝐞𝐱 𝐚𝐧𝐝 𝐎𝐩𝐞𝐱 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐎𝐧-𝐏𝐫𝐞𝐦𝐢𝐬𝐞 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞](https://www.linkedin.com/posts/bsrinivasancbe_capexvsopex-cloudinfrastructure-onpremiseit-activity-7151581110202720256-eFWx?utm_source=share&utm_medium=member_desktop)
-- [𝐃𝐞𝐜𝐨𝐝𝐢𝐧𝐠 𝐭𝐡𝐞 𝐃𝐲𝐧𝐚𝐦𝐢𝐜𝐬 𝐨𝐟 𝐈𝐏 𝐀𝐝𝐝𝐫𝐞𝐬𝐬𝐞𝐬: 𝐔𝐧𝐯𝐞𝐢𝐥𝐢𝐧𝐠 𝐭𝐡𝐞 𝐄𝐬𝐬𝐞𝐧𝐜𝐞 𝐨𝐟 𝐒𝐭𝐚𝐭𝐢𝐜 𝐯𝐬. 𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐚𝐧𝐝 𝐏𝐮𝐛𝐥𝐢𝐜 𝐯𝐬. 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐈𝐏𝐬](https://lnkd.in/gSHp45Et)
-- [𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐈𝐏 𝐀𝐝𝐝𝐫𝐞𝐬𝐬𝐞𝐬: 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐋𝐚𝐧𝐝𝐬𝐜𝐚𝐩𝐞](https://lnkd.in/gwc-BstV)
+- [Unlocking the Cost Puzzle - Navigating Capex and Opex in Cloud & On Premise Infrastructure](https://www.linkedin.com/posts/bsrinivasancbe_capexvsopex-cloudinfrastructure-onpremiseit-activity-7151581110202720256-eFWx?utm_source=share&utm_medium=member_desktop)
+- [Decoding the Dynamics of IP Addresses: Unvelling the Essence of Static Vs Dynamic and Pubic Vs. Private IPs](https://lnkd.in/gSHp45Et)
+- [Understanding IP Addresses: Navigating the Digital Landscape](https://lnkd.in/gwc-BstV)
 # Others
 - [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
 - [Health as Wealth Plus Growth](https://www.linkedin.com/posts/srinivasanbaskaran_wfm-health-carring-activity-7020780104968531968-zZOg?utm_source=share&utm_medium=member_desktop)
@@ -143,8 +143,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [AWS reCap 2022 - Chennai meetup - 04 Feb 2023](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-linkedin-connections-activity-7027662384924155904-2N1E?utm_source=share&utm_medium=member_desktop)
 - [Azure AI Day, Chennai - 25 Feb 2023](https://www.linkedin.com/posts/srinivasanbaskaran_ai-azure-synapseanalytics-activity-7035272854803804160-MtY0?utm_source=share&utm_medium=member_desktop)
 - [Open AI Day Chennai - 18 Mar 2023](https://www.linkedin.com/posts/srinivasanbaskaran_ai-azure-synapseanalytics-activity-7043218073503334400-IHGd?utm_source=share&utm_medium=member_desktop)
-- [𝐀𝐛𝐛𝐫𝐞𝐯𝐢𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐈𝐓 𝐣𝐚𝐫𝐠𝐨𝐧𝐬](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-learnings-activity-7045091014306385920-WJYF?utm_source=share&utm_medium=member_desktop)
-- [𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐧𝐞𝐞𝐝 𝐰𝐡𝐞𝐧 𝐖𝐅𝐇](https://www.linkedin.com/posts/srinivasanbaskaran_14-mistakes-people-who-work-from-home-often-activity-7025380240159891456-AIoi?utm_source=share&utm_medium=member_desktop)
+- [Abbreviations of IT jargons](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-learnings-activity-7045091014306385920-WJYF?utm_source=share&utm_medium=member_desktop)
+- [Fundamental need when WFH](https://www.linkedin.com/posts/srinivasanbaskaran_14-mistakes-people-who-work-from-home-often-activity-7025380240159891456-AIoi?utm_source=share&utm_medium=member_desktop)
 - [𝐏𝐫𝐞𝐩𝐚𝐫𝐢𝐧𝐠 𝐟𝐨𝐫 𝐘𝐨𝐮𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐌𝐞𝐞𝐭𝐢𝐧𝐠 𝐢𝐧 𝐏𝐮𝐛𝐥𝐢𝐜: 𝐓𝐢𝐩𝐬 𝐟𝐨𝐫 𝐒𝐮𝐜𝐜𝐞𝐬𝐬](https://lnkd.in/gWhA5sYF)
 - [🚀 10 Strategies to Conquer Weaknesses and Achieve Success 🚀](https://www.linkedin.com/pulse/10-strategies-conquer-weaknesses-achieve-success-srinivasan-baskaran-9ei0c/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BF989uUV7TbicjVvXG0ntIQ%3D%3D)
 - [Work From Home (WFH) Best Practices](https://lnkd.in/gSXiFrNm)
