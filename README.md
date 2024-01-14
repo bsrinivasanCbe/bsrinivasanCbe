@@ -62,9 +62,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [What is Microsoft Entra and What it can do for the Consumers?](https://www.linkedin.com/feed/update/urn:li:activity:7128393209101123584?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7128393209101123584%29)
 - [Learning Data Engineering path on Microsoft Azure](https://www.linkedin.com/feed/update/urn:li:activity:7133479138207694848?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7133479138207694848%29)
 - [Azure Landing Page](https://www.linkedin.com/feed/update/urn:li:activity:7130912850243440640?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7130912850243440640%29)
-- [Azure Tags](https://www.linkedin.com/feed/update/urn:li:activity:7148259198395367424?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148259198395367424%29)
-- [Availability Set](https://www.linkedin.com/feed/update/urn:li:activity:7148168603446431744?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148168603446431744%29)
-- [Virtual Machine Scale set (VMSS)](https://www.linkedin.com/feed/update/urn:li:activity:7147918926947991552?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7147918926947991552%29)
+- [𝐄𝐥𝐞𝐯𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐀𝐳𝐮𝐫𝐞 𝐆𝐚𝐦𝐞 𝐰𝐢𝐭𝐡 𝐓𝐚𝐠𝐬](https://www.linkedin.com/feed/update/urn:li:activity:7148259198395367424?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148259198395367424%29)
+- [𝐄𝐥𝐞𝐯𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐀𝐳𝐮𝐫𝐞 𝐆𝐚𝐦𝐞: 𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐒𝐞𝐭𝐬](https://www.linkedin.com/feed/update/urn:li:activity:7148168603446431744?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148168603446431744%29)
+- [𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐕𝐌𝐒𝐒: 𝐀 𝐋𝐚𝐲𝐦𝐚𝐧'𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐒𝐞𝐚𝐦𝐥𝐞𝐬𝐬 𝐒𝐜𝐚𝐥𝐢𝐧𝐠](https://www.linkedin.com/feed/update/urn:li:activity:7147918926947991552?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7147918926947991552%29)
 
 # Terraform
 - [Why Terraform?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
@@ -102,6 +102,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 # Kubernetes
 - [What it is, History & avaialble variants](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025751753895673856-Z9aK?utm_source=share&utm_medium=member_desktop)
+- [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐒𝐭𝐨𝐫𝐚𝐠𝐞](https://lnkd.in/gD7S2KKW)
+- [𝐔𝐧𝐥𝐞𝐚𝐬𝐡 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬: 𝐀 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐢𝐧𝐭𝐨 𝐢𝐭𝐬 𝐂𝐨𝐧𝐜𝐞𝐩𝐭𝐬 𝐚𝐧𝐝 𝐑𝐞𝐚𝐥-𝐖𝐨𝐫𝐥𝐝 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬] (https://lnkd.in/gJ-ZEyYT)
 
 # Cybersecurity (My New Domain)
 - [Understanding Cybersecurity concepts](https://www.linkedin.com/posts/srinivasanbaskaran_what-is-cyber-security-activity-7018989534071721984-9p4q?utm_source=share&utm_medium=member_desktop)
@@ -115,6 +117,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Tools in Ethical Hacking](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7033743245637558272-o-R3?utm_source=share&utm_medium=member_desktop)
 - [𝐔𝐧𝐥𝐨𝐜𝐤 𝐘𝐨𝐮𝐫 𝐒𝐨𝐜𝐢𝐚𝐥 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐆𝐃𝐏𝐑!](https://lnkd.in/g92TYdWZ)
 # .NET
+- [𝐇𝐨𝐰 .𝐍𝐄𝐓 𝐂𝐨𝐫𝐞 𝐂𝐋𝐑 𝐖𝐨𝐫𝐤𝐬 𝐚𝐧𝐝 𝐖𝐡𝐚𝐭 𝐚𝐫𝐞 𝐢𝐭𝐬 𝐦𝐚𝐢𝐧 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬](https://lnkd.in/ghApcNvn)
 
 # SQL
 
@@ -129,6 +132,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Unlocking the Cloud essential networking: Exploring different Gateway Types!](https://lnkd.in/gEhcpp3Z)
 - [Unlocking Cloud Resilience: Understanding RPO & RTO](https://www.linkedin.com/posts/srinivasanbaskaran_good-day-greetings-technology-enthusiasts-activity-7109894381616205825-tCVM?utm_source=share&utm_medium=member_desktop)
 - [Load Balancer Types: Balancing the Digital Traffic Flow!](https://www.linkedin.com/posts/srinivasanbaskaran_loadbalancers-optimization-networktraffic-activity-7106863939988193281-spUt?utm_source=share&utm_medium=member_desktop)
+- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐨𝐬𝐭 𝐏𝐮𝐳𝐳𝐥𝐞 - 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐂𝐚𝐩𝐞𝐱 𝐚𝐧𝐝 𝐎𝐩𝐞𝐱 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐎𝐧-𝐏𝐫𝐞𝐦𝐢𝐬𝐞 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞](https://www.linkedin.com/posts/bsrinivasancbe_capexvsopex-cloudinfrastructure-onpremiseit-activity-7151581110202720256-eFWx?utm_source=share&utm_medium=member_desktop)
+- [𝐃𝐞𝐜𝐨𝐝𝐢𝐧𝐠 𝐭𝐡𝐞 𝐃𝐲𝐧𝐚𝐦𝐢𝐜𝐬 𝐨𝐟 𝐈𝐏 𝐀𝐝𝐝𝐫𝐞𝐬𝐬𝐞𝐬: 𝐔𝐧𝐯𝐞𝐢𝐥𝐢𝐧𝐠 𝐭𝐡𝐞 𝐄𝐬𝐬𝐞𝐧𝐜𝐞 𝐨𝐟 𝐒𝐭𝐚𝐭𝐢𝐜 𝐯𝐬. 𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐚𝐧𝐝 𝐏𝐮𝐛𝐥𝐢𝐜 𝐯𝐬. 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐈𝐏𝐬](https://lnkd.in/gSHp45Et)
+- [𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐈𝐏 𝐀𝐝𝐝𝐫𝐞𝐬𝐬𝐞𝐬: 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐋𝐚𝐧𝐝𝐬𝐜𝐚𝐩𝐞](https://lnkd.in/gwc-BstV)
 # Others
 - [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
 - [Health as Wealth Plus Growth](https://www.linkedin.com/posts/srinivasanbaskaran_wfm-health-carring-activity-7020780104968531968-zZOg?utm_source=share&utm_medium=member_desktop)
@@ -154,6 +160,10 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [The Indispensable Power of Self-Motivation](https://medium.com/@bsrinivasancbe/the-indispensable-power-of-self-motivation-9d43719879ea)
 - [Unleashing Your Personal Brand and Mastering Niche Selling Skills: A Path to Public Success](https://medium.com/@bsrinivasancbe/unleashing-your-personal-brand-and-mastering-niche-selling-skills-a-path-to-public-success-5064bde8907)
 - [Teamwork Enhances Decision-Making, Collaboration, and Creativeness](https://medium.com/cloudnloud/teamwork-enhances-decision-making-collaboration-and-creativeness-fb27752349b8)
+- [𝐄𝐦𝐩𝐨𝐰𝐞𝐫 𝐘𝐨𝐮𝐫 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞 𝐉𝐨𝐮𝐫𝐧𝐞𝐲: 𝐁𝐫𝐞𝐚𝐤𝐢𝐧𝐠 𝐅𝐫𝐞𝐞 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐂𝐡𝐚𝐢𝐧𝐬 𝐨𝐟 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐞 𝐒𝐥𝐚𝐯𝐞𝐫𝐲 𝐚𝐧𝐝 𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐚 𝐕𝐢𝐬𝐢𝐨𝐧𝐚𝐫𝐲 𝐖𝐨𝐫𝐤 𝐂𝐮𝐥𝐭𝐮𝐫𝐞](https://www.linkedin.com/posts/bsrinivasancbe_freelancerevolution-techfreedom-careergrowth-activity-7152237951463079937-6dJ0?utm_source=share&utm_medium=member_desktop)
+- [AWS Cloud Club Student Community Day 2024 - SJIT Chennai](https://www.linkedin.com/posts/bsrinivasancbe_aws-cloud-club-student-community-day-2024-activity-7152019098074288128-Rj-c?utm_source=share&utm_medium=member_desktop)
+- [𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐒𝐩𝐢𝐫𝐢𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐒𝐞𝐚𝐬𝐨𝐧: 𝐀 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐂𝐡𝐫𝐢𝐬𝐭𝐦𝐚𝐬 𝐚𝐧𝐝 𝐄𝐚𝐬𝐭𝐞𝐫](https://lnkd.in/g34d4J3x)
+- [𝐇𝐚𝐩𝐩𝐲 𝐍𝐞𝐰 𝐘𝐞𝐚𝐫 𝟐𝟎𝟐𝟒 𝐭𝐨 𝐚𝐥𝐥 𝐦𝐲 𝐚𝐦𝐚𝐳𝐢𝐧𝐠 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬 𝐚𝐧𝐝 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬](https://lnkd.in/gPnuG5NM)
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐛𝐨𝐨𝐤](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
@@ -275,6 +285,12 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 # Motivational Monday
 - []()
+
+# The Bed Time Story
+- [𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐌𝐮𝐥𝐭𝐢𝐟𝐚𝐜𝐞𝐭𝐞𝐝 𝐁𝐫𝐢𝐥𝐥𝐢𝐚𝐧𝐜𝐞: 𝐀 𝐁𝐞𝐝𝐭𝐢𝐦𝐞 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐈𝐧𝐬𝐩𝐢𝐫𝐞𝐝 𝐏𝐞𝐚𝐜𝐨𝐜𝐤](https://lnkd.in/ga8Ss2rn)
+- [𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐈𝐧𝐧𝐞𝐫 𝐂𝐡𝐞𝐞𝐭𝐚𝐡: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐏𝐮𝐫𝐩𝐨𝐬𝐞𝐟𝐮𝐥 𝐏𝐮𝐫𝐬𝐮𝐢𝐭](https://lnkd.in/gc4PiS5p)
+- [𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐌𝐮𝐥𝐭𝐢𝐟𝐚𝐜𝐞𝐭𝐞𝐝 𝐁𝐫𝐢𝐥𝐥𝐢𝐚𝐧𝐜𝐞: 𝐀 𝐁𝐞𝐝𝐭𝐢𝐦𝐞 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐈𝐧𝐬𝐩𝐢𝐫𝐞𝐝 𝐏𝐞𝐚𝐜𝐨𝐜𝐤](https://lnkd.in/ga8Ss2rn)
+- [𝐓𝐡𝐞 𝐔𝐧𝐲𝐢𝐞𝐥𝐝𝐢𝐧𝐠 𝐑𝐨𝐚𝐫 𝐨𝐟 𝐭𝐡𝐞 𝐉𝐮𝐧𝐠𝐥𝐞 𝐊𝐢𝐧𝐠: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐈𝐧𝐧𝐞𝐫 𝐂𝐨𝐮𝐫𝐚𝐠𝐞](https://lnkd.in/gcZWFASN)
 
 ## 🐦 Latest Tweets
 
