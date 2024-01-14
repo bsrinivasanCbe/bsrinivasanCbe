@@ -103,7 +103,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 # Kubernetes
 - [What it is, History & avaialble variants](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025751753895673856-Z9aK?utm_source=share&utm_medium=member_desktop)
 - [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐒𝐭𝐨𝐫𝐚𝐠𝐞](https://lnkd.in/gD7S2KKW)
-- [𝐔𝐧𝐥𝐞𝐚𝐬𝐡 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬: 𝐀 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐢𝐧𝐭𝐨 𝐢𝐭𝐬 𝐂𝐨𝐧𝐜𝐞𝐩𝐭𝐬 𝐚𝐧𝐝 𝐑𝐞𝐚𝐥-𝐖𝐨𝐫𝐥𝐝 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬] (https://lnkd.in/gJ-ZEyYT)
+- [𝐔𝐧𝐥𝐞𝐚𝐬𝐡 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬: 𝐀 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐢𝐧𝐭𝐨 𝐢𝐭𝐬 𝐂𝐨𝐧𝐜𝐞𝐩𝐭𝐬 𝐚𝐧𝐝 𝐑𝐞𝐚𝐥-𝐖𝐨𝐫𝐥𝐝 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬](https://lnkd.in/gJ-ZEyYT)
 
 # Cybersecurity (My New Domain)
 - [Understanding Cybersecurity concepts](https://www.linkedin.com/posts/srinivasanbaskaran_what-is-cyber-security-activity-7018989534071721984-9p4q?utm_source=share&utm_medium=member_desktop)
