@@ -164,6 +164,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [AWS Cloud Club Student Community Day 2024 - SJIT Chennai](https://www.linkedin.com/posts/bsrinivasancbe_aws-cloud-club-student-community-day-2024-activity-7152019098074288128-Rj-c?utm_source=share&utm_medium=member_desktop)
 - [𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐒𝐩𝐢𝐫𝐢𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐒𝐞𝐚𝐬𝐨𝐧: 𝐀 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐂𝐡𝐫𝐢𝐬𝐭𝐦𝐚𝐬 𝐚𝐧𝐝 𝐄𝐚𝐬𝐭𝐞𝐫](https://lnkd.in/g34d4J3x)
 - [𝐇𝐚𝐩𝐩𝐲 𝐍𝐞𝐰 𝐘𝐞𝐚𝐫 𝟐𝟎𝟐𝟒 𝐭𝐨 𝐚𝐥𝐥 𝐦𝐲 𝐚𝐦𝐚𝐳𝐢𝐧𝐠 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬 𝐚𝐧𝐝 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬](https://lnkd.in/gPnuG5NM)
+- [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐒𝐞𝐜𝐫𝐞𝐭𝐬 𝐭𝐨 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐒𝐥𝐞𝐞𝐩: 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐍𝐢𝐠𝐡𝐭𝐬, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐋𝐢𝐟𝐞!](https://www.linkedin.com/feed/update/urn:li:activity:7136375922290556928?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7136375922290556928%29)
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐛𝐨𝐨𝐤](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
@@ -286,6 +287,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - []()
 
 # The Bed Time Story
+- [𝐓𝐡𝐞 𝐁𝐞𝐞'𝐬 𝐒𝐲𝐦𝐩𝐡𝐨𝐧𝐲: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐑𝐞𝐥𝐞𝐧𝐭𝐥𝐞𝐬𝐬 𝐏𝐮𝐫𝐬𝐮𝐢𝐭 𝐚𝐧𝐝 𝐒𝐰𝐞𝐞𝐭 𝐑𝐞𝐰𝐚𝐫𝐝𝐬](https://www.linkedin.com/feed/update/urn:li:activity:7142196243610386433?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7142196243610386433%29)
 - [𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐌𝐮𝐥𝐭𝐢𝐟𝐚𝐜𝐞𝐭𝐞𝐝 𝐁𝐫𝐢𝐥𝐥𝐢𝐚𝐧𝐜𝐞: 𝐀 𝐁𝐞𝐝𝐭𝐢𝐦𝐞 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐈𝐧𝐬𝐩𝐢𝐫𝐞𝐝 𝐏𝐞𝐚𝐜𝐨𝐜𝐤](https://lnkd.in/ga8Ss2rn)
 - [𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐈𝐧𝐧𝐞𝐫 𝐂𝐡𝐞𝐞𝐭𝐚𝐡: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐏𝐮𝐫𝐩𝐨𝐬𝐞𝐟𝐮𝐥 𝐏𝐮𝐫𝐬𝐮𝐢𝐭](https://lnkd.in/gc4PiS5p)
 - [𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐌𝐮𝐥𝐭𝐢𝐟𝐚𝐜𝐞𝐭𝐞𝐝 𝐁𝐫𝐢𝐥𝐥𝐢𝐚𝐧𝐜𝐞: 𝐀 𝐁𝐞𝐝𝐭𝐢𝐦𝐞 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐈𝐧𝐬𝐩𝐢𝐫𝐞𝐝 𝐏𝐞𝐚𝐜𝐨𝐜𝐤](https://lnkd.in/ga8Ss2rn)
