@@ -289,7 +289,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [22 Jan 2024](https://lnkd.in/gg2F5BxC)
 
 # The Bed Time Story
+- [𝐓𝐡𝐞 𝐌𝐞𝐭𝐚𝐦𝐨𝐫𝐩𝐡𝐨𝐬𝐢𝐬: 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐋𝐢𝐟𝐞'𝐬 𝐎𝐛𝐬𝐭𝐚𝐜𝐥𝐞𝐬 - 𝐀 𝐏𝐢𝐥𝐠𝐫𝐢𝐦𝐚𝐠𝐞 𝐨𝐟 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/bsrinivasancbe_transformation-growth-resilience-activity-7124461193771024385-iJNL?utm_source=share&utm_medium=member_desktop)
 - [The Remarkable Ant Colony: A Tale of Self-Organization](https://www.linkedin.com/posts/bsrinivasancbe_the-remarkable-ant-colony-a-tale-of-self-organization-activity-7121568603543371776-rr2E?utm_source=share&utm_medium=member_desktop)
+- [Embracing Positivity in Every Jungle Swing!](https://www.linkedin.com/posts/bsrinivasancbe_positivevibes-gratitudeattitude-happymonkey-activity-7134556416320708609-7EqL?utm_source=share&utm_medium=member_desktop)
 - [𝐓𝐡𝐞 𝐁𝐞𝐞'𝐬 𝐒𝐲𝐦𝐩𝐡𝐨𝐧𝐲: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐑𝐞𝐥𝐞𝐧𝐭𝐥𝐞𝐬𝐬 𝐏𝐮𝐫𝐬𝐮𝐢𝐭 𝐚𝐧𝐝 𝐒𝐰𝐞𝐞𝐭 𝐑𝐞𝐰𝐚𝐫𝐝𝐬](https://www.linkedin.com/feed/update/urn:li:activity:7142196243610386433?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7142196243610386433%29)
 - [𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐌𝐮𝐥𝐭𝐢𝐟𝐚𝐜𝐞𝐭𝐞𝐝 𝐁𝐫𝐢𝐥𝐥𝐢𝐚𝐧𝐜𝐞: 𝐀 𝐁𝐞𝐝𝐭𝐢𝐦𝐞 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐈𝐧𝐬𝐩𝐢𝐫𝐞𝐝 𝐏𝐞𝐚𝐜𝐨𝐜𝐤](https://lnkd.in/ga8Ss2rn)
 - [𝐒𝐨𝐚𝐫𝐢𝐧𝐠 𝐀𝐛𝐨𝐯𝐞: 𝐓𝐡𝐞 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐌𝐚𝐣𝐞𝐬𝐭𝐢𝐜 𝐄𝐚𝐠𝐥𝐞](https://www.linkedin.com/posts/bsrinivasancbe_eagles-activity-7137112646675283968-Hv-P?utm_source=share&utm_medium=member_desktop)
