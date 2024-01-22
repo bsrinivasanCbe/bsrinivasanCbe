@@ -284,14 +284,17 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 
 # Motivational Monday
-- []()
+- [08 Jan 2024](https://lnkd.in/g8QtzEXJ)
+- [15 Jan 2024](https://www.linkedin.com/posts/bsrinivasancbe_coffeebreakwithclouddevops-motivational-success-activity-7152517294500237312-y9ce?utm_source=share&utm_medium=member_desktop)
+- [22 Jan 2024](https://lnkd.in/gg2F5BxC)
 
 # The Bed Time Story
 - [𝐓𝐡𝐞 𝐁𝐞𝐞'𝐬 𝐒𝐲𝐦𝐩𝐡𝐨𝐧𝐲: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐑𝐞𝐥𝐞𝐧𝐭𝐥𝐞𝐬𝐬 𝐏𝐮𝐫𝐬𝐮𝐢𝐭 𝐚𝐧𝐝 𝐒𝐰𝐞𝐞𝐭 𝐑𝐞𝐰𝐚𝐫𝐝𝐬](https://www.linkedin.com/feed/update/urn:li:activity:7142196243610386433?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7142196243610386433%29)
 - [𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐌𝐮𝐥𝐭𝐢𝐟𝐚𝐜𝐞𝐭𝐞𝐝 𝐁𝐫𝐢𝐥𝐥𝐢𝐚𝐧𝐜𝐞: 𝐀 𝐁𝐞𝐝𝐭𝐢𝐦𝐞 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐈𝐧𝐬𝐩𝐢𝐫𝐞𝐝 𝐏𝐞𝐚𝐜𝐨𝐜𝐤](https://lnkd.in/ga8Ss2rn)
-- [𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐈𝐧𝐧𝐞𝐫 𝐂𝐡𝐞𝐞𝐭𝐚𝐡: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐏𝐮𝐫𝐩𝐨𝐬𝐞𝐟𝐮𝐥 𝐏𝐮𝐫𝐬𝐮𝐢𝐭](https://lnkd.in/gc4PiS5p)
 - [𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐌𝐮𝐥𝐭𝐢𝐟𝐚𝐜𝐞𝐭𝐞𝐝 𝐁𝐫𝐢𝐥𝐥𝐢𝐚𝐧𝐜𝐞: 𝐀 𝐁𝐞𝐝𝐭𝐢𝐦𝐞 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐈𝐧𝐬𝐩𝐢𝐫𝐞𝐝 𝐏𝐞𝐚𝐜𝐨𝐜𝐤](https://lnkd.in/ga8Ss2rn)
 - [𝐓𝐡𝐞 𝐔𝐧𝐲𝐢𝐞𝐥𝐝𝐢𝐧𝐠 𝐑𝐨𝐚𝐫 𝐨𝐟 𝐭𝐡𝐞 𝐉𝐮𝐧𝐠𝐥𝐞 𝐊𝐢𝐧𝐠: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐈𝐧𝐧𝐞𝐫 𝐂𝐨𝐮𝐫𝐚𝐠𝐞](https://lnkd.in/gcZWFASN)
+- [𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐈𝐧𝐧𝐞𝐫 𝐂𝐡𝐞𝐞𝐭𝐚𝐡: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐏𝐮𝐫𝐩𝐨𝐬𝐞𝐟𝐮𝐥 𝐏𝐮𝐫𝐬𝐮𝐢𝐭](https://lnkd.in/gc4PiS5p)
+- [𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐇𝐚𝐫𝐦𝐨𝐧𝐲: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐎𝐜𝐞𝐚𝐧𝐢𝐜 𝐉𝐨𝐲 𝐚𝐧𝐝 𝐇𝐮𝐦𝐚𝐧 𝐔𝐧𝐢𝐭𝐲](https://lnkd.in/gnk_Qz2z)
 
 ## 🐦 Latest Tweets
 
