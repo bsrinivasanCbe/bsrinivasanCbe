@@ -289,6 +289,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [22 Jan 2024](https://lnkd.in/gg2F5BxC)
 
 # The Bed Time Story
+- [𝐅𝐞𝐚𝐭𝐡𝐞𝐫𝐬 𝐨𝐟 𝐁𝐞𝐭𝐫𝐚𝐲𝐚𝐥: 𝐓𝐡𝐞 𝐂𝐫𝐨𝐰 𝐚𝐧𝐝 𝐅𝐨𝐱 𝐅𝐚𝐛𝐥𝐞](https://www.linkedin.com/posts/bsrinivasancbe_trustandconfidence-bedtimestories-coffeebreakwithclouddevops-activity-7115026211013066753-8QrF?utm_source=share&utm_medium=member_desktop)
 - [𝐓𝐡𝐞 𝐌𝐞𝐭𝐚𝐦𝐨𝐫𝐩𝐡𝐨𝐬𝐢𝐬: 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐋𝐢𝐟𝐞'𝐬 𝐎𝐛𝐬𝐭𝐚𝐜𝐥𝐞𝐬 - 𝐀 𝐏𝐢𝐥𝐠𝐫𝐢𝐦𝐚𝐠𝐞 𝐨𝐟 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/bsrinivasancbe_transformation-growth-resilience-activity-7124461193771024385-iJNL?utm_source=share&utm_medium=member_desktop)
 - [The Remarkable Ant Colony: A Tale of Self-Organization](https://www.linkedin.com/posts/bsrinivasancbe_the-remarkable-ant-colony-a-tale-of-self-organization-activity-7121568603543371776-rr2E?utm_source=share&utm_medium=member_desktop)
 - [Embracing Positivity in Every Jungle Swing!](https://www.linkedin.com/posts/bsrinivasancbe_positivevibes-gratitudeattitude-happymonkey-activity-7134556416320708609-7EqL?utm_source=share&utm_medium=member_desktop)
