@@ -46,6 +46,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Basic details of AWS resource - AMI, Regions, EC2,S3](https://www.linkedin.com/posts/bsrinivasancbe_cloud-infrastructure-terraform-activity-7021136795547418624-oIrs?utm_source=share&utm_medium=member_desktop)
 - [ElasticCache in AWS, Features, Usage tiers, Components](https://www.linkedin.com/posts/bsrinivasancbe_cloud-infrastructure-terraform-activity-7032049108454436864-tdYn?utm_source=share&utm_medium=member_desktop)
 - [Exploring types of AWS Instances: Use Case and Benefits](https://www.linkedin.com/posts/bsrinivasancbe_good-day-greetings-technology-enthusiasts-activity-7110117879710195712-n3TN?utm_source=share&utm_medium=member_desktop)
+-[𝐀𝐦𝐚𝐳𝐨𝐧 𝐒𝟑 𝐄𝐱𝐩𝐫𝐞𝐬𝐬 𝐎𝐧𝐞 𝐙𝐨𝐧𝐞](https://lnkd.in/gfvY66A7)
 
 # Azure
 - [Standalone Azure VM via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
@@ -91,6 +92,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 
 # Linux Distribution
+- [𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐋𝐢𝐧𝐮𝐱 𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠: 𝐀 𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐭𝐡𝐞 𝐓𝐨𝐩 𝟏𝟎 𝐒𝐡𝐞𝐥𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬](https://www.linkedin.com/feed/update/urn:li:activity:7159538521660092416?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7159538521660092416%29)
+- [𝐋𝐢𝐧𝐮𝐱 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐃𝐞𝐜𝐨𝐝𝐞𝐝: 𝟐𝟓 𝐊𝐞𝐲 𝐓𝐞𝐫𝐦𝐬 𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐢𝐞𝐝](https://lnkd.in/gKN6gRc9)
+- [𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥 𝐋𝐢𝐧𝐮𝐱 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐟𝐨𝐫 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫𝐬: 𝐀 𝐂𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐯𝐞 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐋𝐈](https://www.linkedin.com/posts/bsrinivasancbe_essential-linux-commands-for-beginners-a-activity-7123942737397125120-TFf0?utm_source=share&utm_medium=member_desktop)
 
 # Docker
 
@@ -132,9 +136,10 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Unlocking the Cloud essential networking: Exploring different Gateway Types!](https://lnkd.in/gEhcpp3Z)
 - [Unlocking Cloud Resilience: Understanding RPO & RTO](https://www.linkedin.com/posts/srinivasanbaskaran_good-day-greetings-technology-enthusiasts-activity-7109894381616205825-tCVM?utm_source=share&utm_medium=member_desktop)
 - [Load Balancer Types: Balancing the Digital Traffic Flow!](https://www.linkedin.com/posts/srinivasanbaskaran_loadbalancers-optimization-networktraffic-activity-7106863939988193281-spUt?utm_source=share&utm_medium=member_desktop)
-- [Unlocking the Cost Puzzle - Navigating Capex and Opex in Cloud & On Premise Infrastructure](https://www.linkedin.com/posts/bsrinivasancbe_capexvsopex-cloudinfrastructure-onpremiseit-activity-7151581110202720256-eFWx?utm_source=share&utm_medium=member_desktop)
+- [Unlocking the Cost Puzzle - Navigating Capex and Opex in Cloud & On Premise Infrastructure](https://lnkd.in/detAeJ78)
 - [Decoding the Dynamics of IP Addresses: Unvelling the Essence of Static Vs Dynamic and Pubic Vs. Private IPs](https://lnkd.in/gSHp45Et)
 - [Understanding IP Addresses: Navigating the Digital Landscape](https://lnkd.in/gwc-BstV)
+- [𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐂𝐈𝐃𝐑 𝐢𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠](https://lnkd.in/gF9yTcja)
 # Others
 - [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
 - [Health as Wealth Plus Growth](https://www.linkedin.com/posts/srinivasanbaskaran_wfm-health-carring-activity-7020780104968531968-zZOg?utm_source=share&utm_medium=member_desktop)
@@ -160,11 +165,13 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [The Indispensable Power of Self-Motivation](https://medium.com/@bsrinivasancbe/the-indispensable-power-of-self-motivation-9d43719879ea)
 - [Unleashing Your Personal Brand and Mastering Niche Selling Skills: A Path to Public Success](https://medium.com/@bsrinivasancbe/unleashing-your-personal-brand-and-mastering-niche-selling-skills-a-path-to-public-success-5064bde8907)
 - [Teamwork Enhances Decision-Making, Collaboration, and Creativeness](https://medium.com/cloudnloud/teamwork-enhances-decision-making-collaboration-and-creativeness-fb27752349b8)
-- [𝐄𝐦𝐩𝐨𝐰𝐞𝐫 𝐘𝐨𝐮𝐫 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞 𝐉𝐨𝐮𝐫𝐧𝐞𝐲: 𝐁𝐫𝐞𝐚𝐤𝐢𝐧𝐠 𝐅𝐫𝐞𝐞 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐂𝐡𝐚𝐢𝐧𝐬 𝐨𝐟 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐞 𝐒𝐥𝐚𝐯𝐞𝐫𝐲 𝐚𝐧𝐝 𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐚 𝐕𝐢𝐬𝐢𝐨𝐧𝐚𝐫𝐲 𝐖𝐨𝐫𝐤 𝐂𝐮𝐥𝐭𝐮𝐫𝐞](https://www.linkedin.com/posts/bsrinivasancbe_freelancerevolution-techfreedom-careergrowth-activity-7152237951463079937-6dJ0?utm_source=share&utm_medium=member_desktop)
+- [𝐄𝐦𝐩𝐨𝐰𝐞𝐫 𝐘𝐨𝐮𝐫 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞 𝐉𝐨𝐮𝐫𝐧𝐞𝐲: 𝐁𝐫𝐞𝐚𝐤𝐢𝐧𝐠 𝐅𝐫𝐞𝐞 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐂𝐡𝐚𝐢𝐧𝐬 𝐨𝐟 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐞 𝐒𝐥𝐚𝐯𝐞𝐫𝐲 𝐚𝐧𝐝 𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐚 𝐕𝐢𝐬𝐢𝐨𝐧𝐚𝐫𝐲 𝐖𝐨𝐫𝐤 𝐂𝐮𝐥𝐭𝐮𝐫𝐞](https://lnkd.in/gTcCfamQ)
 - [AWS Cloud Club Student Community Day 2024 - SJIT Chennai](https://www.linkedin.com/posts/bsrinivasancbe_aws-cloud-club-student-community-day-2024-activity-7152019098074288128-Rj-c?utm_source=share&utm_medium=member_desktop)
 - [𝐄𝐦𝐛𝐫𝐚𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐒𝐩𝐢𝐫𝐢𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐒𝐞𝐚𝐬𝐨𝐧: 𝐀 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐂𝐡𝐫𝐢𝐬𝐭𝐦𝐚𝐬 𝐚𝐧𝐝 𝐄𝐚𝐬𝐭𝐞𝐫](https://lnkd.in/g34d4J3x)
 - [𝐇𝐚𝐩𝐩𝐲 𝐍𝐞𝐰 𝐘𝐞𝐚𝐫 𝟐𝟎𝟐𝟒 𝐭𝐨 𝐚𝐥𝐥 𝐦𝐲 𝐚𝐦𝐚𝐳𝐢𝐧𝐠 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬 𝐚𝐧𝐝 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬](https://lnkd.in/gPnuG5NM)
 - [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐒𝐞𝐜𝐫𝐞𝐭𝐬 𝐭𝐨 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐒𝐥𝐞𝐞𝐩: 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐍𝐢𝐠𝐡𝐭𝐬, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐋𝐢𝐟𝐞!](https://www.linkedin.com/feed/update/urn:li:activity:7136375922290556928?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7136375922290556928%29)
+- [Top Webservers in Market](https://lnkd.in/gC8d56Zb)
+- [LinkedIn 8k Milestone](https://lnkd.in/gnCwqJ2t)
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐛𝐨𝐨𝐤](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
@@ -287,6 +294,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [08 Jan 2024](https://lnkd.in/g8QtzEXJ)
 - [15 Jan 2024](https://www.linkedin.com/posts/bsrinivasancbe_coffeebreakwithclouddevops-motivational-success-activity-7152517294500237312-y9ce?utm_source=share&utm_medium=member_desktop)
 - [22 Jan 2024](https://lnkd.in/gg2F5BxC)
+- [05 Feb 2024](https://lnkd.in/gQFWHqRk)
+
 
 # The Bed Time Story
 - [𝐅𝐞𝐚𝐭𝐡𝐞𝐫𝐬 𝐨𝐟 𝐁𝐞𝐭𝐫𝐚𝐲𝐚𝐥: 𝐓𝐡𝐞 𝐂𝐫𝐨𝐰 𝐚𝐧𝐝 𝐅𝐨𝐱 𝐅𝐚𝐛𝐥𝐞](https://www.linkedin.com/posts/bsrinivasancbe_trustandconfidence-bedtimestories-coffeebreakwithclouddevops-activity-7115026211013066753-8QrF?utm_source=share&utm_medium=member_desktop)
@@ -299,6 +308,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐓𝐡𝐞 𝐔𝐧𝐲𝐢𝐞𝐥𝐝𝐢𝐧𝐠 𝐑𝐨𝐚𝐫 𝐨𝐟 𝐭𝐡𝐞 𝐉𝐮𝐧𝐠𝐥𝐞 𝐊𝐢𝐧𝐠: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐈𝐧𝐧𝐞𝐫 𝐂𝐨𝐮𝐫𝐚𝐠𝐞](https://lnkd.in/gcZWFASN)
 - [𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐈𝐧𝐧𝐞𝐫 𝐂𝐡𝐞𝐞𝐭𝐚𝐡: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐏𝐮𝐫𝐩𝐨𝐬𝐞𝐟𝐮𝐥 𝐏𝐮𝐫𝐬𝐮𝐢𝐭](https://lnkd.in/gc4PiS5p)
 - [𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐇𝐚𝐫𝐦𝐨𝐧𝐲: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐎𝐜𝐞𝐚𝐧𝐢𝐜 𝐉𝐨𝐲 𝐚𝐧𝐝 𝐇𝐮𝐦𝐚𝐧 𝐔𝐧𝐢𝐭𝐲](https://lnkd.in/gnk_Qz2z)
+- [𝐋𝐞𝐚𝐩 𝐨𝐟 𝐃𝐫𝐞𝐚𝐦𝐬: 𝐀 𝐑𝐚𝐛𝐛𝐢𝐭'𝐬 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐌𝐢𝐝𝐧𝐢𝐠𝐡𝐭 𝐌𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 - The Bed Time Story](https://lnkd.in/gJBRrwvh)	
 
 ## 🐦 Latest Tweets
 
