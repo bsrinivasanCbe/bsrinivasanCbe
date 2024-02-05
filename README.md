@@ -46,7 +46,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Basic details of AWS resource - AMI, Regions, EC2,S3](https://www.linkedin.com/posts/bsrinivasancbe_cloud-infrastructure-terraform-activity-7021136795547418624-oIrs?utm_source=share&utm_medium=member_desktop)
 - [ElasticCache in AWS, Features, Usage tiers, Components](https://www.linkedin.com/posts/bsrinivasancbe_cloud-infrastructure-terraform-activity-7032049108454436864-tdYn?utm_source=share&utm_medium=member_desktop)
 - [Exploring types of AWS Instances: Use Case and Benefits](https://www.linkedin.com/posts/bsrinivasancbe_good-day-greetings-technology-enthusiasts-activity-7110117879710195712-n3TN?utm_source=share&utm_medium=member_desktop)
--[𝐀𝐦𝐚𝐳𝐨𝐧 𝐒𝟑 𝐄𝐱𝐩𝐫𝐞𝐬𝐬 𝐎𝐧𝐞 𝐙𝐨𝐧𝐞](https://lnkd.in/gfvY66A7)
+- [𝐀𝐦𝐚𝐳𝐨𝐧 𝐒𝟑 𝐄𝐱𝐩𝐫𝐞𝐬𝐬 𝐎𝐧𝐞 𝐙𝐨𝐧𝐞](https://lnkd.in/gfvY66A7)
 
 # Azure
 - [Standalone Azure VM via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
