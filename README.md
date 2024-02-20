@@ -4,7 +4,7 @@ I come from a middle-class family and was born in Kangayam, located in the Tirup
 
 In terms of education, I have a 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐚 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐏𝐡𝐲𝐬𝐢𝐜𝐬 from the University of Bharathiar. Additionally, I hold a 𝐌𝐚𝐬𝐭𝐞𝐫 𝐨𝐅 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 from the same university.
 
-With 𝐨𝐯𝐞𝐫 𝟏𝟓 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐈𝐓 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐚𝐬 𝐟𝐮𝐥𝐥 𝐭𝐢𝐦𝐞 from Startup, mid level and some MNCs 𝐚𝐧𝐝 𝐨𝐯𝐞𝐫 6 𝐲𝐞𝐚𝐫𝐬 𝐚𝐬 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐢𝐧𝐠 IT Consulting / Training / Mentoring, I have worked in various roles and have gained expertise in Microsoft stack, Open Source, Multi-Cloud DevOps and other niche skills. My skill set is diverse and well-rounded, making me a valuable asset to any team.
+With 𝐨𝐯𝐞𝐫 𝟏𝟓 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐈𝐓 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐚𝐬 𝐟𝐮𝐥𝐥 𝐭𝐢𝐦𝐞 from Startup, Mid Sized and some MNCs 𝐚𝐧𝐝 𝐨𝐯𝐞𝐫 6 𝐲𝐞𝐚𝐫𝐬 𝐚𝐬 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐢𝐧𝐠 IT Consulting / Training / Mentoring, I have worked in various roles and have gained expertise in Microsoft stack, Open Source, Multi-Cloud DevOps and other niche skills. My skill set is diverse and well-rounded, making me a valuable asset to any team.
 
 I am always on the lookout for new opportunities in the IT industry, and I am determined to reach my dream job as either a 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭 𝐨𝐫 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐤𝐢𝐥𝐥 𝐬𝐞𝐭𝐬. I am open to Full time, consulting, freelancing, or short-term assignments that offer an excellent learning curve in these related fields.
 
