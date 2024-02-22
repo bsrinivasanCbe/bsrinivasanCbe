@@ -66,6 +66,10 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Elevate Your Azure Game with Tags](https://www.linkedin.com/feed/update/urn:li:activity:7148259198395367424?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148259198395367424%29)
 - [Elevate Your Azure Game: Unleashing the Power of Availability Sets](https://www.linkedin.com/feed/update/urn:li:activity:7148168603446431744?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148168603446431744%29)
 - [Unleashing the Power of Azure VMSS: A Layman's Guide to Seamless Scaling](https://www.linkedin.com/feed/update/urn:li:activity:7147918926947991552?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7147918926947991552%29)
+- [𝐔𝐧𝐯𝐞𝐢𝐥𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐋𝐨𝐚𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐫𝐬 𝐚𝐧𝐝 𝐀𝐳𝐮𝐫𝐞 𝐓𝐫𝐚𝐟𝐟𝐢𝐜 𝐌𝐚𝐧𝐚𝐠𝐞𝐫𝐬: 𝐀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐅𝐚𝐜𝐞-𝐎𝐟𝐟!](https://lnkd.in/gwrMT-93)
+- [𝐃𝐞𝐦𝐲𝐬𝐭𝐢𝐟𝐲𝐢𝐧𝐠 𝐀𝐳𝐮𝐫𝐞 𝐋𝐨𝐚𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐫 𝐯𝐬. 𝐀𝐳𝐮𝐫𝐞 𝐓𝐫𝐚𝐟𝐟𝐢𝐜 𝐌𝐚𝐧𝐚𝐠𝐞𝐫: 𝐂𝐡𝐨𝐨𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐓𝐨𝐨𝐥 𝐟𝐨𝐫 𝐘𝐨𝐮𝐫 𝐖𝐨𝐫𝐤𝐥𝐨𝐚𝐝](https://lnkd.in/g9NEJKUm)
+- [𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐀𝐳𝐮𝐫𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐆𝐚𝐭𝐞𝐰𝐚𝐲 𝐯𝐬 𝐀𝐳𝐮𝐫𝐞 𝐅𝐫𝐨𝐧𝐭 𝐃𝐨𝐨𝐫: 𝐂𝐡𝐨𝐨𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐘𝐨𝐮𝐫 𝐍𝐞𝐞𝐝𝐬](https://lnkd.in/gq5bUqMa)
+- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲: 𝐀 𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐀𝐳𝐮𝐫𝐞 𝐃𝐢𝐬𝐤 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧](https://lnkd.in/ewVv9_tt)
 
 # Terraform
 - [Why Terraform?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
@@ -140,6 +144,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Decoding the Dynamics of IP Addresses: Unvelling the Essence of Static Vs Dynamic and Pubic Vs. Private IPs](https://lnkd.in/gSHp45Et)
 - [Understanding IP Addresses: Navigating the Digital Landscape](https://lnkd.in/gwc-BstV)
 - [𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐂𝐈𝐃𝐑 𝐢𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠](https://lnkd.in/gF9yTcja)
+- [𝐔𝐧𝐫𝐚𝐯𝐞𝐥𝐢𝐧𝐠 𝐭𝐡𝐞 𝐌𝐲𝐬𝐭𝐞𝐫𝐲 𝐨𝐟 𝐅𝐮𝐥𝐥𝐲 𝐐𝐮𝐚𝐥𝐢𝐟𝐢𝐞𝐝 𝐃𝐨𝐦𝐚𝐢𝐧 𝐍𝐚𝐦𝐞𝐬 (𝐅𝐐𝐃𝐍𝐬)](https://lnkd.in/gRbcvNiF)
 # Others
 - [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
 - [Health as Wealth Plus Growth](https://www.linkedin.com/posts/srinivasanbaskaran_wfm-health-carring-activity-7020780104968531968-zZOg?utm_source=share&utm_medium=member_desktop)
@@ -171,7 +176,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐇𝐚𝐩𝐩𝐲 𝐍𝐞𝐰 𝐘𝐞𝐚𝐫 𝟐𝟎𝟐𝟒 𝐭𝐨 𝐚𝐥𝐥 𝐦𝐲 𝐚𝐦𝐚𝐳𝐢𝐧𝐠 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬 𝐚𝐧𝐝 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬](https://lnkd.in/gPnuG5NM)
 - [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐒𝐞𝐜𝐫𝐞𝐭𝐬 𝐭𝐨 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐒𝐥𝐞𝐞𝐩: 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐍𝐢𝐠𝐡𝐭𝐬, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐋𝐢𝐟𝐞!](https://www.linkedin.com/feed/update/urn:li:activity:7136375922290556928?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7136375922290556928%29)
 - [Top Webservers in Market](https://lnkd.in/gC8d56Zb)
-- [LinkedIn 8k Milestone](https://lnkd.in/gnCwqJ2t)
+- [LinkedIn 8k Followers Milestone](https://lnkd.in/gnCwqJ2t)
+
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐛𝐨𝐨𝐤](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
@@ -289,13 +295,13 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Explore the Power of AWS Deep Lens](https://youtu.be/crdhl4IS9PY)
 - [Jenkins Architecture Overview](https://youtu.be/MONnawyJNJA)
 
-
 # Motivational Monday
 - [08 Jan 2024](https://lnkd.in/g8QtzEXJ)
 - [15 Jan 2024](https://www.linkedin.com/posts/bsrinivasancbe_coffeebreakwithclouddevops-motivational-success-activity-7152517294500237312-y9ce?utm_source=share&utm_medium=member_desktop)
 - [22 Jan 2024](https://lnkd.in/gg2F5BxC)
 - [05 Feb 2024](https://lnkd.in/gQFWHqRk)
-
+- [12 Feb 2024](https://lnkd.in/grRncj8D)
+- [19 Feb 2024](https://lnkd.in/gjzsXWxR)
 
 # The Bed Time Story
 - [𝐅𝐞𝐚𝐭𝐡𝐞𝐫𝐬 𝐨𝐟 𝐁𝐞𝐭𝐫𝐚𝐲𝐚𝐥: 𝐓𝐡𝐞 𝐂𝐫𝐨𝐰 𝐚𝐧𝐝 𝐅𝐨𝐱 𝐅𝐚𝐛𝐥𝐞](https://www.linkedin.com/posts/bsrinivasancbe_trustandconfidence-bedtimestories-coffeebreakwithclouddevops-activity-7115026211013066753-8QrF?utm_source=share&utm_medium=member_desktop)
@@ -309,6 +315,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐈𝐧𝐧𝐞𝐫 𝐂𝐡𝐞𝐞𝐭𝐚𝐡: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐏𝐮𝐫𝐩𝐨𝐬𝐞𝐟𝐮𝐥 𝐏𝐮𝐫𝐬𝐮𝐢𝐭](https://lnkd.in/gc4PiS5p)
 - [𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐇𝐚𝐫𝐦𝐨𝐧𝐲: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐎𝐜𝐞𝐚𝐧𝐢𝐜 𝐉𝐨𝐲 𝐚𝐧𝐝 𝐇𝐮𝐦𝐚𝐧 𝐔𝐧𝐢𝐭𝐲](https://lnkd.in/gnk_Qz2z)
 - [𝐋𝐞𝐚𝐩 𝐨𝐟 𝐃𝐫𝐞𝐚𝐦𝐬: 𝐀 𝐑𝐚𝐛𝐛𝐢𝐭'𝐬 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐌𝐢𝐝𝐧𝐢𝐠𝐡𝐭 𝐌𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 - The Bed Time Story](https://lnkd.in/gJBRrwvh)	
+- [𝐓𝐡𝐞 𝐔𝐧𝐬𝐭𝐨𝐩𝐩𝐚𝐛𝐥𝐞 𝐓𝐫𝐞𝐞: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐆𝐫𝐨𝐰𝐭𝐡 - 𝐓𝐡𝐞 𝐁𝐞𝐝 𝐓𝐢𝐦𝐞 𝐒𝐭𝐨𝐫𝐲](https://lnkd.in/gVQHvZV9)
 
 ## 🐦 Latest Tweets
 
