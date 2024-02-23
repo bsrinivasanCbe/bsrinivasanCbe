@@ -177,6 +177,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐒𝐞𝐜𝐫𝐞𝐭𝐬 𝐭𝐨 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐒𝐥𝐞𝐞𝐩: 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐍𝐢𝐠𝐡𝐭𝐬, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐋𝐢𝐟𝐞!](https://www.linkedin.com/feed/update/urn:li:activity:7136375922290556928?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7136375922290556928%29)
 - [Top Webservers in Market](https://lnkd.in/gC8d56Zb)
 - [LinkedIn 8k Followers Milestone](https://lnkd.in/gnCwqJ2t)
+- [𝐃𝐞𝐟𝐞𝐧𝐝𝐢𝐧𝐠 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐅𝐫𝐨𝐧𝐭𝐢𝐞𝐫𝐬: 𝐀 𝐋𝐚𝐲𝐦𝐚𝐧’𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐃𝐃𝐨𝐒 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐚𝐧𝐝 𝐌𝐢𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧](https://lnkd.in/gZggUTRa)
+- [𝐌𝐢𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 𝐟𝐨𝐫 𝐃𝐃𝐎𝐒](https://lnkd.in/gawm4M9p)
 
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
