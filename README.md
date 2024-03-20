@@ -47,6 +47,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [ElasticCache in AWS, Features, Usage tiers, Components](https://www.linkedin.com/posts/bsrinivasancbe_cloud-infrastructure-terraform-activity-7032049108454436864-tdYn?utm_source=share&utm_medium=member_desktop)
 - [Exploring types of AWS Instances: Use Case and Benefits](https://www.linkedin.com/posts/bsrinivasancbe_good-day-greetings-technology-enthusiasts-activity-7110117879710195712-n3TN?utm_source=share&utm_medium=member_desktop)
 - [𝐀𝐦𝐚𝐳𝐨𝐧 𝐒𝟑 𝐄𝐱𝐩𝐫𝐞𝐬𝐬 𝐎𝐧𝐞 𝐙𝐨𝐧𝐞](https://lnkd.in/gfvY66A7)
+- [𝙀𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙎𝙚𝙧𝙫𝙚𝙧𝙡𝙚𝙨𝙨: 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨 𝙬𝙞𝙩𝙝 𝘼𝙒𝙎 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘾𝙤𝙢𝙥𝙤𝙨𝙚𝙧](https://lnkd.in/gvfU2R6X)
 
 # Azure
 - [Standalone Azure VM via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
@@ -70,6 +71,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐃𝐞𝐦𝐲𝐬𝐭𝐢𝐟𝐲𝐢𝐧𝐠 𝐀𝐳𝐮𝐫𝐞 𝐋𝐨𝐚𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐫 𝐯𝐬. 𝐀𝐳𝐮𝐫𝐞 𝐓𝐫𝐚𝐟𝐟𝐢𝐜 𝐌𝐚𝐧𝐚𝐠𝐞𝐫: 𝐂𝐡𝐨𝐨𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐓𝐨𝐨𝐥 𝐟𝐨𝐫 𝐘𝐨𝐮𝐫 𝐖𝐨𝐫𝐤𝐥𝐨𝐚𝐝](https://lnkd.in/g9NEJKUm)
 - [𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐀𝐳𝐮𝐫𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐆𝐚𝐭𝐞𝐰𝐚𝐲 𝐯𝐬 𝐀𝐳𝐮𝐫𝐞 𝐅𝐫𝐨𝐧𝐭 𝐃𝐨𝐨𝐫: 𝐂𝐡𝐨𝐨𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐘𝐨𝐮𝐫 𝐍𝐞𝐞𝐝𝐬](https://lnkd.in/gq5bUqMa)
 - [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲: 𝐀 𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐀𝐳𝐮𝐫𝐞 𝐃𝐢𝐬𝐤 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧](https://lnkd.in/ewVv9_tt)
+- [𝐔𝐧𝐥𝐞𝐚𝐬𝐡 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐏𝐨𝐫𝐭𝐚𝐥 𝐟𝐨𝐫 𝐒𝐞𝐚𝐦𝐥𝐞𝐬𝐬 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐧𝐭𝐫𝐨𝐥!](https://lnkd.in/g9HnBkZX)
+- [𝑨𝒛𝒖𝒓𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑸𝒖𝒊𝒄𝒌 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘: 7 𝑬𝒔𝒔𝒆𝒏𝒕𝒊𝒂𝒍 𝑷𝒓𝒂𝒄𝒕𝒊𝒄𝒆𝒔 𝒕𝒐 𝑺𝒂𝒇𝒆𝒈𝒖𝒂𝒓𝒅 𝒀𝒐𝒖𝒓 𝑰𝒏𝒇𝒓𝒂𝒔𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆](https://lnkd.in/eEXHc6-P)
 
 # Terraform
 - [Why Terraform?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
@@ -101,6 +104,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥 𝐋𝐢𝐧𝐮𝐱 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐟𝐨𝐫 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫𝐬: 𝐀 𝐂𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐯𝐞 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐋𝐈](https://www.linkedin.com/posts/bsrinivasancbe_essential-linux-commands-for-beginners-a-activity-7123942737397125120-TFf0?utm_source=share&utm_medium=member_desktop)
 
 # Docker
+- [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐃𝐨𝐜𝐤𝐞𝐫: 𝐄𝐚𝐬𝐲 𝐒𝐭𝐞𝐩-𝐛𝐲-𝐒𝐭𝐞𝐩 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐆𝐮𝐢𝐝𝐞 𝐟𝐨𝐫 𝐔𝐛𝐮𝐧𝐭𝐮 𝐔𝐬𝐞𝐫𝐬!](https://www.linkedin.com/posts/bsrinivasancbe_unlock-the-power-of-docker-easy-step-by-step-activity-7175202686319960064-_nmq?utm_source=share&utm_medium=member_desktop)
+- [𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐁𝐚𝐬𝐢𝐜𝐬 𝐰𝐢𝐭𝐡 𝐓𝐡𝐢𝐬 𝐒𝐢𝐦𝐩𝐥𝐞 𝐃𝐨𝐜𝐤𝐞𝐫𝐟𝐢𝐥𝐞!](https://lnkd.in/gsCJ7Fgb)
+
 
 # Ansible
 - [Fundamental History in Ansible](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7024014894454763520-FRU_?utm_source=share&utm_medium=member_desktop)
@@ -221,7 +227,6 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [A Beginner’s Guide to Helm Charts: Step-by-Step Installation and Configuration](https://medium.com/cloudnloud/a-beginners-guide-to-helm-charts-step-by-step-installation-and-configuration-f07a619620ba)
 - [Choosing the Right Paradigm: Serverless Computing vs. Microservices Architecture](https://medium.com/cloudnloud/choosing-the-right-paradigm-serverless-computing-vs-microservices-architecture-f67e84bc5c12)
 - [HIPAA (Health Insurance Portability and Accountability Act): Deep dive into Introduction and Integrating in WebApp](https://medium.com/cloudnloud/hipaa-health-insurance-portability-and-accountability-act-deep-dive-into-introduction-and-dbe50e6993ce)
-- [Essential Linux Commands for Beginners: A Comprehensive Guide to Mastering the CLI](https://medium.com/cloudnloud/essential-linux-commands-for-beginners-a-comprehensive-guide-to-mastering-the-cli-911260ed352a)
 - [Rebuilding Trust in Exploited Societies: Insights and Best Practices](https://medium.com/cloudnloud/rebuilding-trust-in-exploited-societies-insights-and-best-practices-380984d4dc7d)
 - [Cloud Migration: Overcoming Complexity and Ensuring Data Security](https://medium.com/cloudnloud/cloud-migration-overcoming-complexity-and-ensuring-data-security-003bf7bc09c3)
 - [Global Web Conference Etiquette: Cultivating Inclusive and Effective Virtual Meetings](https://medium.com/cloudnloud/global-web-conference-etiquette-cultivating-inclusive-and-effective-virtual-meetings-ec2c4e1c2539)
@@ -304,6 +309,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [05 Feb 2024](https://lnkd.in/gQFWHqRk)
 - [12 Feb 2024](https://lnkd.in/grRncj8D)
 - [19 Feb 2024](https://lnkd.in/gjzsXWxR)
+- [11 Mar 2024](https://lnkd.in/gn4rJ_J9)
+- [18 Mar 2024](https://lnkd.in/gnAZxgUF)
 
 # The Bed Time Story
 - [𝐅𝐞𝐚𝐭𝐡𝐞𝐫𝐬 𝐨𝐟 𝐁𝐞𝐭𝐫𝐚𝐲𝐚𝐥: 𝐓𝐡𝐞 𝐂𝐫𝐨𝐰 𝐚𝐧𝐝 𝐅𝐨𝐱 𝐅𝐚𝐛𝐥𝐞](https://www.linkedin.com/posts/bsrinivasancbe_trustandconfidence-bedtimestories-coffeebreakwithclouddevops-activity-7115026211013066753-8QrF?utm_source=share&utm_medium=member_desktop)
@@ -318,6 +325,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐇𝐚𝐫𝐦𝐨𝐧𝐲: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐎𝐜𝐞𝐚𝐧𝐢𝐜 𝐉𝐨𝐲 𝐚𝐧𝐝 𝐇𝐮𝐦𝐚𝐧 𝐔𝐧𝐢𝐭𝐲](https://lnkd.in/gnk_Qz2z)
 - [𝐋𝐞𝐚𝐩 𝐨𝐟 𝐃𝐫𝐞𝐚𝐦𝐬: 𝐀 𝐑𝐚𝐛𝐛𝐢𝐭'𝐬 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐌𝐢𝐝𝐧𝐢𝐠𝐡𝐭 𝐌𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 - The Bed Time Story](https://lnkd.in/gJBRrwvh)	
 - [𝐓𝐡𝐞 𝐔𝐧𝐬𝐭𝐨𝐩𝐩𝐚𝐛𝐥𝐞 𝐓𝐫𝐞𝐞: 𝐀 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐆𝐫𝐨𝐰𝐭𝐡 - 𝐓𝐡𝐞 𝐁𝐞𝐝 𝐓𝐢𝐦𝐞 𝐒𝐭𝐨𝐫𝐲](https://lnkd.in/gVQHvZV9)
+- [𝐁𝐥𝐨𝐬𝐬𝐨𝐦𝐢𝐧𝐠 𝐁𝐞𝐲𝐨𝐧𝐝 𝐀𝐝𝐯𝐞𝐫𝐬𝐢𝐭𝐲: 𝐓𝐡𝐞 𝐈𝐧𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐓𝐚𝐥𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐋𝐨𝐭𝐮𝐬 𝐅𝐥𝐨𝐰𝐞𝐫 - 𝓣𝓱𝓮 𝓑𝓮𝓭 𝓣𝓲𝓶𝓮 𝓼𝓽𝓸𝓻𝔂](https://lnkd.in/gjEqChP9)
 
 ## 🐦 Latest Tweets
 
