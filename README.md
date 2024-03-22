@@ -106,6 +106,9 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 # Docker
 - [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐃𝐨𝐜𝐤𝐞𝐫: 𝐄𝐚𝐬𝐲 𝐒𝐭𝐞𝐩-𝐛𝐲-𝐒𝐭𝐞𝐩 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐆𝐮𝐢𝐝𝐞 𝐟𝐨𝐫 𝐔𝐛𝐮𝐧𝐭𝐮 𝐔𝐬𝐞𝐫𝐬!](https://www.linkedin.com/posts/bsrinivasancbe_unlock-the-power-of-docker-easy-step-by-step-activity-7175202686319960064-_nmq?utm_source=share&utm_medium=member_desktop)
 - [𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐁𝐚𝐬𝐢𝐜𝐬 𝐰𝐢𝐭𝐡 𝐓𝐡𝐢𝐬 𝐒𝐢𝐦𝐩𝐥𝐞 𝐃𝐨𝐜𝐤𝐞𝐫𝐟𝐢𝐥𝐞!](https://lnkd.in/gsCJ7Fgb)
+- [𝓓𝓸𝓬𝓴𝓮𝓻𝓲𝓼𝓲𝓷𝓰 𝓼𝓲𝓶𝓹𝓵𝓮 𝓬𝓾𝓼𝓽𝓸𝓶𝓲𝔃𝓮𝓭 𝔀𝓮𝓫𝓼𝓲𝓽𝓮!](https://lnkd.in/gcFaybG3)
+- [𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐢𝐞𝐝 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫: 𝐘𝐨𝐮𝐫 𝐊𝐞𝐲 𝐭𝐨 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧](https://lnkd.in/gkZ7gKuz)
+
 
 
 # Ansible
