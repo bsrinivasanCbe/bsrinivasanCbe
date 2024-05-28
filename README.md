@@ -48,6 +48,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Exploring types of AWS Instances: Use Case and Benefits](https://www.linkedin.com/posts/bsrinivasancbe_good-day-greetings-technology-enthusiasts-activity-7110117879710195712-n3TN?utm_source=share&utm_medium=member_desktop)
 - [𝐀𝐦𝐚𝐳𝐨𝐧 𝐒𝟑 𝐄𝐱𝐩𝐫𝐞𝐬𝐬 𝐎𝐧𝐞 𝐙𝐨𝐧𝐞](https://lnkd.in/gfvY66A7)
 - [𝙀𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙎𝙚𝙧𝙫𝙚𝙧𝙡𝙚𝙨𝙨: 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨 𝙬𝙞𝙩𝙝 𝘼𝙒𝙎 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘾𝙤𝙢𝙥𝙤𝙨𝙚𝙧](https://lnkd.in/gvfU2R6X)
+- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐦𝐚𝐳𝐨𝐧 𝐒𝟑: 𝐒𝐜𝐚𝐥𝐚𝐛𝐢𝐥𝐢𝐭𝐲, 𝐃𝐮𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲, 𝐚𝐧𝐝 𝐂𝐨𝐬𝐭 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲](https://lnkd.in/g-iZPR-g)
 
 # Azure
 - [Standalone Azure VM via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
@@ -73,6 +74,12 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲: 𝐀 𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐀𝐳𝐮𝐫𝐞 𝐃𝐢𝐬𝐤 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧](https://lnkd.in/ewVv9_tt)
 - [𝐔𝐧𝐥𝐞𝐚𝐬𝐡 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐏𝐨𝐫𝐭𝐚𝐥 𝐟𝐨𝐫 𝐒𝐞𝐚𝐦𝐥𝐞𝐬𝐬 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐧𝐭𝐫𝐨𝐥!](https://lnkd.in/g9HnBkZX)
 - [𝑨𝒛𝒖𝒓𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑸𝒖𝒊𝒄𝒌 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘: 7 𝑬𝒔𝒔𝒆𝒏𝒕𝒊𝒂𝒍 𝑷𝒓𝒂𝒄𝒕𝒊𝒄𝒆𝒔 𝒕𝒐 𝑺𝒂𝒇𝒆𝒈𝒖𝒂𝒓𝒅 𝒀𝒐𝒖𝒓 𝑰𝒏𝒇𝒓𝒂𝒔𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆](https://lnkd.in/eEXHc6-P)
+- [𝐄𝐦𝐩𝐨𝐰𝐞𝐫 𝐀𝐳𝐮𝐫𝐞 𝐌𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐀𝐳𝐮𝐫𝐞 𝐌𝐨𝐧𝐢𝐭𝐨𝐫 𝐀𝐥𝐞𝐫𝐭𝐬 - 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰](https://www.linkedin.com/posts/bsrinivasancbe_azuremonitoralerts-azure-alerts-activity-7178047526317531137-bfnN?utm_source=share&utm_medium=member_desktop)
+- [𝐂𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐯𝐞 𝐨𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐕𝐏𝐍 𝐆𝐚𝐭𝐞𝐰𝐚𝐲](https://www.linkedin.com/posts/bsrinivasancbe_azure-networking-cloud-activity-7179867478792024064-QqZg?utm_source=share&utm_medium=member_desktop)
+- [𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐢𝐧𝐠 𝐀𝐳𝐮𝐫𝐞 𝐂𝐋𝐈 𝐥𝐨𝐜𝐚𝐥𝐥𝐲 𝐢𝐧 𝐋𝐢𝐧𝐮𝐱 𝐝𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬 𝐥𝐢𝐤𝐞 𝐔𝐛𝐮𝐧𝐭𝐮 𝐨𝐫 𝐃𝐞𝐛𝐢𝐚𝐧](https://lnkd.in/gKVkeYZe)
+- [𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐨𝐟 𝐀𝐂𝐈 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬](https://lnkd.in/ddPGTuCW)
+- [𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐀𝐑𝐌 𝐓𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬](https://lnkd.in/gnpREtj2)
+- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐫](https://lnkd.in/gYTDKNdj)
 
 # Terraform
 - [Why Terraform?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
@@ -93,6 +100,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 # GIT / GIT HUB
 - [GIT & GIT HUB](https://www.linkedin.com/feed/update/urn:li:activity:7015016583529992192?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015016583529992192%29)
 - [GIT Cheet Sheet](https://www.linkedin.com/feed/update/urn:li:activity:7015363908353888257?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015363908353888257%29)
+- [𝐔𝐧𝐫𝐚𝐯𝐞𝐥𝐢𝐧𝐠 𝐆𝐢𝐭 𝐯𝐬. 𝐆𝐢𝐭𝐇𝐮𝐛: 𝐊𝐧𝐨𝐰 𝐭𝐡𝐞 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬!](https://www.linkedin.com/posts/bsrinivasancbe_git-github-versioncontrol-activity-7178360046995570688-6sf3?utm_source=share&utm_medium=member_desktop)
 
 # DevOps
 - [Overview of DevOps](https://www.linkedin.com/feed/update/urn:li:activity:7014257420277350400?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7014257420277350400%29)
@@ -105,10 +113,11 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 # Docker
 - [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐃𝐨𝐜𝐤𝐞𝐫: 𝐄𝐚𝐬𝐲 𝐒𝐭𝐞𝐩-𝐛𝐲-𝐒𝐭𝐞𝐩 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐆𝐮𝐢𝐝𝐞 𝐟𝐨𝐫 𝐔𝐛𝐮𝐧𝐭𝐮 𝐔𝐬𝐞𝐫𝐬!](https://www.linkedin.com/posts/bsrinivasancbe_unlock-the-power-of-docker-easy-step-by-step-activity-7175202686319960064-_nmq?utm_source=share&utm_medium=member_desktop)
+- [𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐢𝐞𝐝 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫: 𝐘𝐨𝐮𝐫 𝐊𝐞𝐲 𝐭𝐨 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧](https://lnkd.in/gkZ7gKuz)
 - [𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐁𝐚𝐬𝐢𝐜𝐬 𝐰𝐢𝐭𝐡 𝐓𝐡𝐢𝐬 𝐒𝐢𝐦𝐩𝐥𝐞 𝐃𝐨𝐜𝐤𝐞𝐫𝐟𝐢𝐥𝐞!](https://lnkd.in/gsCJ7Fgb)
 - [𝓓𝓸𝓬𝓴𝓮𝓻𝓲𝓼𝓲𝓷𝓰 𝓼𝓲𝓶𝓹𝓵𝓮 𝓬𝓾𝓼𝓽𝓸𝓶𝓲𝔃𝓮𝓭 𝔀𝓮𝓫𝓼𝓲𝓽𝓮!](https://lnkd.in/gcFaybG3)
-- [𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐢𝐞𝐝 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫: 𝐘𝐨𝐮𝐫 𝐊𝐞𝐲 𝐭𝐨 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧](https://lnkd.in/gkZ7gKuz)
-
+- [𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐚𝐬: 𝐀𝐧 𝐈𝐧-𝐃𝐞𝐩𝐭𝐡 𝐕𝐨𝐲𝐚𝐠𝐞 𝐢𝐧𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐇𝐮𝐛’𝐬 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐚𝐧𝐝 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐔𝐬𝐞 𝐂𝐚𝐬𝐞𝐬](https://lnkd.in/e94A8Uyk)
+- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐈𝐦𝐚𝐠𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: 𝟏𝟎 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞𝐬 𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐇𝐮𝐛](https://lnkd.in/g7hvTa8B)
 
 
 # Ansible
@@ -142,6 +151,15 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 # AGILE SCRUM
 
+# Networking
+- [𝐃𝐞𝐦𝐲𝐬𝐭𝐢𝐟𝐲𝐢𝐧𝐠 𝐈𝐏𝐬𝐞𝐜 𝐚𝐧𝐝 𝐈𝐊𝐄: 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐏𝐫𝐨𝐭𝐨𝐜𝐨𝐥𝐬 𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐢𝐞𝐝](https://lnkd.in/g347aZhd)
+- [𝐃𝐞𝐟𝐞𝐧𝐝𝐢𝐧𝐠 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐅𝐫𝐨𝐧𝐭𝐢𝐞𝐫𝐬: 𝐀 𝐋𝐚𝐲𝐦𝐚𝐧’𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐃𝐃𝐨𝐒 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐚𝐧𝐝 𝐌𝐢𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧](https://lnkd.in/gZggUTRa)
+- [𝐌𝐢𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 𝐟𝐨𝐫 𝐃𝐃𝐎𝐒](https://lnkd.in/gawm4M9p)
+- [𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐅𝐨𝐫𝐰𝐚𝐫𝐝 𝐚𝐧𝐝 𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐏𝐫𝐨𝐱𝐢𝐞𝐬: 𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐢𝐞𝐝 𝐄𝐱𝐩𝐥𝐚𝐧𝐚𝐭𝐢𝐨𝐧](https://lnkd.in/gCdGkyT9)
+
+#Security
+- [𝐄𝐥𝐞𝐯𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲 𝐰𝐢𝐭𝐡 𝐙𝐞𝐫𝐨 𝐓𝐫𝐮𝐬𝐭!](https://lnkd.in/gq4t52ww)
+
 # Multi-Cloud
 - [Cloud Services - AWS, Azure, GCP](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-services-list-aws-azure-gcp-activity-7022149955150626816-GPK1?utm_source=share&utm_medium=member_desktop)
 - [Content Delivery Network tools (AWS Vs Azure)](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025116915316514816-BXON?utm_source=share&utm_medium=member_desktop)
@@ -154,6 +172,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Understanding IP Addresses: Navigating the Digital Landscape](https://lnkd.in/gwc-BstV)
 - [𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐂𝐈𝐃𝐑 𝐢𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠](https://lnkd.in/gF9yTcja)
 - [𝐔𝐧𝐫𝐚𝐯𝐞𝐥𝐢𝐧𝐠 𝐭𝐡𝐞 𝐌𝐲𝐬𝐭𝐞𝐫𝐲 𝐨𝐟 𝐅𝐮𝐥𝐥𝐲 𝐐𝐮𝐚𝐥𝐢𝐟𝐢𝐞𝐝 𝐃𝐨𝐦𝐚𝐢𝐧 𝐍𝐚𝐦𝐞𝐬 (𝐅𝐐𝐃𝐍𝐬)](https://lnkd.in/gRbcvNiF)
+
 # Others
 - [Tax Savings & Investments 2023](https://www.linkedin.com/posts/srinivasanbaskaran_tax-saving-tips-list-of-all-possible-tax-activity-7028763263769214976-K83j?utm_source=share&utm_medium=member_desktop)
 - [Health as Wealth Plus Growth](https://www.linkedin.com/posts/srinivasanbaskaran_wfm-health-carring-activity-7020780104968531968-zZOg?utm_source=share&utm_medium=member_desktop)
@@ -186,8 +205,6 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐒𝐞𝐜𝐫𝐞𝐭𝐬 𝐭𝐨 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐒𝐥𝐞𝐞𝐩: 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐍𝐢𝐠𝐡𝐭𝐬, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐋𝐢𝐟𝐞!](https://www.linkedin.com/feed/update/urn:li:activity:7136375922290556928?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7136375922290556928%29)
 - [Top Webservers in Market](https://lnkd.in/gC8d56Zb)
 - [LinkedIn 8k Followers Milestone](https://lnkd.in/gnCwqJ2t)
-- [𝐃𝐞𝐟𝐞𝐧𝐝𝐢𝐧𝐠 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐅𝐫𝐨𝐧𝐭𝐢𝐞𝐫𝐬: 𝐀 𝐋𝐚𝐲𝐦𝐚𝐧’𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐃𝐃𝐨𝐒 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐚𝐧𝐝 𝐌𝐢𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧](https://lnkd.in/gZggUTRa)
-- [𝐌𝐢𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 𝐟𝐨𝐫 𝐃𝐃𝐎𝐒](https://lnkd.in/gawm4M9p)
 
 # My Medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
@@ -245,6 +262,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [How SQL Engine Works: A Simple Guide](https://medium.com/cloudnloud/how-sql-engine-works-a-simple-guide-3d09edd9d99e)
 - [How .NET Core CLR Works and What are its main Features](https://medium.com/cloudnloud/how-net-core-clr-works-and-what-are-its-main-features-df69bd085df8)
 - [Navigating the Data Landscape: A Guide to Different Roles and Responsibilities](https://medium.com/cloudnloud/navigating-the-data-landscape-a-guide-to-different-roles-and-responsibilities-af588b1fe8ba)
+- [Configure Azure CLI locally in Linux Distribution (Ubuntu or Debian) and enjoy Commands](https://lnkd.in/gKVkeYZe)
 
 # My LinkedIn Article Journey
 - [Learning ChatGPT in 60 minutes](https://www.linkedin.com/pulse/learning-chatgpt-60-minutes-srinivasan-baskaran)
@@ -314,6 +332,11 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [19 Feb 2024](https://lnkd.in/gjzsXWxR)
 - [11 Mar 2024](https://lnkd.in/gn4rJ_J9)
 - [18 Mar 2024](https://lnkd.in/gnAZxgUF)
+- [25 Mar 2024](https://lnkd.in/g5VFd-yG)
+- [01 Apr 2024](https://www.linkedin.com/posts/bsrinivasancbe_motivational-success-coffeebreakwithclouddevops-activity-7180421155709726721-Mow-?utm_source=share&utm_medium=member_desktop)
+- [08 Apr 2024](https://lnkd.in/gjTdkzrB)
+- [15 Apr 2024](https://lnkd.in/gJU3D8iG)
+- [22 Apr 2024](https://lnkd.in/gmnBUsfA)
 
 # The Bed Time Story
 - [𝐅𝐞𝐚𝐭𝐡𝐞𝐫𝐬 𝐨𝐟 𝐁𝐞𝐭𝐫𝐚𝐲𝐚𝐥: 𝐓𝐡𝐞 𝐂𝐫𝐨𝐰 𝐚𝐧𝐝 𝐅𝐨𝐱 𝐅𝐚𝐛𝐥𝐞](https://www.linkedin.com/posts/bsrinivasancbe_trustandconfidence-bedtimestories-coffeebreakwithclouddevops-activity-7115026211013066753-8QrF?utm_source=share&utm_medium=member_desktop)
