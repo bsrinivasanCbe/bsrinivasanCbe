@@ -30,6 +30,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 <a href="https://twitter.com/bsrinivasancbe" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.urbanpro.com/bsrinivasancbe?_r=widgets|UrbanProBadge|View My Profile|160x63|3512012" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/View My Profile@160x63.png" alt="View My Profile" style="max-width: 100%;"></a>
 
 
 :mailbox: Mail - cheenu_vasan@yahoo.com
