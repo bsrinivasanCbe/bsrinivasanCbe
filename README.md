@@ -4,9 +4,9 @@ I come from a middle-class family and was born in Kangayam, located in the Tirup
 
 In terms of education, I have a 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐚 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐏𝐡𝐲𝐬𝐢𝐜𝐬 from the University of Bharathiar. Additionally, I hold a 𝐌𝐚𝐬𝐭𝐞𝐫 𝐨𝐅 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 from the same university.
 
-With total of 21+ years in IT, having 𝐨𝐯𝐞𝐫 𝟏𝟓 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐈𝐓 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐚𝐬 𝐟𝐮𝐥𝐥 𝐭𝐢𝐦𝐞 from Startup, Mid Sized and some MNCs 𝐚𝐧𝐝 then 𝐨𝐯𝐞𝐫 𝟔 𝐲𝐞𝐚𝐫𝐬 𝐚𝐬 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐢𝐧𝐠 IT Consulting / Training / Mentoring, I have worked in various roles and have gained expertise in 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐬𝐭𝐚𝐜𝐤, 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞, 𝐌𝐮𝐥𝐭𝐢-𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐚𝐧𝐝 𝐨𝐭𝐡𝐞𝐫 𝐧𝐢𝐜𝐡𝐞 𝐬𝐤𝐢𝐥𝐥𝐬. My skill set is diverse and well-rounded, making me a valuable asset to any team.
+With 𝐨𝐯𝐞𝐫 𝟏𝟓 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐈𝐓 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐚𝐬 𝐟𝐮𝐥𝐥 𝐭𝐢𝐦𝐞 from Startup, Mid Sized and some MNCs 𝐚𝐧𝐝 𝐨𝐯𝐞𝐫 𝟔 𝐲𝐞𝐚𝐫𝐬 𝐚𝐬 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐢𝐧𝐠 IT Consulting / Training / Mentoring, I have worked in various roles and have gained expertise in 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐬𝐭𝐚𝐜𝐤, 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞, 𝐌𝐮𝐥𝐭𝐢-𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐚𝐧𝐝 𝐨𝐭𝐡𝐞𝐫 𝐧𝐢𝐜𝐡𝐞 𝐬𝐤𝐢𝐥𝐥𝐬. My skill set is diverse and well-rounded, making me a valuable asset to any team.
 
-I am always on the lookout for new opportunities in the IT industry, and I am determined to reach my dream job as either a 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭 𝐨𝐫 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐤𝐢𝐥𝐥 𝐬𝐞𝐭𝐬. I am open to Full-time, consulting, freelancing, or short-term assignments that offer an excellent learning curve in these related fields.
+I am always on the lookout for new opportunities in the IT industry, and I am determined to reach my dream job as either a 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭 𝐨𝐫 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐤𝐢𝐥𝐥 𝐬𝐞𝐭𝐬. I am open to Full time, consulting, freelancing, or short-term assignments that offer an excellent learning curve in these related fields.
 
 - 𝑹𝒆𝒂𝒄𝒉 𝒎𝒆 𝒐𝒇𝒇𝒍𝒊𝒏𝒆 𝒊𝒏 𝑾𝒉𝒂𝒕'𝒔 𝒂𝒑𝒑 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 http://bitly.ws/ApEP , share your 𝒏𝒂𝒎𝒆 𝒂𝒏𝒅 𝒑𝒖𝒓𝒑𝒐𝒔𝒆 𝒐𝒇 𝒓𝒆𝒂𝒄𝒉𝒊𝒏𝒈 me for better communication.
 - [My Resume for reference.](https://github.com/bsrinivasanCbe/bsrinivasancbe.github.io/blob/main/SrinivasanBaskaran-Resume-2024.pdf)
@@ -30,7 +30,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 <a href="https://twitter.com/bsrinivasancbe" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.urbanpro.com/bsrinivasancbe?_r=widgets|UrbanProBadge|View My Profile|160x63|3512012" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/View My Profile@160x63.png" alt="View My Profile" style="max-width: 100%;"></a>
+<a href="https://www.urbanpro.com/bsrinivasancbe?_r=widgets|UrbanProBadge|View My Profile|120x47|3512012" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/View My Profile@120x47.png" alt="View My Profile" style="max-width: 100%;"></a>
 
 
 :mailbox: Mail - cheenu_vasan@yahoo.com
