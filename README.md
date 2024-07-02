@@ -105,6 +105,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 
 # DevOps
 - [Overview of DevOps](https://www.linkedin.com/feed/update/urn:li:activity:7014257420277350400?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7014257420277350400%29)
+- [DevOps - Continous Delivery Vs Continous Deployment](https://medium.com/cloudnloud/continuous-delivery-and-continuous-deployment-are-two-important-concepts-in-the-field-of-devops-d9618afe46a1)
 
 
 # Linux Distribution
@@ -120,10 +121,12 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐚𝐬: 𝐀𝐧 𝐈𝐧-𝐃𝐞𝐩𝐭𝐡 𝐕𝐨𝐲𝐚𝐠𝐞 𝐢𝐧𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐇𝐮𝐛’𝐬 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐚𝐧𝐝 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐔𝐬𝐞 𝐂𝐚𝐬𝐞𝐬](https://lnkd.in/e94A8Uyk)
 - [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐈𝐦𝐚𝐠𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: 𝟏𝟎 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞𝐬 𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐇𝐮𝐛](https://lnkd.in/g7hvTa8B)
 
-
 # Ansible
 - [Fundamental History in Ansible](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7024014894454763520-FRU_?utm_source=share&utm_medium=member_desktop)
 - [Basics of YAML](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7026233792755339266-rWgz?utm_source=share&utm_medium=member_desktop)
+- [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
+- [Creating simple 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐛𝐨𝐨𝐤](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
+- [Ansible Playbook, Roles and Handlers](https://medium.com/cloudnloud/deploying-simple-tasks-using-ansible-playbook-ansible-roles-and-handlers-6ba37597e2f7)
 
 # Jenkins
 
@@ -208,9 +211,6 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [LinkedIn 8k Followers Milestone](https://lnkd.in/gnCwqJ2t)
 
 # My Medium.com blogs Journey
-- [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
-- [Creating simple 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐛𝐨𝐨𝐤](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
-- [Ansible Playbook, Roles and Handlers](https://medium.com/cloudnloud/deploying-simple-tasks-using-ansible-playbook-ansible-roles-and-handlers-6ba37597e2f7)
 - [Azure Services by Category (Full list)](https://medium.com/cloudnloud/azure-services-list-by-category-as-on-26-jan-2023-8809c0f65938)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐁𝐞𝐬𝐭 𝐏𝐫𝐚𝐜𝐭𝐢𝐬𝐞𝐬](https://medium.com/cloudnloud/best-practices-for-using-the-terraform-iac-tool-a35c13a23119)
 - [Deploying AWS S3 via Terraform IaC](https://lnkd.in/g6zm28sE)
@@ -229,7 +229,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Deploy Ubuntu VM with Nginx via Azure Cloud Shell (Bash) in just 5 command lines!](https://medium.com/cloudnloud/deploy-ubuntu-vm-with-nginx-via-azure-cloud-shell-bash-in-just-5-command-lines-fb565ea7499c)
 - [𝐀𝐳𝐮𝐫𝐞 𝐊𝐞𝐲 𝐕𝐚𝐮𝐥𝐭 — Retrieve secrets from AKV in Python app configured in Azure Ubuntu VM — Part 4](https://medium.com/cloudnloud/azure-key-vault-retrieve-secrets-from-akv-in-python-app-configured-in-azure-ubuntu-vm-part-4-9e43de8cd904)
 - [Configure Azure CLI Locally in Windows machine](https://medium.com/cloudnloud/configure-azure-cli-locally-in-windows-machine-and-get-set-the-needed-subscription-506f5eb4815e)
-- [Provision Python & Nginx with Azure VM via portal](https://medium.com/cloudnloud/how-to-provision-python-nginx-software-when-creating-azure-vm-in-portal-d81df64eecd4)
+- [Provision Python & Nginx with Ubuntu Azure VM via portal](https://medium.com/cloudnloud/how-to-provision-python-nginx-software-when-creating-azure-vm-in-portal-d81df64eecd4)
 - [Provision Java & Apache2 in AWS EC2 ubuntu instance via portal](https://medium.com/cloudnloud/how-to-provision-java-apache2-web-server-when-creating-aws-ec2-ubuntu-instance-via-amazon-c544b6218fda)
 - [FAQ — Insights of Medium.com for new bloggers](https://medium.com/cloudnloud/1-what-is-the-url-for-creating-medium-blogs-or-to-sign-in-9a16cee76b78)
 - [Discover the vital 20 features and benefits of Python!](https://medium.com/cloudnloud/discover-the-vital-20-features-and-benefits-of-python-7ffb631f80fb)
@@ -239,7 +239,6 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Configuring Virtual Environment for Python: A Guide for Getting Started — Part 1](https://medium.com/cloudnloud/configuring-virtual-environment-for-python-a-guide-for-getting-started-645ce457deb8)
 - [Exploring the Benefits of API Gateway as an Effective Design Pattern](https://medium.com/cloudnloud/exploring-the-benefits-of-api-gateway-as-an-effective-design-pattern-5a374edd4020)
 - [Empowering Python: Unveiling the Top 25 Essential Libraries for Every Developer!](https://medium.com/cloudnloud/empowering-python-unveiling-the-top-25-essential-libraries-for-every-developer-96968a7ba0c5)
-- [𝐃𝐞𝐯𝐎𝐩𝐬 — 𝐂𝐨𝐧𝐭𝐢𝐧𝐨𝐮𝐬 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 𝐕𝐬 𝐂𝐨𝐧𝐭𝐢𝐧𝐨𝐮𝐬 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭](https://medium.com/cloudnloud/continuous-delivery-and-continuous-deployment-are-two-important-concepts-in-the-field-of-devops-d9618afe46a1)
 - [Understanding the SOLID Principles with Real-time Examples](https://medium.com/cloudnloud/understanding-the-solid-principles-with-real-time-examples-7b8f60818f05)
 - [Demystifying the OSI Model: A Beginner’s Guide](https://medium.com/cloudnloud/demystifying-the-osi-model-a-beginners-guide-ad234bdc9714)
 - [Exploring the Spectrum of Software Testing: A Comprehensive Guide](https://medium.com/cloudnloud/exploring-the-spectrum-of-software-testing-a-comprehensive-guide-28651f629fad)
