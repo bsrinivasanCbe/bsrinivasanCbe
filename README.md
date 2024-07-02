@@ -161,7 +161,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐌𝐢𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 𝐟𝐨𝐫 𝐃𝐃𝐎𝐒](https://lnkd.in/gawm4M9p)
 - [𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐅𝐨𝐫𝐰𝐚𝐫𝐝 𝐚𝐧𝐝 𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐏𝐫𝐨𝐱𝐢𝐞𝐬: 𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐢𝐞𝐝 𝐄𝐱𝐩𝐥𝐚𝐧𝐚𝐭𝐢𝐨𝐧](https://lnkd.in/gCdGkyT9)
 
-#Security
+# Security
 - [𝐄𝐥𝐞𝐯𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲 𝐰𝐢𝐭𝐡 𝐙𝐞𝐫𝐨 𝐓𝐫𝐮𝐬𝐭!](https://lnkd.in/gq4t52ww)
 
 # Multi-Cloud
@@ -209,6 +209,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐒𝐞𝐜𝐫𝐞𝐭𝐬 𝐭𝐨 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐒𝐥𝐞𝐞𝐩: 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐍𝐢𝐠𝐡𝐭𝐬, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐋𝐢𝐟𝐞!](https://www.linkedin.com/feed/update/urn:li:activity:7136375922290556928?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7136375922290556928%29)
 - [Top Webservers in Market](https://lnkd.in/gC8d56Zb)
 - [LinkedIn 8k Followers Milestone](https://lnkd.in/gnCwqJ2t)
+- [LinkedIn 8k Connection Milestone](https://shorturl.at/GKFIf)
 
 # My Medium.com blogs Journey
 - [Azure Services by Category (Full list)](https://medium.com/cloudnloud/azure-services-list-by-category-as-on-26-jan-2023-8809c0f65938)
