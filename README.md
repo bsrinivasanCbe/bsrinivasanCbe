@@ -114,13 +114,16 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥 𝐋𝐢𝐧𝐮𝐱 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐟𝐨𝐫 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫𝐬: 𝐀 𝐂𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐯𝐞 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐋𝐈](https://www.linkedin.com/posts/bsrinivasancbe_essential-linux-commands-for-beginners-a-activity-7123942737397125120-TFf0?utm_source=share&utm_medium=member_desktop)
 
 # Docker
+- [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐃𝐨𝐜𝐤𝐞𝐫: 𝐄𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧, 𝐁𝐞𝐧𝐞𝐟𝐢𝐭𝐬, 𝐚𝐧𝐝 𝐅𝐮𝐭𝐮𝐫𝐞 𝐓𝐫𝐞𝐧𝐝𝐬](https://lnkd.in/gvbw4DK3)
 - [𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐃𝐨𝐜𝐤𝐞𝐫: 𝐄𝐚𝐬𝐲 𝐒𝐭𝐞𝐩-𝐛𝐲-𝐒𝐭𝐞𝐩 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐆𝐮𝐢𝐝𝐞 𝐟𝐨𝐫 𝐔𝐛𝐮𝐧𝐭𝐮 𝐔𝐬𝐞𝐫𝐬!](https://www.linkedin.com/posts/bsrinivasancbe_unlock-the-power-of-docker-easy-step-by-step-activity-7175202686319960064-_nmq?utm_source=share&utm_medium=member_desktop)
 - [𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐢𝐞𝐝 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫: 𝐘𝐨𝐮𝐫 𝐊𝐞𝐲 𝐭𝐨 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧](https://lnkd.in/gkZ7gKuz)
 - [𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐁𝐚𝐬𝐢𝐜𝐬 𝐰𝐢𝐭𝐡 𝐓𝐡𝐢𝐬 𝐒𝐢𝐦𝐩𝐥𝐞 𝐃𝐨𝐜𝐤𝐞𝐫𝐟𝐢𝐥𝐞!](https://lnkd.in/gsCJ7Fgb)
+- [𝐇𝐨𝐰 𝐭𝐨 𝐂𝐡𝐞𝐜𝐤 𝐃𝐨𝐜𝐤𝐞𝐫𝐟𝐢𝐥𝐞 𝐒𝐲𝐧𝐭𝐚𝐱: 𝐀 𝐐𝐮𝐢𝐜𝐤 𝐆𝐮𝐢𝐝𝐞](https://lnkd.in/g3xNCZqn)
 - [𝓓𝓸𝓬𝓴𝓮𝓻𝓲𝓼𝓲𝓷𝓰 𝓼𝓲𝓶𝓹𝓵𝓮 𝓬𝓾𝓼𝓽𝓸𝓶𝓲𝔃𝓮𝓭 𝔀𝓮𝓫𝓼𝓲𝓽𝓮!](https://lnkd.in/gcFaybG3)
 - [𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐚𝐬: 𝐀𝐧 𝐈𝐧-𝐃𝐞𝐩𝐭𝐡 𝐕𝐨𝐲𝐚𝐠𝐞 𝐢𝐧𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐇𝐮𝐛’𝐬 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐚𝐧𝐝 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐔𝐬𝐞 𝐂𝐚𝐬𝐞𝐬](https://lnkd.in/e94A8Uyk)
 - [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐈𝐦𝐚𝐠𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: 𝟏𝟎 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞𝐬 𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐇𝐮𝐛](https://lnkd.in/g7hvTa8B)
-
+- [𝐃𝐨𝐜𝐤𝐞𝐫 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐛𝐞𝐠𝐢𝐧𝐧𝐞𝐫𝐬 𝐠𝐮𝐢𝐝𝐞] (https://lnkd.in/eegr8Keq)
+- [Unlocking MongoDB Deployment with Docker and Mongo Express](https://lnkd.in/gYEUFBuK)
 # Ansible
 - [Fundamental History in Ansible](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7024014894454763520-FRU_?utm_source=share&utm_medium=member_desktop)
 - [Basics of YAML](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7026233792755339266-rWgz?utm_source=share&utm_medium=member_desktop)
