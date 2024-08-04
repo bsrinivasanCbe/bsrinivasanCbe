@@ -81,6 +81,10 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐨𝐟 𝐀𝐂𝐈 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬](https://lnkd.in/ddPGTuCW)
 - [𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐀𝐑𝐌 𝐓𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬](https://lnkd.in/gnpREtj2)
 - [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐳𝐮𝐫𝐞 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐫](https://lnkd.in/gYTDKNdj)
+- [𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐒𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬: 𝐀𝐳𝐮𝐫𝐞 𝐋𝐨𝐠𝐢𝐜 𝐀𝐩𝐩𝐬](https://lnkd.in/gDjwt9Qt)
+- [𝐀𝐳𝐮𝐫𝐞 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐒𝐞𝐭𝐬: 𝐄𝐧𝐬𝐮𝐫𝐢𝐧𝐠 𝐇𝐢𝐠𝐡 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐟𝐨𝐫 𝐘𝐨𝐮𝐫 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬](https://lnkd.in/g-ahwsvA)
+- [𝐌𝐚𝐱𝐢𝐦𝐢𝐳𝐞 𝐘𝐨𝐮𝐫 𝐀𝐳𝐮𝐫𝐞 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭𝐬: 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐀𝐑𝐌 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐌𝐨𝐝𝐞𝐬 & 𝐌𝐞𝐭𝐡𝐨𝐝𝐬](https://lnkd.in/gU-PYyK2)
+- [𝐌𝐚𝐱𝐢𝐦𝐢𝐳𝐞 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐧𝐝 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐰𝐢𝐭𝐡 𝐓𝐫𝐮𝐬𝐭𝐞𝐝 𝐋𝐚𝐮𝐧𝐜𝐡 𝐢𝐧 𝐀𝐳𝐮𝐫𝐞 𝐕𝐌𝐬](https://lnkd.in/gCHX_HeJ)
 
 # Terraform
 - [Why Terraform?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
@@ -102,16 +106,19 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [GIT & GIT HUB](https://www.linkedin.com/feed/update/urn:li:activity:7015016583529992192?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015016583529992192%29)
 - [GIT Cheet Sheet](https://www.linkedin.com/feed/update/urn:li:activity:7015363908353888257?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015363908353888257%29)
 - [𝐔𝐧𝐫𝐚𝐯𝐞𝐥𝐢𝐧𝐠 𝐆𝐢𝐭 𝐯𝐬. 𝐆𝐢𝐭𝐇𝐮𝐛: 𝐊𝐧𝐨𝐰 𝐭𝐡𝐞 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬!](https://www.linkedin.com/posts/bsrinivasancbe_git-github-versioncontrol-activity-7178360046995570688-6sf3?utm_source=share&utm_medium=member_desktop)
+- [𝐂𝐡𝐨𝐨𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐒𝐲𝐬𝐭𝐞𝐦: 𝐂𝐕𝐂𝐒 𝐯𝐬. 𝐃𝐕𝐂𝐒](https://lnkd.in/gbRqPGmC)
 
 # DevOps
 - [Overview of DevOps](https://www.linkedin.com/feed/update/urn:li:activity:7014257420277350400?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7014257420277350400%29)
 - [DevOps - Continous Delivery Vs Continous Deployment](https://medium.com/cloudnloud/continuous-delivery-and-continuous-deployment-are-two-important-concepts-in-the-field-of-devops-d9618afe46a1)
+- [𝐃𝐞𝐦𝐲𝐬𝐭𝐢𝐟𝐲𝐢𝐧𝐠 𝐉𝐒𝐎𝐍: 𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐆𝐮𝐢𝐝𝐞](https://lnkd.in/gHs4tqZj)
 
 
 # Linux Distribution
 - [𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐋𝐢𝐧𝐮𝐱 𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠: 𝐀 𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐭𝐡𝐞 𝐓𝐨𝐩 𝟏𝟎 𝐒𝐡𝐞𝐥𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬](https://www.linkedin.com/feed/update/urn:li:activity:7159538521660092416?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7159538521660092416%29)
 - [𝐋𝐢𝐧𝐮𝐱 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐃𝐞𝐜𝐨𝐝𝐞𝐝: 𝟐𝟓 𝐊𝐞𝐲 𝐓𝐞𝐫𝐦𝐬 𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐢𝐞𝐝](https://lnkd.in/gKN6gRc9)
 - [𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥 𝐋𝐢𝐧𝐮𝐱 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐟𝐨𝐫 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫𝐬: 𝐀 𝐂𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐯𝐞 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐋𝐈](https://www.linkedin.com/posts/bsrinivasancbe_essential-linux-commands-for-beginners-a-activity-7123942737397125120-TFf0?utm_source=share&utm_medium=member_desktop)
+- [𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐋𝐢𝐧𝐮𝐱 𝐅𝐢𝐥𝐞 𝐒𝐲𝐬𝐭𝐞𝐦 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 & 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐢𝐞𝐬 - 𝐀 𝐏𝐫𝐢𝐦𝐞𝐫](https://lnkd.in/g-baXd3x)
 
 # Docker
 - [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐃𝐨𝐜𝐤𝐞𝐫: 𝐄𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧, 𝐁𝐞𝐧𝐞𝐟𝐢𝐭𝐬, 𝐚𝐧𝐝 𝐅𝐮𝐭𝐮𝐫𝐞 𝐓𝐫𝐞𝐧𝐝𝐬](https://lnkd.in/gvbw4DK3)
@@ -122,14 +129,19 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝓓𝓸𝓬𝓴𝓮𝓻𝓲𝓼𝓲𝓷𝓰 𝓼𝓲𝓶𝓹𝓵𝓮 𝓬𝓾𝓼𝓽𝓸𝓶𝓲𝔃𝓮𝓭 𝔀𝓮𝓫𝓼𝓲𝓽𝓮!](https://lnkd.in/gcFaybG3)
 - [𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐚𝐬: 𝐀𝐧 𝐈𝐧-𝐃𝐞𝐩𝐭𝐡 𝐕𝐨𝐲𝐚𝐠𝐞 𝐢𝐧𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐇𝐮𝐛’𝐬 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐚𝐧𝐝 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐔𝐬𝐞 𝐂𝐚𝐬𝐞𝐬](https://lnkd.in/e94A8Uyk)
 - [𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐈𝐦𝐚𝐠𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: 𝟏𝟎 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞𝐬 𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐇𝐮𝐛](https://lnkd.in/g7hvTa8B)
+- [𝐘𝐀𝐌𝐋: 𝐓𝐨𝐩 𝟐𝟓 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐟𝐨𝐫 𝐋𝐞𝐚𝐫𝐧𝐞𝐫𝐬](https://lnkd.in/g5XJrZsa)
 - [𝐃𝐨𝐜𝐤𝐞𝐫 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐛𝐞𝐠𝐢𝐧𝐧𝐞𝐫𝐬 𝐠𝐮𝐢𝐝𝐞](https://lnkd.in/eegr8Keq)
+- [𝐒𝐭𝐞𝐩-𝐛𝐲-𝐒𝐭𝐞𝐩 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐂𝐨𝐦𝐩𝐨𝐬𝐞: 𝐆𝐞𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐓𝐨𝐝𝐚𝐲!](https://lnkd.in/gFgGszA8)
 - [Unlocking MongoDB Deployment with Docker and Mongo Express](https://lnkd.in/gYEUFBuK)
+- [Unlocking MongoDB Deployment with Docker Compose and Mongo Express](https://lnkd.in/gKj8e5hk)
+
 # Ansible
 - [Fundamental History in Ansible](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7024014894454763520-FRU_?utm_source=share&utm_medium=member_desktop)
 - [Basics of YAML](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7026233792755339266-rWgz?utm_source=share&utm_medium=member_desktop)
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐛𝐨𝐨𝐤](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
 - [Ansible Playbook, Roles and Handlers](https://medium.com/cloudnloud/deploying-simple-tasks-using-ansible-playbook-ansible-roles-and-handlers-6ba37597e2f7)
+- [𝐁𝐚𝐭𝐭𝐥𝐞 𝐨𝐟 𝐓𝐢𝐭𝐚𝐧𝐬: 𝐂𝐅𝐄𝐧𝐠𝐢𝐧𝐞 𝐯𝐬. 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 – 𝐖𝐡𝐢𝐜𝐡 𝐑𝐞𝐢𝐠𝐧𝐬 𝐒𝐮𝐩𝐫𝐞𝐦𝐞?](https://lnkd.in/gn_ZG8gu)
 
 # Jenkins
 
@@ -213,6 +225,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Top Webservers in Market](https://lnkd.in/gC8d56Zb)
 - [LinkedIn 8k Followers Milestone](https://lnkd.in/gnCwqJ2t)
 - [LinkedIn 8k Connection Milestone](https://shorturl.at/GKFIf)
+- [𝐇𝐓𝐌𝐋 𝐄𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐭𝐨 𝐃𝐎𝐌 𝐌𝐚𝐬𝐭𝐞𝐫𝐲: 𝐀 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫’𝐬 𝐉𝐨𝐮𝐫𝐧𝐞𝐲](https://lnkd.in/guTmaK62)
 
 # My Medium.com blogs Journey
 - [Azure Services by Category (Full list)](https://medium.com/cloudnloud/azure-services-list-by-category-as-on-26-jan-2023-8809c0f65938)
