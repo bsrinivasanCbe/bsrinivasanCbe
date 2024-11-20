@@ -114,7 +114,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐃𝐞𝐦𝐲𝐬𝐭𝐢𝐟𝐲𝐢𝐧𝐠 𝐉𝐒𝐎𝐍: 𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐆𝐮𝐢𝐝𝐞](https://lnkd.in/gHs4tqZj)
 - [𝐌𝐚𝐯𝐞𝐧 𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐞𝐝: 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐉𝐚𝐯𝐚 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 - 𝑷𝒂𝒓𝒕 1](https://lnkd.in/gtCjsTci)
 - [𝐌𝐚𝐯𝐞𝐧 𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐞𝐝: 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐉𝐚𝐯𝐚 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 - 𝑷𝒂𝒓𝒕 𝟐](https://lnkd.in/g6Xxa8Jm)
-- {𝐌𝐚𝐯𝐞𝐧 𝐀𝐫𝐜𝐡𝐞𝐭𝐲𝐩𝐞𝐬: 𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝𝐢𝐳𝐞 𝐚𝐧𝐝 𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐲 𝐘𝐨𝐮𝐫 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧}(https://lnkd.in/gFuVPWXR)
+- [𝐌𝐚𝐯𝐞𝐧 𝐀𝐫𝐜𝐡𝐞𝐭𝐲𝐩𝐞𝐬: 𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝𝐢𝐳𝐞 𝐚𝐧𝐝 𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐲 𝐘𝐨𝐮𝐫 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧](https://lnkd.in/gFuVPWXR)
 - [𝑺𝒐𝒏𝒂𝒓𝑸𝒖𝒃𝒆 𝒗𝒔. 𝑺𝒐𝒏𝒂𝒓𝑳𝒊𝒏𝒕: 𝑻𝒉𝒆 𝑼𝒍𝒕𝒊𝒎𝒂𝒕𝒆 𝑺𝒉𝒐𝒘𝒅𝒐𝒘𝒏 𝒇𝒐𝒓 𝑪𝒐𝒅𝒆 𝑸𝒖𝒂𝒍𝒊𝒕𝒚 𝑴𝒂𝒔𝒕𝒆𝒓𝒚!](https://lnkd.in/g7ztQST5)
 - [𝐒𝐨𝐧𝐚𝐫𝐐𝐮𝐛𝐞: 𝐄𝐧𝐬𝐮𝐫𝐢𝐧𝐠 𝐂𝐨𝐝𝐞 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐚𝐧𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲](https://shorturl.at/dhkq8)
 - [𝐒ᴏɴᴀʀ𝐐ᴜʙᴇ ᴠ𝐬. 𝐒ᴏɴᴀʀ𝐂ʟᴏᴜᴅ﹕ 𝐖ʜɪᴄʜ 𝐂ᴏᴅᴇ 𝐐ᴜᴀʟɪᴛʏ 𝐓ᴏᴏʟ ɪ𝐬 𝐑ɪɢʜᴛ ꜰᴏʀ 𝐘ᴏᴜ﹖](https://shorturl.at/S8Fa6)
@@ -237,7 +237,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [LinkedIn 8k Followers Milestone](https://lnkd.in/gnCwqJ2t)
 - [LinkedIn 8k Connection Milestone](https://shorturl.at/GKFIf)
 - [𝐇𝐓𝐌𝐋 𝐄𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐭𝐨 𝐃𝐎𝐌 𝐌𝐚𝐬𝐭𝐞𝐫𝐲: 𝐀 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫’𝐬 𝐉𝐨𝐮𝐫𝐧𝐞𝐲](https://lnkd.in/guTmaK62)
-- {𝐂𝐡𝐨𝐨𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐒𝐞𝐫𝐯𝐞𝐫: 𝐓𝐨𝐦𝐜𝐚𝐭, 𝐨𝐫 𝐂𝐥𝐨𝐮𝐝𝐟𝐥𝐚𝐫𝐞?}(https://lnkd.in/gQZRJFJq)
+- [𝐂𝐡𝐨𝐨𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐒𝐞𝐫𝐯𝐞𝐫: 𝐓𝐨𝐦𝐜𝐚𝐭, 𝐨𝐫 𝐂𝐥𝐨𝐮𝐝𝐟𝐥𝐚𝐫𝐞?](https://lnkd.in/gQZRJFJq)
 - [𝐍𝐆𝐈𝐍𝐗 𝐯𝐬. 𝐀𝐩𝐚𝐜𝐡𝐞𝟐: 𝐖𝐡𝐢𝐜𝐡 𝐒𝐞𝐫𝐯𝐞𝐫 𝐑𝐞𝐢𝐠𝐧𝐬 𝐒𝐮𝐩𝐫𝐞𝐦𝐞?](https://lnkd.in/gw5if3fC)
 
 # My Medium.com blogs Journey
