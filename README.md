@@ -112,6 +112,12 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Overview of DevOps](https://www.linkedin.com/feed/update/urn:li:activity:7014257420277350400?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7014257420277350400%29)
 - [DevOps - Continous Delivery Vs Continous Deployment](https://medium.com/cloudnloud/continuous-delivery-and-continuous-deployment-are-two-important-concepts-in-the-field-of-devops-d9618afe46a1)
 - [𝐃𝐞𝐦𝐲𝐬𝐭𝐢𝐟𝐲𝐢𝐧𝐠 𝐉𝐒𝐎𝐍: 𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐆𝐮𝐢𝐝𝐞](https://lnkd.in/gHs4tqZj)
+- [𝐌𝐚𝐯𝐞𝐧 𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐞𝐝: 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐉𝐚𝐯𝐚 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 - 𝑷𝒂𝒓𝒕 1](https://lnkd.in/gtCjsTci)
+- [𝐌𝐚𝐯𝐞𝐧 𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐞𝐝: 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐉𝐚𝐯𝐚 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 - 𝑷𝒂𝒓𝒕 𝟐](https://lnkd.in/g6Xxa8Jm)
+- {𝐌𝐚𝐯𝐞𝐧 𝐀𝐫𝐜𝐡𝐞𝐭𝐲𝐩𝐞𝐬: 𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝𝐢𝐳𝐞 𝐚𝐧𝐝 𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐲 𝐘𝐨𝐮𝐫 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧}(https://lnkd.in/gFuVPWXR)
+- [𝑺𝒐𝒏𝒂𝒓𝑸𝒖𝒃𝒆 𝒗𝒔. 𝑺𝒐𝒏𝒂𝒓𝑳𝒊𝒏𝒕: 𝑻𝒉𝒆 𝑼𝒍𝒕𝒊𝒎𝒂𝒕𝒆 𝑺𝒉𝒐𝒘𝒅𝒐𝒘𝒏 𝒇𝒐𝒓 𝑪𝒐𝒅𝒆 𝑸𝒖𝒂𝒍𝒊𝒕𝒚 𝑴𝒂𝒔𝒕𝒆𝒓𝒚!](https://lnkd.in/g7ztQST5)
+- [𝐒𝐨𝐧𝐚𝐫𝐐𝐮𝐛𝐞: 𝐄𝐧𝐬𝐮𝐫𝐢𝐧𝐠 𝐂𝐨𝐝𝐞 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐚𝐧𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲](https://shorturl.at/dhkq8)
+- [𝐒ᴏɴᴀʀ𝐐ᴜʙᴇ ᴠ𝐬. 𝐒ᴏɴᴀʀ𝐂ʟᴏᴜᴅ﹕ 𝐖ʜɪᴄʜ 𝐂ᴏᴅᴇ 𝐐ᴜᴀʟɪᴛʏ 𝐓ᴏᴏʟ ɪ𝐬 𝐑ɪɢʜᴛ ꜰᴏʀ 𝐘ᴏᴜ﹖](https://shorturl.at/S8Fa6)
 
 
 # Linux Distribution
@@ -134,10 +140,15 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [𝐒𝐭𝐞𝐩-𝐛𝐲-𝐒𝐭𝐞𝐩 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐃𝐨𝐜𝐤𝐞𝐫 𝐂𝐨𝐦𝐩𝐨𝐬𝐞: 𝐆𝐞𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐓𝐨𝐝𝐚𝐲!](https://lnkd.in/gFgGszA8)
 - [Unlocking MongoDB Deployment with Docker and Mongo Express](https://lnkd.in/gYEUFBuK)
 - [Unlocking MongoDB Deployment with Docker Compose and Mongo Express](https://lnkd.in/gKj8e5hk)
+- [𝐒𝐜𝐚𝐥𝐢𝐧𝐠 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐔𝐬𝐢𝐧𝐠 𝐃𝐨𝐜𝐤𝐞𝐫 𝐂𝐨𝐦𝐩𝐨𝐬𝐞: 𝐀 𝐐𝐮𝐢𝐜𝐤 𝐆𝐮𝐢𝐝𝐞](https://lnkd.in/gZBh-GGs)
+- [Unlocking MongoDB Deployment with Docker Compose and Mongo Express](https://lnkd.in/gqy8qzB7)
+- [𝐃𝐨𝐜𝐤𝐞𝐫 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐛𝐞𝐠𝐢𝐧𝐧𝐞𝐫𝐬 𝐠𝐮𝐢𝐝𝐞](https://lnkd.in/eegr8Keq)
+- [𝐌𝐢𝐧𝐢𝐦𝐢𝐳𝐞 𝐘𝐨𝐮𝐫 𝐃𝐨𝐜𝐤𝐞𝐫 𝐈𝐦𝐚𝐠𝐞 𝐒𝐢𝐳𝐞: 𝐁𝐞𝐬𝐭 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬 𝐚𝐧𝐝 𝐂𝐨𝐦𝐦𝐨𝐧 𝐏𝐢𝐭𝐟𝐚𝐥𝐥𝐬](https://shorturl.at/ZttA8)
 
 # Ansible
 - [Fundamental History in Ansible](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7024014894454763520-FRU_?utm_source=share&utm_medium=member_desktop)
 - [Basics of YAML](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7026233792755339266-rWgz?utm_source=share&utm_medium=member_desktop)
+- [𝐘𝐀𝐌𝐋: 𝐓𝐨𝐩 𝟐𝟓 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐟𝐨𝐫 𝐋𝐞𝐚𝐫𝐧𝐞𝐫𝐬](https://lnkd.in/g5XJrZsa)
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐛𝐨𝐨𝐤](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
 - [Ansible Playbook, Roles and Handlers](https://medium.com/cloudnloud/deploying-simple-tasks-using-ansible-playbook-ansible-roles-and-handlers-6ba37597e2f7)
@@ -163,6 +174,7 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Unlock Your Social Presence with GDPR](https://lnkd.in/g92TYdWZ)
 # .NET
 - [How .NET Core CLR Works and What are its main Features](https://lnkd.in/ghApcNvn)
+- [𝐇𝐨𝐰 𝐭𝐨 𝐂𝐫𝐞𝐚𝐭𝐞 𝐚 .𝐍𝐄𝐓 𝐂𝐨𝐫𝐞 𝐌𝐕𝐂 𝐖𝐞𝐛 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐟𝐫𝐨𝐦 𝐒𝐜𝐫𝐚𝐭𝐜𝐡](https://shorturl.at/ZRi4Y)
 
 # SQL
 
@@ -212,7 +224,6 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [Thriving as an Introvert: Overcoming Shyness in Professional and Personal Life](https://medium.com/cloudnloud/thriving-as-an-introvert-overcoming-shyness-in-professional-and-personal-life-39b6b9fa38fb)
 - [Embracing Self-Confidence: Empowering the Introvert Within](https://medium.com/cloudnloud/embracing-self-confidence-empowering-the-introvert-within-7d90b395c3f)
 - [The Vital Roles and Responsibilities of Site Reliability Engineering (SRE) Professionals](https://medium.com/cloudnloud/the-vital-roles-and-responsibilities-of-site-reliability-engineering-sre-professionals-c71f364f135)
-- [Preparing for Your First Technical Meeting in Public: Tips for Success](https://medium.com/cloudnloud/preparing-for-your-first-technical-meeting-in-public-tips-for-success-545ac1b3cc4a)
 - [The Blossoming of Lily: A Journey to Self-Confidence](https://medium.com/cloudnloud/the-blossoming-of-lily-a-journey-to-self-confidence-17d17a34031)
 - [The Indispensable Power of Self-Motivation](https://medium.com/@bsrinivasancbe/the-indispensable-power-of-self-motivation-9d43719879ea)
 - [Unleashing Your Personal Brand and Mastering Niche Selling Skills: A Path to Public Success](https://medium.com/@bsrinivasancbe/unleashing-your-personal-brand-and-mastering-niche-selling-skills-a-path-to-public-success-5064bde8907)
@@ -226,6 +237,8 @@ I am always on the lookout for new opportunities in the IT industry, and I am de
 - [LinkedIn 8k Followers Milestone](https://lnkd.in/gnCwqJ2t)
 - [LinkedIn 8k Connection Milestone](https://shorturl.at/GKFIf)
 - [𝐇𝐓𝐌𝐋 𝐄𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐭𝐨 𝐃𝐎𝐌 𝐌𝐚𝐬𝐭𝐞𝐫𝐲: 𝐀 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫’𝐬 𝐉𝐨𝐮𝐫𝐧𝐞𝐲](https://lnkd.in/guTmaK62)
+- {𝐂𝐡𝐨𝐨𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐒𝐞𝐫𝐯𝐞𝐫: 𝐓𝐨𝐦𝐜𝐚𝐭, 𝐨𝐫 𝐂𝐥𝐨𝐮𝐝𝐟𝐥𝐚𝐫𝐞?}(https://lnkd.in/gQZRJFJq)
+- [𝐍𝐆𝐈𝐍𝐗 𝐯𝐬. 𝐀𝐩𝐚𝐜𝐡𝐞𝟐: 𝐖𝐡𝐢𝐜𝐡 𝐒𝐞𝐫𝐯𝐞𝐫 𝐑𝐞𝐢𝐠𝐧𝐬 𝐒𝐮𝐩𝐫𝐞𝐦𝐞?](https://lnkd.in/gw5if3fC)
 
 # My Medium.com blogs Journey
 - [Azure Services by Category (Full list)](https://medium.com/cloudnloud/azure-services-list-by-category-as-on-26-jan-2023-8809c0f65938)
